@@ -4,59 +4,71 @@
   "category": "Real Estate Consultant",
   "templateType": "real_estate",
   "siteType": "new",
-  "tagline": "Premium Farmhouse, Industrial & Sea Beach Plots in Umbergaon",
-  "heroHeadline": "Verified Land & Property Investments in Umbergaon",
-  "heroSubheadline": "Specializing in coastal plots, farmhouse acreages, and high-growth industrial plots with clear titles and transparent documentation.",
-  "aboutStory": "Located along Coastal Highway, Umbergaon, Prinal Real Estate Property provides bespoke property advisory for investors and families looking for prime land assets. We prioritize direct consultations and verify every land parcel.",
-  "valueProposition": "Direct seller representation, transparent plot demarcations, and dedicated local guidance for sea-beach retreats and industrial expansions.",
+  "tagline": "Exclusive Land & Property Investments in Coastal Highway, Umbergaon",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across Umbergaon",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by Prinal Real Estate Property with verified titles and transparent documentation.",
+  "aboutStory": "Prinal Real Estate Property is a premier land advisory firm rooted along Coastal Highway, Umbergaon. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
   "services": [
     {
       "id": "s1",
-      "title": "Sea Beach & Coastal Plots",
-      "description": "Exclusive beachfront land parcels ideal for weekend villas, holiday homes, and scenic retreats in Umbergaon.",
-      "highlights": ["Clear title documentation", "High appreciation potential", "Direct coastal highway access"]
+      "title": "Sea Beach & Coastal Villa Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along Coastal Highway. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
     },
     {
       "id": "s2",
       "title": "Farm House & 1 Acre Acreages",
-      "description": "Spacious agricultural and NA farm house plots with fertile soil, water connectivity, and peaceful green surroundings.",
-      "highlights": ["Plot sizes from 0.5 to 5+ acres", "Fenced boundaries", "Immediate registration"]
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
     },
     {
       "id": "s3",
-      "title": "Industrial & Commercial Land",
-      "description": "Strategic industrial plots with road connectivity, power infrastructure, and logistics accessibility.",
-      "highlights": ["GIDC & corridor proximity", "Heavy transport access", "Zoned for manufacturing & warehousing"]
+      "title": "Industrial & Logistics Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
     }
   ],
   "features": [
     {
       "id": "f1",
-      "title": "Local Land Expertise",
-      "description": "In-depth market knowledge across Umbergaon coastal and industrial growth corridors."
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
     },
     {
       "id": "f2",
-      "title": "Clear Title Guarantee",
-      "description": "All properties undergo thorough title and revenue record verifications before listing."
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
     },
     {
       "id": "f3",
-      "title": "Direct WhatsApp Support",
-      "description": "Instant site visit scheduling and location sharing directly with the senior consultant."
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in Coastal Highway, Umbergaon."
     }
   ],
   "contact": {
     "phone": "+91 88663 59740",
     "phoneRaw": "8866359740",
-    "whatsappLink": "https://wa.me/918866359740?text=Hello%20Prinal%20Real%20Estate,%20I%20am%20interested%20in%20your%20property%20listings",
+    "whatsappLink": "https://wa.me/918866359740?text=Hello%20Prinal%20Real%20Estate%20Property,%20I%20saw%20your%20website%20concept%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
     "address": "Coastal Highway, Umbergaon, Gujarat",
     "googleMapsLink": "https://www.google.com/maps/place/Prinal+Real+Estate+Property,+Farm+House+Plot,+1+Acre+Plot,+Industrial+Plot,+Sea+Beach+Plot,+Umbergaon+Gujrat+Property/data=!4m7!3m6!1s0x3be72ba4210ec2c1:0x90b644c05e91015c!8m2!3d20.1631092!4d72.7476429!16s%2Fg%2F11qrqn38t8!19sChIJwcIOIaQr5zsRXAGRXsBEtpA?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1"
   },
-  "primaryCtaText": "Schedule a Site Visit",
+  "primaryCtaText": "Schedule VIP Site Visit",
   "secondaryCtaText": "Download Plot Layouts",
-  "accentColor": "#d97706",
-  "generatedAt": "2026-10-29T04:30:00Z",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-29T05:05:00Z",
   "disclaimer": {
     "isConcept": true,
     "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Prinal Real Estate Property. Not affiliated with or endorsed by Prinal Real Estate Property."

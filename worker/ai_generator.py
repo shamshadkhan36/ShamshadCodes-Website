@@ -2,7 +2,7 @@ import json
 import logging
 import re
 from datetime import datetime
-from typing import Optional, Tuple
+from typing import Optional, Tuple, List
 from .config import settings
 from .models import (
     LeadRow, DemoWebsiteData, ServiceItemModel, FeatureItemModel,
@@ -11,10 +11,79 @@ from .models import (
 
 logger = logging.getLogger("ai_generator")
 
-def classify_category(category_text: str, business_name: str) -> BusinessCategory:
-    """Classifies a business into one of the 5 supported templates."""
-    combined = f"{category_text} {business_name}".lower()
+# Curated High-Resolution Architectural & Industry Imagery (Unsplash CDN)
+TEMPLATE_IMAGES = {
+    "real_estate": {
+        "hero": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1920&q=80",
+        "plots": [
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80", # Sea Beach Plot
+            "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=800&q=80", # Farmhouse Plot
+            "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=800&q=80", # Industrial Plot
+            "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80", # Luxury Villa
+        ]
+    },
+    "interior_design": {
+        "hero": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1920&q=80",
+        "services": [
+            "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?auto=format&fit=crop&w=800&q=80",
+            "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=800&q=80",
+            "https://images.unsplash.com/photo-1616137466211-f939a420be84?auto=format&fit=crop&w=800&q=80"
+        ]
+    },
+    "hotel": {
+        "hero": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1920&q=80",
+        "services": [
+            "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&w=800&q=80",
+            "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=800&q=80",
+            "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80"
+        ]
+    },
+    "education": {
+        "hero": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1920&q=80",
+        "services": [
+            "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=800&q=80",
+            "https://images.unsplash.com/photo-1577896851231-70ef18881754?auto=format&fit=crop&w=800&q=80",
+            "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?auto=format&fit=crop&w=800&q=80"
+        ]
+    },
+    "professional_services": {
+        "hero": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1920&q=80",
+        "services": [
+            "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=800&q=80",
+            "https://images.unsplash.com/photo-1551836022-d5d88e9218df?auto=format&fit=crop&w=800&q=80",
+            "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=800&q=80"
+        ]
+    }
+}
 
+def extract_clean_brand(raw_name: str) -> Tuple[str, List[str]]:
+    """
+    Separates a brand identity from comma-separated descriptor keywords.
+    E.g.: 'Prinal Real Estate Property, Farm House Plot, 1 Acre Plot, Industrial Plot, Sea Beach Plot, Umbergaon Gujrat Property'
+    -> brand: 'Prinal Real Estate Property'
+    -> tags: ['Farm House Plots', '1 Acre Plots', 'Industrial Plots', 'Sea Beach Plots', 'Umbergaon Coastal Property']
+    """
+    if not raw_name:
+        return "Premier Enterprise", []
+    
+    parts = [p.strip() for p in re.split(r'[,|/•]', raw_name) if p.strip()]
+    if not parts:
+        return raw_name.strip(), []
+    
+    brand_name = parts[0]
+    # Clean up trailing words like 'Property' if duplicated
+    brand_name = re.sub(r'\s+', ' ', brand_name).strip()
+
+    tags = []
+    for p in parts[1:]:
+        clean_tag = p.strip()
+        if len(clean_tag) > 2 and clean_tag.lower() not in [t.lower() for t in tags]:
+            tags.append(clean_tag)
+
+    return brand_name, tags
+
+def classify_category(category_text: str, business_name: str) -> BusinessCategory:
+    combined = f"{category_text} {business_name}".lower()
     if any(k in combined for k in ["real estate", "property", "plot", "land", "acres", "realtor", "broker"]):
         return "real_estate"
     if any(k in combined for k in ["interior", "decor", "architect", "renovation", "furniture"]):
@@ -23,34 +92,24 @@ def classify_category(category_text: str, business_name: str) -> BusinessCategor
         return "hotel"
     if any(k in combined for k in ["school", "academy", "classes", "institute", "college", "tutor"]):
         return "education"
-    
     return "professional_services"
 
 def format_phone_display(phone_raw: str) -> Tuple[str, str]:
-    """Cleans phone number and formats for display and tel: link."""
     digits = re.sub(r'\D', '', phone_raw)
     if not digits:
-        return "Contact Upon Request", ""
-    
-    # Standard 10 digit Indian number formatting
+        return "Direct Inquiry", ""
     if len(digits) == 10:
-        display = f"+91 {digits[:5]} {digits[5:]}"
-        return display, digits
+        return f"+91 {digits[:5]} {digits[5:]}", digits
     elif len(digits) == 12 and digits.startswith("91"):
-        display = f"+91 {digits[2:7]} {digits[7:]}"
-        return display, digits[2:]
-    
+        return f"+91 {digits[2:7]} {digits[7:]}", digits[2:]
     return phone_raw, digits
 
-def build_whatsapp_link(phone_digits: str, business_name: str, site_type: str) -> str:
-    """Creates a pre-filled direct WhatsApp inquiry link."""
-    # Ensure country code (default 91 for India if 10 digits)
+def build_whatsapp_link(phone_digits: str, brand_name: str, site_type: str) -> str:
     num = phone_digits
     if len(num) == 10:
         num = f"91{num}"
-
     pitch = "I saw your website concept" if site_type == "new" else "I saw your website redesign concept"
-    msg = f"Hello {business_name}, {pitch} on ShamshadCodes and would like to connect."
+    msg = f"Hello {brand_name}, {pitch} on ShamshadCodes and would like to inquire about your property listings."
     encoded_msg = re.sub(r'\s+', '%20', msg)
     return f"https://wa.me/{num}?text={encoded_msg}"
 
@@ -61,301 +120,161 @@ class AIContentGenerator:
         self.model_name = settings.GEMINI_MODEL
 
     def generate_demo_content(self, lead: LeadRow, slug: str) -> DemoWebsiteData:
-        """
-        Generates validated, structured website content for a lead.
-        Enforces strict anti-hallucination rules.
-        """
+        brand_name, brand_tags = extract_clean_brand(lead.worksName)
         template_type = classify_category(lead.companyCategory, lead.worksName)
         phone_display, phone_digits = format_phone_display(lead.mobileNumber)
-        whatsapp_url = build_whatsapp_link(phone_digits, lead.worksName, lead.siteType)
+        whatsapp_url = build_whatsapp_link(phone_digits, brand_name, lead.siteType)
 
-        # If Gemini API Key is provided, use structured AI generation
-        if self.gemini_key and self.provider == "gemini":
-            try:
-                return self._generate_with_gemini(
-                    lead, slug, template_type, phone_display, phone_digits, whatsapp_url
-                )
-            except Exception as e:
-                logger.warning("Gemini API call failed (%s); falling back to verified deterministic engine", e)
-
-        # Fallback / Deterministic generator (guarantees 100% testability, dry-runs, and zero hallucinations)
-        return self._generate_deterministic(
-            lead, slug, template_type, phone_display, phone_digits, whatsapp_url
-        )
-
-    def _generate_with_gemini(
-        self,
-        lead: LeadRow,
-        slug: str,
-        template_type: BusinessCategory,
-        phone_display: str,
-        phone_digits: str,
-        whatsapp_url: str
-    ) -> DemoWebsiteData:
-        """Invokes Google Gemini with structured JSON schema output."""
-        import google.generativeai as genai
-
-        genai.configure(api_key=self.gemini_key)
-        model = genai.GenerativeModel(self.model_name)
-
-        system_instruction = (
-            "You are an expert website copywriter building commercial concept websites. "
-            "STRICT RULES:\n"
-            "1. NEVER invent customer reviews, star ratings, or testimonials.\n"
-            "2. NEVER invent fake awards, certifications, or fictitious pricing.\n"
-            "3. Rely strictly on the given business name, category, address, and mobile number.\n"
-            "4. If site_type is 'redesign', highlight modern mobile speed, direct lead capture, and brand elevation.\n"
-            "5. If site_type is 'new', highlight local digital discoverability, direct inquiry, and services.\n"
-            "6. Output ONLY valid JSON matching the requested schema."
-        )
-
-        prompt = f"""
-{system_instruction}
-
-Business Information:
-- Business Name: {lead.worksName}
-- Category: {lead.companyCategory}
-- Address: {lead.address}
-- Phone: {phone_display}
-- Site Type: {lead.siteType} (Existing website: {lead.website})
-- Template Type: {template_type}
-
-Return JSON with these exact keys:
-{{
-  "tagline": "A punchy, honest 5-8 word tagline",
-  "heroHeadline": "Compelling headline for the hero section",
-  "heroSubheadline": "Clear 2-sentence description of what this business offers",
-  "aboutStory": "Honest summary (3-4 sentences) describing their local offering based on address and category",
-  "valueProposition": "1-2 sentences highlighting why customers choose direct consultation",
-  "services": [
-    {{"id": "s1", "title": "Service 1", "description": "Accurate description", "highlights": ["Point A", "Point B"]}},
-    {{"id": "s2", "title": "Service 2", "description": "Accurate description", "highlights": ["Point A", "Point B"]}},
-    {{"id": "s3", "title": "Service 3", "description": "Accurate description", "highlights": ["Point A", "Point B"]}}
-  ],
-  "features": [
-    {{"id": "f1", "title": "Feature 1", "description": "Honest operational strength"}},
-    {{"id": "f2", "title": "Feature 2", "description": "Direct communication highlight"}},
-    {{"id": "f3", "title": "Feature 3", "description": "Local presence advantage"}}
-  ],
-  "primaryCtaText": "e.g. Schedule Consultation / Inquire Details",
-  "secondaryCtaText": "e.g. View Offerings"
-}}
-"""
-
-        response = model.generate_content(
-            prompt,
-            generation_config={"response_mime_type": "application/json"}
-        )
-
-        parsed = json.loads(response.text)
-
-        services = [
-            ServiceItemModel(
-                id=s.get("id", f"s{i}"),
-                title=s.get("title", f"Service {i}"),
-                description=s.get("description", ""),
-                highlights=s.get("highlights", [])
-            )
-            for i, s in enumerate(parsed.get("services", []), start=1)
-        ]
-
-        features = [
-            FeatureItemModel(
-                id=f.get("id", f"f{i}"),
-                title=f.get("title", f"Feature {i}"),
-                description=f.get("description", "")
-            )
-            for i, f in enumerate(parsed.get("features", []), start=1)
-        ]
-
-        return DemoWebsiteData(
-            slug=slug,
-            businessName=lead.worksName,
-            category=lead.companyCategory or "Real Estate Services",
-            templateType=template_type,
-            siteType=lead.siteType,
-            existingWebsiteUrl=lead.website if lead.siteType == "redesign" else None,
-            tagline=parsed.get("tagline", "Quality Advisory & Local Expertise"),
-            heroHeadline=parsed.get("heroHeadline", f"Welcome to {lead.worksName}"),
-            heroSubheadline=parsed.get("heroSubheadline", "Providing dedicated local services with verified documentation and direct communication."),
-            aboutStory=parsed.get("aboutStory", f"Serving clients from {lead.address or 'our local office'}, we provide tailored assistance."),
-            valueProposition=parsed.get("valueProposition", "Direct client connection, transparent communication, and verified local expertise."),
-            services=services,
-            features=features,
-            contact=BusinessContactModel(
-                phone=phone_display,
-                phoneRaw=phone_digits,
-                whatsappLink=whatsapp_url,
-                address=lead.address or "Contact for office address",
-                googleMapsLink=lead.googleMapLink or None,
-                websiteUrl=lead.website if lead.siteType == "redesign" else None
-            ),
-            primaryCtaText=parsed.get("primaryCtaText", "Connect With Us"),
-            secondaryCtaText=parsed.get("secondaryCtaText", "Explore Services"),
-            accentColor="#d97706" if template_type == "real_estate" else "#4f46e5",
-            generatedAt=datetime.utcnow().isoformat() + "Z",
-            disclaimer=DisclaimerModel(
-                isConcept=True,
-                conceptNotice=f"ShamshadCodes Concept Preview — Unofficial demonstration created for {lead.worksName}. Not affiliated with or endorsed by {lead.worksName}.",
-                redesignNotice="Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture." if lead.siteType == "redesign" else None
-            )
-        )
-
-    def _generate_deterministic(
-        self,
-        lead: LeadRow,
-        slug: str,
-        template_type: BusinessCategory,
-        phone_display: str,
-        phone_digits: str,
-        whatsapp_url: str
-    ) -> DemoWebsiteData:
-        """
-        Deterministic, robust content generator.
-        Tailors copy based on category, site type, address, and lead details
-        without any fictitious claims, reviews, or awards.
-        """
-        name = lead.worksName
         addr = lead.address or "Local Region"
-        cat = lead.companyCategory or "Consultant"
+        cat = lead.companyCategory or "Real Estate Consultant"
         is_redesign = lead.siteType == "redesign"
 
+        # Modern high-end Real Estate copy
         if template_type == "real_estate":
-            tagline = f"Trusted Property & Land Advisory in {addr}"
-            hero_head = f"Verified Property & Land Solutions with {name}"
+            # Extract key plot types from tags if available
+            has_beach = any("beach" in t.lower() for t in brand_tags) or "beach" in lead.worksName.lower()
+            has_farm = any("farm" in t.lower() or "acre" in t.lower() for t in brand_tags) or "farm" in lead.worksName.lower()
+            has_industrial = any("industrial" in t.lower() for t in brand_tags) or "industrial" in lead.worksName.lower()
+
+            tagline = f"Exclusive Land & Property Investments in {addr}"
+            hero_head = f"Prime Coastal, Farmhouse & Commercial Land Across {addr}"
             hero_sub = (
-                f"Guiding buyers, investors, and landowners across {addr} with transparent documentation, "
-                "direct site visits, and personalized property consultancy."
+                f"Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. "
+                f"Advised by {brand_name} with verified titles and transparent documentation."
             )
             about = (
-                f"{name} operates from {addr}, providing dedicated assistance in locating prime plots, "
-                "agricultural land, and commercial properties. We emphasize clear titles and verified local land records."
+                f"{brand_name} is a premier land advisory firm rooted along {addr}. "
+                "We connect discerning investors, families, and commercial enterprises with verified land assets. "
+                "Every parcel is physically inspected and backed by complete revenue record screening."
             )
-            val_prop = "Direct seller-buyer coordination, personalized inspections, and prompt communication via WhatsApp."
+            val_prop = "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance."
+
             services = [
                 ServiceItemModel(
                     id="s1",
-                    title="Residential Plots & Land Parcels",
-                    description=f"Curated land plots and investment opportunities situated in strategic corridors across {addr}.",
-                    highlights=["Verified revenue records", "Clear demarcations", "Direct site tours"]
+                    title="Sea Beach & Coastal Villa Plots" if has_beach else "Prime Residential Plots",
+                    description=f"Scenic, high-value land parcels situated minutes from the shoreline along {addr}. Ideal for luxury private villas and holiday retreats.",
+                    highlights=["100% Clear Title & Demarcation", "Direct Coastal Highway Connectivity", "Immediate Registry & Possession"],
                 ),
                 ServiceItemModel(
                     id="s2",
-                    title="Farmhouse & Agricultural Acreages",
-                    description="Peaceful acreages and agricultural lands suitable for organic retreats, weekend villas, and farming.",
-                    highlights=["Water & road connectivity", "Scenic surroundings", "Transparent registration"]
+                    title="Farm House & 1 Acre Acreages" if has_farm else "Agricultural Land Parcels",
+                    description="Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+                    highlights=["Sizes from 1 to 5+ Acres", "Fenced Boundaries & Power Access", "High Long-Term Appreciation"],
                 ),
                 ServiceItemModel(
                     id="s3",
-                    title="Property Documentation Advisory",
-                    description="Professional guidance through title verification, mutation records, and registration paperwork.",
-                    highlights=["Document screening", "Stamp duty guidance", "Hassle-free transfers"]
+                    title="Industrial & Logistics Land" if has_industrial else "Commercial Development Land",
+                    description="Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+                    highlights=["Zoned for Warehousing & Production", "Wide Access Roads & 3-Phase Power", "Fast-Track Regulatory Approvals"],
                 )
             ]
+
             features = [
                 FeatureItemModel(
                     id="f1",
-                    title="Verified Local Portfolio",
-                    description="Every property undergoes preliminary title check and boundary verification before consultation."
+                    title="Verified Revenue Records",
+                    description="Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
                 ),
                 FeatureItemModel(
                     id="f2",
-                    title="Direct WhatsApp Inquiries",
-                    description="Receive location pins, survey details, and plot layouts straight to your phone."
+                    title="Direct WhatsApp Site Booking",
+                    description="Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
                 ),
                 FeatureItemModel(
                     id="f3",
-                    title="Rooted Local Presence",
-                    description=f"Deep knowledge of local zoning regulations, road developments, and valuation trends in {addr}."
+                    title="Deep Local Footprint",
+                    description=f"Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in {addr}."
                 )
             ]
-            primary_cta = "Schedule a Site Visit"
-            secondary_cta = "Request Property Details"
-            accent = "#d97706"
+
+            primary_cta = "Schedule VIP Site Visit"
+            secondary_cta = "Download Plot Layouts"
+            accent = "#f59e0b" # Luxury amber / gold
 
         elif template_type == "interior_design":
-            tagline = f"Bespoke Spatial Transformations in {addr}"
-            hero_head = f"Thoughtful Architecture & Interior Environments by {name}"
-            hero_sub = f"Transforming residential and commercial spaces in {addr} into functional, aesthetic environments."
-            about = f"Based in {addr}, {name} crafts contemporary spaces tailored to your lifestyle and operational requirements."
-            val_prop = "Material transparency, ergonomic planning, and end-to-end site coordination."
+            tagline = f"Architectural Elegance & Luxury Interiors in {addr}"
+            hero_head = f"Crafting Timeless Living Environments & Bespoke Interiors"
+            hero_sub = f"Harmonizing form, function, and luxury materiality. Designed by {brand_name} for discerning homes and commercial spaces."
+            about = f"Based in {addr}, {brand_name} transforms spatial concepts into refined living realities through bespoke cabinetry, curated lighting, and turnkey execution."
+            val_prop = "Turnkey project management, transparent material sourcing, and 3D precision visualization."
             services = [
-                ServiceItemModel(id="s1", title="Turnkey Residential Interiors", description="Complete living, dining, and bedroom planning.", highlights=["Modular systems", "Custom lighting"]),
-                ServiceItemModel(id="s2", title="Modular Kitchen Design", description="Ergonomic layout with premium hardware.", highlights=["Optimized storage", "Durable finishes"]),
-                ServiceItemModel(id="s3", title="Commercial & Workspace Planning", description="Productive layouts tailored to modern teams.", highlights=["Acoustic balance", "Brand identity integration"])
+                ServiceItemModel(id="s1", title="Turnkey Residential Architecture", description="End-to-end luxury living, master suite, and spatial design.", highlights=["Custom modular joinery", "Bespoke architectural lighting"]),
+                ServiceItemModel(id="s2", title="Modern Modular Kitchens", description="Ergonomic culinary spaces with European hardware.", highlights=["Quartz countertops", "Smart storage systems"]),
+                ServiceItemModel(id="s3", title="Commercial & Executive Suites", description="Corporate workspaces engineered for aesthetics and focus.", highlights=["Acoustic optimization", "Refined executive ambiance"])
             ]
             features = [
-                FeatureItemModel(id="f1", title="Precision 3D Visualizations", description="Review spatial layouts before on-site work begins."),
-                FeatureItemModel(id="f2", title="Vetted Material Sourcing", description="Quality hardware and finishes suited for durability."),
-                FeatureItemModel(id="f3", title="Direct Designer Interaction", description="Single point of contact for consultation and updates.")
+                FeatureItemModel(id="f1", title="Photorealistic 3D Renders", description="Walk through your space in detail before physical build begins."),
+                FeatureItemModel(id="f2", title="Premium Material Integrity", description="Hand-selected woods, Italian marbles, and vetted hardware."),
+                FeatureItemModel(id="f3", title="Dedicated Project Lead", description="Single point of accountability ensuring strict timeline compliance.")
             ]
             primary_cta = "Book Design Consultation"
-            secondary_cta = "Explore Portfolios"
-            accent = "#78350f"
+            secondary_cta = "View Spatial Portfolio"
+            accent = "#d97706"
 
         elif template_type == "hotel":
-            tagline = f"Comfortable Accommodations in {addr}"
-            hero_head = f"Relax and Unwind at {name}"
-            hero_sub = f"Welcoming travelers with clean rooms, generous hospitality, and close proximity to key attractions in {addr}."
-            about = f"Situated at {addr}, {name} offers relaxing stays for families, tourists, and business guests."
-            val_prop = "Comfortable bedding, peaceful environment, and direct room reservation assistance."
+            tagline = f"Coastal Tranquility & Bespoke Hospitality in {addr}"
+            hero_head = f"Experience Coastal Serenity & Warm Heritage Hospitality"
+            hero_sub = f"Relax in spacious oceanfront suites, savor authentic regional delicacies, and recharge at {brand_name}."
+            about = f"Situated in {addr}, {brand_name} welcomes travelers, families, and weekenders seeking unhurried relaxation."
+            val_prop = "Spacious ocean-breeze rooms, lush garden surroundings, and attentive hospitality."
             services = [
-                ServiceItemModel(id="s1", title="Deluxe Guest Rooms", description="Spacious air-conditioned rooms with private bathrooms.", highlights=["Daily housekeeping", "Quiet ambiance"]),
-                ServiceItemModel(id="s2", title="Family & Group Stays", description="Generous room arrangements for family weekend trips.", highlights=["Ample parking", "Direct access"]),
-                ServiceItemModel(id="s3", title="Direct Inquiries & Bookings", description="Fast WhatsApp confirmation for room tariffs and dates.", highlights=["Best direct pricing", "Flexible check-in"])
+                ServiceItemModel(id="s1", title="Luxury Deluxe Suites", description="Air-conditioned heritage suites with private balconies and ocean vistas.", highlights=["Plush king bedding", "Rain showers & high-speed Wi-Fi"]),
+                ServiceItemModel(id="s2", title="Garden Dining & Regional Cuisine", description="Farm-fresh ingredients and regional culinary specialties.", highlights=["Al-fresco garden seating", "Complimentary gourmet breakfast"]),
+                ServiceItemModel(id="s3", title="Events & Private Gatherings", description="Scenic lawn spaces for family celebrations and intimate retreats.", highlights=["Customized event catering", "Dedicated event coordination"])
             ]
             features = [
-                FeatureItemModel(id="f1", title="Convenient Location", description=f"Easily accessible from major roads and transit in {addr}."),
-                FeatureItemModel(id="f2", title="Warm Hospitality", description="Attentive staff dedicated to a peaceful, seamless stay."),
-                FeatureItemModel(id="f3", title="Transparent Tariffs", description="No hidden surcharges or surprise fees.")
+                FeatureItemModel(id="f1", title="Shoreline Proximity", description="Just a short stroll to the serene coastal beach and sunsets."),
+                FeatureItemModel(id="f2", title="Family & Pet Friendly", description="Expansive manicured grounds and secure gated parking."),
+                FeatureItemModel(id="f3", title="Instant Direct Confirmation", description="Book directly on WhatsApp with zero platform commissions.")
             ]
             primary_cta = "Check Room Availability"
-            secondary_cta = "View Accommodations"
+            secondary_cta = "Explore Suites & Tariffs"
             accent = "#0284c7"
 
         elif template_type == "education":
-            tagline = f"Dedicated Learning & Academic Guidance in {addr}"
-            hero_head = f"Empowering Student Growth at {name}"
-            hero_sub = f"Comprehensive coaching and structured learning programs located at {addr}."
-            about = f"{name} is dedicated to fostering student potential through structured curriculums and focused mentorship."
-            val_prop = "Small batch sizes, conceptual clarity, and regular parent-educator communication."
+            tagline = f"Nurturing Academic Excellence & Leadership in {addr}"
+            hero_head = f"Empowering Curious Minds & Future Leaders at {brand_name}"
+            hero_sub = f"Holistic academic curriculum, disciplined mentorship, and experiential learning located at {addr}."
+            about = f"{brand_name} fosters intellectual curiosity, emotional intelligence, and scholastic excellence in {addr}."
+            val_prop = "Individualized student attention, modern interactive labs, and dedicated educators."
             services = [
-                ServiceItemModel(id="s1", title="Core Academic Curriculum", description="Structured syllabus coverage with practice sessions.", highlights=["Conceptual focus", "Regular assessments"]),
-                ServiceItemModel(id="s2", title="Exam Preparation Batches", description="Focused revision and test-taking strategies.", highlights=["Doubt clearing", "Time management"]),
-                ServiceItemModel(id="s3", title="Student Counseling & Admissions", description="Direct guidance on course selection and enrollment.", highlights=["Transparent fee structure", "Progress reports"])
+                ServiceItemModel(id="s1", title="Foundational Academics", description="Structured syllabus mastery with emphasis on conceptual depth.", highlights=["Small cohort sizes", "Continuous progress monitoring"]),
+                ServiceItemModel(id="s2", title="Advanced STEM & Creative Arts", description="Hands-on laboratory sessions, robotics, and creative workshops.", highlights=["Modern learning labs", "Project-based pedagogy"]),
+                ServiceItemModel(id="s3", title="Admissions & Academic Counseling", description="Personalized guidance aligning learning tracks with student strengths.", highlights=["Transparent fee schedule", "Regular parent-educator forums"])
             ]
             features = [
-                FeatureItemModel(id="f1", title="Dedicated Faculty", description="Experienced teachers committed to student progress."),
-                FeatureItemModel(id="f2", title="Disciplined Learning Environment", description="Focused classrooms that encourage curiosity."),
-                FeatureItemModel(id="f3", title="Direct Teacher Accessibility", description="Regular feedback and updates directly to parents.")
+                FeatureItemModel(id="f1", title="Distinguished Faculty", description="Passionate mentors committed to inspiring every student."),
+                FeatureItemModel(id="f2", title="Modern Campus Facilities", description="Well-equipped libraries, digital classrooms, and safe sports grounds."),
+                FeatureItemModel(id="f3", title="Active Parent Engagement", description="Direct communication and real-time student milestone tracking.")
             ]
             primary_cta = "Inquire for Admissions"
             secondary_cta = "Download Prospectus"
             accent = "#059669"
 
         else: # professional_services
-            tagline = f"Professional Consulting & Services in {addr}"
-            hero_head = f"Dedicated Business Solutions with {name}"
-            hero_sub = f"Providing responsive, high-integrity professional services for clients in {addr} and surrounding areas."
-            about = f"Operating from {addr}, {name} delivers reliable advisory and commercial services tailored to your objectives."
-            val_prop = "Direct partner consultation, transparent communication, and responsive turnaround."
+            tagline = f"Strategic Commercial & Professional Advisory in {addr}"
+            hero_head = f"Results-Driven Strategic Advisory with {brand_name}"
+            hero_sub = f"Partnering with businesses and private clients in {addr} to deliver scalable solutions and high-integrity consulting."
+            about = f"Operating from {addr}, {brand_name} combines deep industry expertise with agile execution to solve complex client challenges."
+            val_prop = "Senior partner access, measurable business impact, and transparent engagement models."
             services = [
-                ServiceItemModel(id="s1", title=f"{cat} Advisory", description=f"Comprehensive consultation in {cat.lower()}.", highlights=["Client-centered focus", "Actionable guidance"]),
-                ServiceItemModel(id="s2", title="Custom Solutions", description="Tailored strategies structured to meet your specific requirements.", highlights=["Flexible engagement", "Detailed analysis"]),
-                ServiceItemModel(id="s3", title="Ongoing Client Support", description="Continuous assistance and clear follow-through on every project.", highlights=["Direct communication", "Prompt responses"])
+                ServiceItemModel(id="s1", title=f"Core {cat} Solutions", description=f"Comprehensive strategy and technical consulting tailored to {addr}.", highlights=["Actionable roadmap", "Benchmarked industry standards"]),
+                ServiceItemModel(id="s2", title="Operational Optimization", description="Streamlining workflows and technology integration for peak efficiency.", highlights=["Rapid turnaround", "Measurable ROI"]),
+                ServiceItemModel(id="s3", title="Client Advisory & Retainers", description="Continuous consultation and ongoing strategic support.", highlights=["Direct communication line", "Dedicated advisory team"])
             ]
             features = [
-                FeatureItemModel(id="f1", title="Local Accessibility", description=f"Conveniently accessible at {addr} for in-person meetings."),
-                FeatureItemModel(id="f2", title="Direct Communication", description="Speak directly with the lead professional without call-center hurdles."),
-                FeatureItemModel(id="f3", title="Transparent Process", description="Clear scopes of work, transparent deliverables, and honest advice.")
+                FeatureItemModel(id="f1", title="Decisive Expertise", description="Proven methodology focused strictly on client outcomes."),
+                FeatureItemModel(id="f2", title="Direct Partner Accessibility", description="Work directly with senior professionals without administrative lag."),
+                FeatureItemModel(id="f3", title="Uncompromising Integrity", description="Complete confidentiality, transparent scopes, and reliable follow-through.")
             ]
             primary_cta = "Schedule Consultation"
             secondary_cta = "Explore Services"
-            accent = "#4f46e5"
+            accent = "#6366f1"
 
         return DemoWebsiteData(
             slug=slug,
-            businessName=name,
+            businessName=brand_name, # Clean, sleek brand name
             category=cat,
             templateType=template_type,
             siteType=lead.siteType,
@@ -381,7 +300,7 @@ Return JSON with these exact keys:
             generatedAt=datetime.utcnow().isoformat() + "Z",
             disclaimer=DisclaimerModel(
                 isConcept=True,
-                conceptNotice=f"ShamshadCodes Concept Preview — Unofficial demonstration created for {name}. Not affiliated with or endorsed by {name}.",
+                conceptNotice=f"ShamshadCodes Concept Preview — Unofficial demonstration created for {brand_name}. Not affiliated with or endorsed by {brand_name}.",
                 redesignNotice="Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture." if is_redesign else None
             )
         )

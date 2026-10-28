@@ -5,120 +5,185 @@ import { ContactBar } from '../components/ContactBar';
 import { LeadInquiryModal } from '../components/LeadInquiryModal';
 import {
   MapPin, Phone, MessageCircle, Building2, CheckCircle2,
-  Compass, ShieldCheck, ArrowRight, Home, Sparkles
+  Compass, ShieldCheck, ArrowRight, Home, Sparkles, Calendar,
+  FileCheck, Trees, Waves, Factory, Navigation, ChevronRight,
+  Clock, Share2
 } from 'lucide-react';
 
 interface TemplateProps {
   demo: DemoContent;
 }
 
+// Curated high-res imagery for property types
+const PROPERTY_IMAGES = [
+  {
+    category: 'beach',
+    image: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1000&q=80',
+    badge: 'Coastal Prime',
+    tag: 'Beachfront Plot',
+    specs: 'Direct Shoreline Access • Clear NA Title'
+  },
+  {
+    category: 'farm',
+    image: 'https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1000&q=80',
+    badge: 'Green Acreage',
+    tag: 'Farmhouse Plot',
+    specs: '1 to 5+ Acres • Fenced & Water Table'
+  },
+  {
+    category: 'industrial',
+    image: 'https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=1000&q=80',
+    badge: 'High Appreciation',
+    tag: 'Industrial / Commercial',
+    specs: 'Highway Frontage • 3-Phase Power'
+  },
+  {
+    category: 'residential',
+    image: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1000&q=80',
+    badge: 'Exclusive',
+    tag: 'Gated Villa Land',
+    specs: 'Immediate Registry • Gated Enclave'
+  }
+];
+
 export const RealEstateTemplate: React.FC<TemplateProps> = ({ demo }) => {
   const [inquiryOpen, setInquiryOpen] = useState(false);
+  const [activeFilter, setActiveFilter] = useState('ALL');
+  const [selectedDate, setSelectedDate] = useState('');
+  const [selectedSlot, setSelectedSlot] = useState('Morning (10:00 AM)');
+
+  // Clean, elegant display name
+  const brandName = demo.businessName.split(/[,|/•]/)[0].trim();
+
+  const handleBookingSubmit = (e: React.FormEvent) => {
+    e.preventDefault();
+    const text = encodeURIComponent(
+      `Hello ${brandName}, I would like to schedule a private site visit for ${selectedDate || 'this weekend'} (${selectedSlot}). Please share details.`
+    );
+    window.open(`https://wa.me/91${demo.contact.phoneRaw}?text=${text}`, '_blank');
+  };
 
   return (
-    <div className="min-h-screen bg-slate-50 text-slate-900 pb-20 sm:pb-0 font-sans selection:bg-amber-100 selection:text-amber-900">
-      {/* 1. Unapproved Concept Disclaimer Banner */}
+    <div className="min-h-screen bg-slate-950 text-slate-100 font-sans selection:bg-amber-500 selection:text-slate-950 pb-20 sm:pb-0">
+      {/* 1. Official Concept Disclaimer Banner */}
       <ConceptBanner
-        businessName={demo.businessName}
+        businessName={brandName}
         isRedesign={demo.siteType === 'redesign'}
         existingUrl={demo.existingWebsiteUrl}
       />
 
-      {/* 2. Top Navigation */}
-      <nav className="bg-white/90 backdrop-blur-md sticky top-10 sm:top-9 z-40 border-b border-slate-200">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
-          <div className="flex items-center space-x-3">
-            <div className="w-10 h-10 rounded-xl bg-gradient-to-tr from-amber-600 to-amber-400 text-white flex items-center justify-center shadow-md">
-              <Building2 className="w-5 h-5" />
+      {/* 2. Glassmorphic Navigation Bar */}
+      <nav className="bg-slate-900/80 backdrop-blur-xl sticky top-10 sm:top-9 z-40 border-b border-slate-800/80 transition">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-20 flex items-center justify-between">
+          <div className="flex items-center space-x-3.5">
+            <div className="w-11 h-11 rounded-2xl bg-gradient-to-tr from-amber-600 via-amber-500 to-yellow-400 text-slate-950 flex items-center justify-center font-extrabold shadow-lg shadow-amber-500/20">
+              <Building2 className="w-6 h-6 stroke-[2.2]" />
             </div>
             <div>
-              <span className="font-extrabold text-base sm:text-lg tracking-tight text-slate-900 line-clamp-1">
-                {demo.businessName}
+              <span className="font-extrabold text-base sm:text-xl tracking-tight text-white block">
+                {brandName}
               </span>
-              <span className="text-[11px] font-medium text-amber-700 block tracking-wide uppercase">
-                {demo.category}
+              <span className="text-[11px] font-semibold text-amber-400/90 tracking-widest uppercase block mt-0.5">
+                {demo.category || "Luxury Land & Property Advisory"}
               </span>
             </div>
           </div>
 
-          <div className="hidden md:flex items-center space-x-4">
+          <div className="hidden md:flex items-center space-x-5">
             <a
               href={`tel:${demo.contact.phoneRaw}`}
-              className="flex items-center gap-2 text-sm font-semibold text-slate-700 hover:text-amber-600 transition"
+              className="flex items-center gap-2 text-xs font-semibold text-slate-300 hover:text-amber-400 transition"
             >
-              <Phone className="w-4 h-4 text-amber-600" />
+              <div className="w-8 h-8 rounded-full bg-slate-800 flex items-center justify-center">
+                <Phone className="w-3.5 h-3.5 text-amber-400" />
+              </div>
               <span>{demo.contact.phone}</span>
             </a>
 
             <button
               onClick={() => setInquiryOpen(true)}
-              className="bg-amber-600 hover:bg-amber-500 text-white px-4 py-2 rounded-lg text-sm font-semibold transition shadow-sm active:scale-95"
+              className="bg-gradient-to-r from-amber-500 to-amber-600 hover:from-amber-400 hover:to-amber-500 text-slate-950 px-5 py-2.5 rounded-xl text-xs font-bold transition shadow-lg shadow-amber-500/20 flex items-center gap-1.5 active:scale-95"
             >
-              Request Property Details
+              <Calendar className="w-3.5 h-3.5" />
+              <span>Schedule VIP Visit</span>
             </button>
           </div>
         </div>
       </nav>
 
-      {/* 3. Hero Section */}
-      <section className="relative bg-gradient-to-b from-slate-900 via-slate-800 to-slate-900 text-white pt-16 pb-24 px-4 sm:px-6 lg:px-8 overflow-hidden">
-        <div className="absolute inset-0 opacity-10 bg-[radial-gradient(#f59e0b_1px,transparent_1px)] [background-size:16px_16px]"></div>
-        <div className="max-w-4xl mx-auto text-center relative z-10">
-          <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-amber-500/10 border border-amber-500/30 text-amber-300 text-xs font-semibold mb-6">
-            <Compass className="w-3.5 h-3.5 text-amber-400" />
-            <span>Trusted Local Property Advisory</span>
+      {/* 3. Hero Section with Luxury Architecture Background */}
+      <header className="relative min-h-[620px] flex items-center justify-center py-20 px-4 sm:px-6 lg:px-8 overflow-hidden">
+        {/* Background photo with cinematic dark gradient overlay */}
+        <div
+          className="absolute inset-0 bg-cover bg-center bg-no-repeat scale-105 transform animate-pulse duration-10000"
+          style={{
+            backgroundImage: `url('https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1920&q=80')`,
+          }}
+        ></div>
+        <div className="absolute inset-0 bg-gradient-to-b from-slate-950/90 via-slate-950/80 to-slate-950"></div>
+        <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-amber-500/10 via-transparent to-transparent"></div>
+
+        <div className="max-w-5xl mx-auto text-center relative z-10">
+          {/* Badge */}
+          <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-amber-500/10 border border-amber-500/30 text-amber-300 text-xs font-semibold mb-6 backdrop-blur-md">
+            <Sparkles className="w-3.5 h-3.5 text-amber-400 animate-spin" />
+            <span className="tracking-wide uppercase">Verified Coastal & Farmhouse Acreages</span>
           </div>
 
-          <h1 className="text-3xl sm:text-5xl font-extrabold tracking-tight leading-tight text-white">
+          {/* Main Headline */}
+          <h1 className="text-3xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight text-white leading-tight">
             {demo.heroHeadline}
           </h1>
 
-          <p className="mt-5 text-base sm:text-lg text-slate-300 max-w-2xl mx-auto leading-relaxed">
+          {/* Subheadline */}
+          <p className="mt-6 text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             {demo.heroSubheadline}
           </p>
 
-          <div className="mt-8 flex flex-col sm:flex-row items-center justify-center gap-3">
+          {/* CTA Group */}
+          <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">
             <a
               href={demo.contact.whatsappLink}
               target="_blank"
               rel="noopener noreferrer"
-              className="w-full sm:w-auto px-6 py-3.5 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-semibold text-sm transition shadow-lg flex items-center justify-center gap-2"
+              className="w-full sm:w-auto px-7 py-4 rounded-xl bg-gradient-to-r from-emerald-500 to-teal-600 hover:from-emerald-400 hover:to-teal-500 text-white font-bold text-sm transition shadow-xl shadow-emerald-950/40 flex items-center justify-center gap-2.5 active:scale-95"
             >
-              <MessageCircle className="w-4 h-4" />
+              <MessageCircle className="w-4 h-4 fill-white" />
               <span>Direct WhatsApp Inquiry</span>
             </a>
 
             <button
               onClick={() => setInquiryOpen(true)}
-              className="w-full sm:w-auto px-6 py-3.5 rounded-xl bg-white/10 hover:bg-white/20 text-white font-semibold text-sm border border-white/20 transition flex items-center justify-center gap-2 backdrop-blur-sm"
+              className="w-full sm:w-auto px-7 py-4 rounded-xl bg-slate-900/90 hover:bg-slate-800 text-white font-semibold text-sm border border-slate-700 transition flex items-center justify-center gap-2 backdrop-blur-md active:scale-95 shadow-xl"
             >
-              <span>{demo.primaryCtaText || "Explore Opportunities"}</span>
-              <ArrowRight className="w-4 h-4" />
+              <span>{demo.primaryCtaText || "Explore Land Opportunities"}</span>
+              <ArrowRight className="w-4 h-4 text-amber-400" />
             </button>
           </div>
 
+          {/* Address Tag */}
           {demo.contact.address && (
-            <div className="mt-8 inline-flex items-center gap-1.5 text-xs text-slate-400">
+            <div className="mt-8 inline-flex items-center gap-2 text-xs text-slate-400 bg-slate-900/70 border border-slate-800 px-4 py-1.5 rounded-full backdrop-blur-md">
               <MapPin className="w-3.5 h-3.5 text-rose-400" />
               <span>{demo.contact.address}</span>
             </div>
           )}
         </div>
-      </section>
+      </header>
 
-      {/* 4. Strategic Strengths / Features */}
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 -mt-10 relative z-20">
+      {/* 4. Luxury Floating Highlights Bar */}
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 -mt-12 relative z-20">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-          {demo.features.map((feat) => (
+          {demo.features.map((feat, idx) => (
             <div
               key={feat.id}
-              className="bg-white p-6 rounded-2xl shadow-xl border border-slate-100 hover:shadow-2xl transition duration-300"
+              className="bg-slate-900/95 border border-slate-800 rounded-2xl p-6 shadow-2xl backdrop-blur-xl hover:border-amber-500/40 transition duration-300"
             >
-              <div className="w-10 h-10 rounded-xl bg-amber-50 text-amber-600 flex items-center justify-center mb-4">
-                <ShieldCheck className="w-5 h-5" />
+              <div className="w-12 h-12 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center mb-4">
+                <ShieldCheck className="w-6 h-6" />
               </div>
-              <h2 className="text-base font-bold text-slate-900">{feat.title}</h2>
-              <p className="mt-2 text-xs sm:text-sm text-slate-600 leading-relaxed">
+              <h2 className="text-base font-bold text-white tracking-wide">{feat.title}</h2>
+              <p className="mt-2 text-xs sm:text-sm text-slate-400 leading-relaxed">
                 {feat.description}
               </p>
             </div>
@@ -126,143 +191,246 @@ export const RealEstateTemplate: React.FC<TemplateProps> = ({ demo }) => {
         </div>
       </section>
 
-      {/* 5. Services & Portfolios */}
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
-        <div className="text-center max-w-2xl mx-auto mb-12">
-          <span className="text-xs font-bold text-amber-600 uppercase tracking-wider">Property Portfolio</span>
-          <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 mt-2">
-            Tailored Real Estate Solutions
-          </h2>
-          <p className="text-sm text-slate-600 mt-2">
-            Explore property consultation, agricultural plots, residential developments, and commercial properties.
-          </p>
+      {/* 5. Curated Property Showcase with High-Res Photography */}
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24">
+        <div className="flex flex-col md:flex-row md:items-end justify-between mb-12">
+          <div>
+            <div className="inline-flex items-center gap-1.5 text-amber-400 text-xs font-bold tracking-widest uppercase mb-2">
+              <Home className="w-3.5 h-3.5" />
+              <span>Featured Portfolios</span>
+            </div>
+            <h2 className="text-2xl sm:text-4xl font-extrabold text-white tracking-tight">
+              Prime Land & Property Offerings
+            </h2>
+            <p className="text-sm text-slate-400 mt-2 max-w-xl">
+              Verified coastal plots, fertile agricultural acreages, and industrial developments in {demo.contact.address}.
+            </p>
+          </div>
+
+          <div className="mt-6 md:mt-0 flex items-center gap-2">
+            <span className="text-xs text-slate-400 mr-2">Advisory Status:</span>
+            <span className="px-3 py-1 rounded-full bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 text-xs font-semibold flex items-center gap-1.5">
+              <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
+              <span>Available for Inspection</span>
+            </span>
+          </div>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {demo.services.map((service) => (
-            <div
-              key={service.id}
-              className="bg-white rounded-2xl overflow-hidden border border-slate-200/80 shadow-sm hover:border-amber-300 hover:shadow-md transition flex flex-col justify-between"
-            >
-              <div className="p-6">
-                <div className="w-10 h-10 rounded-lg bg-slate-900 text-amber-400 flex items-center justify-center mb-4">
-                  <Home className="w-5 h-5" />
+        {/* Property Grid */}
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+          {demo.services.map((service, index) => {
+            const photo = PROPERTY_IMAGES[index % PROPERTY_IMAGES.length];
+
+            return (
+              <div
+                key={service.id}
+                className="group bg-slate-900 border border-slate-800 rounded-3xl overflow-hidden shadow-2xl hover:border-amber-500/40 transition duration-500 flex flex-col justify-between"
+              >
+                <div>
+                  {/* Photo with Overlay Badge */}
+                  <div className="relative h-60 w-full overflow-hidden bg-slate-800">
+                    <img
+                      src={photo.image}
+                      alt={service.title}
+                      className="w-full h-full object-cover group-hover:scale-110 transition duration-700 ease-out"
+                    />
+                    <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-transparent to-transparent"></div>
+                    <div className="absolute top-4 left-4 flex gap-2">
+                      <span className="px-3 py-1 rounded-full bg-slate-950/80 backdrop-blur-md text-amber-400 font-bold text-[10px] tracking-wider uppercase border border-amber-500/30">
+                        {photo.badge}
+                      </span>
+                    </div>
+                    <div className="absolute bottom-3 left-4 right-4">
+                      <span className="text-[11px] font-medium text-slate-300 flex items-center gap-1">
+                        <MapPin className="w-3 h-3 text-rose-400" />
+                        <span>{demo.contact.address}</span>
+                      </span>
+                    </div>
+                  </div>
+
+                  {/* Body Content */}
+                  <div className="p-6">
+                    <h3 className="text-lg font-bold text-white group-hover:text-amber-400 transition">
+                      {service.title}
+                    </h3>
+                    <p className="mt-2.5 text-xs sm:text-sm text-slate-400 leading-relaxed">
+                      {service.description}
+                    </p>
+
+                    {/* Highlights */}
+                    {service.highlights && service.highlights.length > 0 && (
+                      <div className="mt-5 space-y-2 border-t border-slate-800/80 pt-4">
+                        {service.highlights.map((h, i) => (
+                          <div key={i} className="flex items-center text-xs text-slate-300 gap-2">
+                            <CheckCircle2 className="w-3.5 h-3.5 text-emerald-400 flex-shrink-0" />
+                            <span>{h}</span>
+                          </div>
+                        ))}
+                      </div>
+                    )}
+                  </div>
                 </div>
-                <h3 className="text-lg font-bold text-slate-900">{service.title}</h3>
-                <p className="mt-2 text-sm text-slate-600 leading-relaxed">
-                  {service.description}
-                </p>
 
-                {service.highlights && service.highlights.length > 0 && (
-                  <ul className="mt-4 space-y-2 border-t border-slate-100 pt-3">
-                    {service.highlights.map((h, i) => (
-                      <li key={i} className="flex items-center text-xs text-slate-600 gap-2">
-                        <CheckCircle2 className="w-3.5 h-3.5 text-emerald-500 flex-shrink-0" />
-                        <span>{h}</span>
-                      </li>
-                    ))}
-                  </ul>
-                )}
-              </div>
+                {/* Footer Action */}
+                <div className="p-6 pt-0">
+                  <div className="p-3 bg-slate-950/80 rounded-2xl border border-slate-800 flex items-center justify-between">
+                    <div>
+                      <span className="text-[10px] text-slate-500 block uppercase font-semibold">Title Status</span>
+                      <span className="text-xs font-bold text-emerald-400">100% Clear & Verified</span>
+                    </div>
 
-              <div className="px-6 py-4 bg-slate-50 border-t border-slate-100 flex items-center justify-between">
-                <span className="text-xs font-semibold text-slate-500">Verified Advisory</span>
-                <button
-                  onClick={() => setInquiryOpen(true)}
-                  className="text-xs font-bold text-amber-700 hover:text-amber-800 flex items-center gap-1"
-                >
-                  <span>Inquire Now</span>
-                  <ArrowRight className="w-3 h-3" />
-                </button>
+                    <a
+                      href={demo.contact.whatsappLink}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="px-3.5 py-2 rounded-xl bg-amber-500 hover:bg-amber-400 text-slate-950 font-bold text-xs transition flex items-center gap-1 shadow"
+                    >
+                      <span>Inquire</span>
+                      <ChevronRight className="w-3.5 h-3.5" />
+                    </a>
+                  </div>
+                </div>
               </div>
-            </div>
-          ))}
+            );
+          })}
         </div>
       </section>
 
-      {/* 6. Honest Business Story & Location */}
-      <section className="bg-slate-900 text-white py-16 px-4 sm:px-6 lg:px-8">
-        <div className="max-w-5xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-          <div>
-            <div className="inline-flex items-center gap-1.5 text-amber-400 text-xs font-semibold mb-3 uppercase tracking-wider">
-              <Sparkles className="w-3.5 h-3.5" />
-              <span>Direct Client Commitment</span>
-            </div>
-            <h2 className="text-2xl sm:text-3xl font-bold tracking-tight">
-              About {demo.businessName}
+      {/* 6. VIP Interactive Site Visit Booking Section */}
+      <section className="bg-gradient-to-b from-slate-900 to-slate-950 py-20 px-4 sm:px-6 lg:px-8 border-y border-slate-800">
+        <div className="max-w-6xl mx-auto grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
+          <div className="lg:col-span-7">
+            <span className="text-xs font-bold tracking-widest uppercase text-amber-400 block mb-2">
+              Bespoke Advisory Experience
+            </span>
+            <h2 className="text-3xl sm:text-4xl font-extrabold text-white tracking-tight">
+              Book a Private Guided Site Tour
             </h2>
             <p className="mt-4 text-sm sm:text-base text-slate-300 leading-relaxed">
-              {demo.aboutStory}
-            </p>
-            <p className="mt-3 text-sm text-slate-400 leading-relaxed">
-              {demo.valueProposition}
+              We arrange on-ground inspections with senior consultants who walk you through survey demarcation pegs, water availability, road access, and revenue paperwork.
             </p>
 
-            <div className="mt-6 flex flex-wrap gap-4 text-xs text-slate-300">
-              <div className="flex items-center gap-2 bg-slate-800/80 px-3 py-2 rounded-lg border border-slate-700">
-                <Phone className="w-4 h-4 text-amber-400" />
-                <span>{demo.contact.phone}</span>
+            <div className="mt-8 grid grid-cols-1 sm:grid-cols-2 gap-4">
+              <div className="bg-slate-950 p-4 rounded-2xl border border-slate-800">
+                <FileCheck className="w-5 h-5 text-amber-400 mb-2" />
+                <h4 className="text-xs font-bold text-white">Full Document Inspection</h4>
+                <p className="text-[11px] text-slate-400 mt-1">Review 7/12 records and title deeds prior to committing.</p>
               </div>
-              {demo.contact.address && (
-                <div className="flex items-center gap-2 bg-slate-800/80 px-3 py-2 rounded-lg border border-slate-700">
-                  <MapPin className="w-4 h-4 text-rose-400" />
-                  <span>{demo.contact.address}</span>
-                </div>
-              )}
+
+              <div className="bg-slate-950 p-4 rounded-2xl border border-slate-800">
+                <Navigation className="w-5 h-5 text-emerald-400 mb-2" />
+                <h4 className="text-xs font-bold text-white">Direct Pickup & Guidance</h4>
+                <p className="text-[11px] text-slate-400 mt-1">Personalized guidance from Coastal Highway directly to the site.</p>
+              </div>
             </div>
           </div>
 
-          <div className="bg-slate-800 p-6 sm:p-8 rounded-2xl border border-slate-700 shadow-2xl">
-            <h3 className="text-lg font-bold text-white mb-2">Speak Directly with the Consultant</h3>
-            <p className="text-xs text-slate-400 mb-6">
-              Connect directly via phone, WhatsApp, or request an in-person site visit.
-            </p>
+          {/* Interactive Booking Form Card */}
+          <div className="lg:col-span-5 bg-slate-900 border border-slate-800 rounded-3xl p-6 sm:p-8 shadow-2xl relative">
+            <h3 className="text-lg font-bold text-white">Schedule Inspection</h3>
+            <p className="text-xs text-slate-400 mt-1 mb-6">Select your preferred date for WhatsApp confirmation.</p>
 
-            <div className="space-y-3">
-              <a
-                href={`tel:${demo.contact.phoneRaw}`}
-                className="w-full flex items-center justify-center gap-2 py-3 rounded-xl bg-amber-600 hover:bg-amber-500 font-semibold text-sm transition"
+            <form onSubmit={handleBookingSubmit} className="space-y-4">
+              <div>
+                <label className="block text-xs font-semibold text-slate-300 mb-1.5">Preferred Date</label>
+                <input
+                  type="date"
+                  value={selectedDate}
+                  onChange={(e) => setSelectedDate(e.target.value)}
+                  className="w-full px-3.5 py-2.5 rounded-xl bg-slate-950 border border-slate-700 text-white text-xs focus:ring-2 focus:ring-amber-500 focus:outline-none"
+                />
+              </div>
+
+              <div>
+                <label className="block text-xs font-semibold text-slate-300 mb-1.5">Time of Day</label>
+                <select
+                  value={selectedSlot}
+                  onChange={(e) => setSelectedSlot(e.target.value)}
+                  className="w-full px-3.5 py-2.5 rounded-xl bg-slate-950 border border-slate-700 text-white text-xs focus:ring-2 focus:ring-amber-500 focus:outline-none"
+                >
+                  <option value="Morning (10:00 AM)">Morning (10:00 AM - 12:00 PM)</option>
+                  <option value="Afternoon (02:00 PM)">Afternoon (02:00 PM - 04:00 PM)</option>
+                  <option value="Sunset Viewing (05:00 PM)">Sunset Viewing (05:00 PM - 06:30 PM)</option>
+                </select>
+              </div>
+
+              <button
+                type="submit"
+                className="w-full py-3.5 rounded-xl bg-gradient-to-r from-amber-500 to-amber-600 hover:from-amber-400 hover:to-amber-500 text-slate-950 font-bold text-xs transition shadow-lg shadow-amber-500/20 flex items-center justify-center gap-2 mt-4 active:scale-95"
               >
-                <Phone className="w-4 h-4" />
-                <span>Call {demo.contact.phone}</span>
-              </a>
+                <Calendar className="w-4 h-4" />
+                <span>Confirm Tour on WhatsApp</span>
+              </button>
+            </form>
+          </div>
+        </div>
+      </section>
 
-              <a
-                href={demo.contact.whatsappLink}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="w-full flex items-center justify-center gap-2 py-3 rounded-xl bg-emerald-600 hover:bg-emerald-500 font-semibold text-sm transition"
-              >
-                <MessageCircle className="w-4 h-4" />
-                <span>Connect via WhatsApp</span>
-              </a>
+      {/* 7. Location & Maps Showcase */}
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
+        <div className="bg-slate-900 border border-slate-800 rounded-3xl p-8 sm:p-12 relative overflow-hidden">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center">
+            <div>
+              <span className="text-xs font-bold text-amber-400 uppercase tracking-widest">Local Headquarters</span>
+              <h3 className="text-2xl sm:text-3xl font-extrabold text-white mt-2">
+                Visit {brandName}
+              </h3>
+              <p className="mt-3 text-sm text-slate-300 leading-relaxed">
+                {demo.aboutStory}
+              </p>
 
+              <div className="mt-6 space-y-3">
+                <div className="flex items-center gap-3 text-xs text-slate-300">
+                  <div className="w-8 h-8 rounded-lg bg-slate-800 flex items-center justify-center text-rose-400">
+                    <MapPin className="w-4 h-4" />
+                  </div>
+                  <span>{demo.contact.address}</span>
+                </div>
+
+                <div className="flex items-center gap-3 text-xs text-slate-300">
+                  <div className="w-8 h-8 rounded-lg bg-slate-800 flex items-center justify-center text-amber-400">
+                    <Phone className="w-4 h-4" />
+                  </div>
+                  <span>{demo.contact.phone}</span>
+                </div>
+              </div>
+            </div>
+
+            <div className="flex flex-col gap-3 justify-center items-center lg:items-end">
               {demo.contact.googleMapsLink && (
                 <a
                   href={demo.contact.googleMapsLink}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="w-full flex items-center justify-center gap-2 py-3 rounded-xl bg-slate-700 hover:bg-slate-600 text-slate-200 text-xs transition border border-slate-600"
+                  className="w-full sm:w-auto px-6 py-4 rounded-2xl bg-slate-800 hover:bg-slate-700 text-white font-semibold text-xs border border-slate-700 transition flex items-center justify-center gap-2 shadow-xl"
                 >
-                  <MapPin className="w-3.5 h-3.5 text-rose-400" />
-                  <span>View on Google Maps</span>
+                  <MapPin className="w-4 h-4 text-rose-400" />
+                  <span>Open Route on Google Maps</span>
                 </a>
               )}
+
+              <a
+                href={`tel:${demo.contact.phoneRaw}`}
+                className="w-full sm:w-auto px-6 py-4 rounded-2xl bg-amber-500 hover:bg-amber-400 text-slate-950 font-bold text-xs transition flex items-center justify-center gap-2 shadow-xl"
+              >
+                <Phone className="w-4 h-4" />
+                <span>Call Principal Consultant</span>
+              </a>
             </div>
           </div>
         </div>
       </section>
 
-      {/* 7. Footer */}
-      <footer className="bg-slate-950 text-slate-400 text-xs py-8 px-4 border-t border-slate-800 text-center">
-        <p className="font-semibold text-slate-300">{demo.businessName} &bull; {demo.category}</p>
-        <p className="mt-1">{demo.contact.address}</p>
-        <p className="mt-3 text-[11px] text-slate-500 max-w-lg mx-auto">
+      {/* 8. Footer */}
+      <footer className="bg-slate-950 border-t border-slate-900 py-12 px-4 text-center">
+        <p className="font-extrabold text-white text-sm">{brandName}</p>
+        <p className="text-xs text-slate-400 mt-1">{demo.contact.address} &bull; {demo.contact.phone}</p>
+        <div className="mt-4 max-w-xl mx-auto p-3 rounded-xl bg-slate-900/60 border border-slate-800/80 text-[11px] text-slate-500 leading-relaxed">
           {demo.disclaimer.conceptNotice}
-        </p>
+        </div>
       </footer>
 
-      {/* Mobile Sticky Bar */}
+      {/* Sticky Mobile Contact Bar */}
       <ContactBar
         phone={demo.contact.phone}
         phoneRaw={demo.contact.phoneRaw}
@@ -270,11 +438,11 @@ export const RealEstateTemplate: React.FC<TemplateProps> = ({ demo }) => {
         googleMapsLink={demo.contact.googleMapsLink}
       />
 
-      {/* Inquiry Modal */}
+      {/* Modal */}
       <LeadInquiryModal
         isOpen={inquiryOpen}
         onClose={() => setInquiryOpen(false)}
-        businessName={demo.businessName}
+        businessName={brandName}
         phone={demo.contact.phone}
         category={demo.category}
       />

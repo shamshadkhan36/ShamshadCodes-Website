@@ -13,6 +13,10 @@ export interface ServiceItem {
   description: string;
   highlights?: string[];
   icon?: string;
+  image?: string;
+  tag?: string;
+  badge?: string;
+  specs?: string;
 }
 
 export interface FeatureItem {
@@ -35,6 +39,8 @@ export interface BusinessContact {
 export interface DemoContent {
   slug: string;
   businessName: string;
+  cleanBrandName?: string;
+  brandTags?: string[];
   category: string;
   templateType: BusinessCategory;
   siteType: DemoSiteType;
@@ -42,6 +48,7 @@ export interface DemoContent {
   tagline: string;
   heroHeadline: string;
   heroSubheadline: string;
+  heroImage?: string;
   aboutStory: string;
   valueProposition: string;
   services: ServiceItem[];
