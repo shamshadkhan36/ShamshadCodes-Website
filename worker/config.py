@@ -48,7 +48,7 @@ class Settings:
     OPENAI_API_KEY: str = os.getenv("OPENAI_API_KEY", "")
 
     # 3. Base Deployment URL
-    BASE_DEMO_URL: str = os.getenv("BASE_DEMO_URL", "https://demo.shamshadcodes.com").rstrip("/")
+    BASE_DEMO_URL: str = os.getenv("BASE_DEMO_URL", "https://shamshadcodes-website.vercel.app").rstrip("/")
 
     # 4. GitHub & Vercel
     GITHUB_TOKEN: str = os.getenv("GITHUB_TOKEN", "")
