@@ -5,15 +5,15 @@
   "templateType": "real_estate",
   "siteType": "new",
   "tagline": "Exclusive Land & Property Investments in Coastal Highway, Umbergaon",
-  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across Umbergaon",
-  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by Prinal Real Estate Property with verified titles and transparent documentation.",
-  "aboutStory": "Prinal Real Estate Property is a premier land advisory firm rooted along Coastal Highway, Umbergaon. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "heroHeadline": "Land & Property Services in Umbergaon",
+  "heroSubheadline": "We help you find verified land and properties that match your vision. Prinal Real Estate brings you verified coastal plots, fertile agricultural farmhouses, and strategic industrial land with complete transparent documentation and direct site visits.",
+  "aboutStory": "Prinal Real Estate Property is an independent, verified consultancy guiding clients across all segments of the regional market — coastal plots, agricultural farmhouses, and industrial land. We handle the whole transaction, not just the introduction.",
   "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
   "services": [
     {
       "id": "s1",
       "title": "Sea Beach & Coastal Villa Plots",
-      "description": "Scenic, high-value land parcels situated minutes from the shoreline along Coastal Highway. Ideal for luxury private villas and holiday retreats.",
+      "description": "Scenic beachfront land parcels situated minutes from the shoreline along Coastal Highway. Ideal for luxury weekend retreats and private villas.",
       "highlights": [
         "100% Clear Title & Demarcation",
         "Direct Coastal Highway Connectivity",
@@ -22,22 +22,22 @@
     },
     {
       "id": "s2",
-      "title": "Farm House & 1 Acre Acreages",
-      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "title": "Farmhouse & 1 Acre Acreages",
+      "description": "Expansive agricultural and farmhouse plots with rich fertile soil, sweet groundwater, and peaceful green surroundings.",
       "highlights": [
         "Sizes from 1 to 5+ Acres",
         "Fenced Boundaries & Power Access",
-        "High Long-Term Appreciation"
+        "High Long-Term Land Appreciation"
       ]
     },
     {
       "id": "s3",
-      "title": "Industrial & Logistics Land",
-      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "title": "Industrial & Logistics Land Parcels",
+      "description": "Strategic commercial acreage with heavy-vehicle road frontage, 3-phase electricity, and fast-track GIDC logistics proximity.",
       "highlights": [
         "Zoned for Warehousing & Production",
-        "Wide Access Roads & 3-Phase Power",
-        "Fast-Track Regulatory Approvals"
+        "Wide Access Roads for 40ft Trailers",
+        "Clear Legal Industrial Approvals"
       ]
     }
   ],
@@ -49,13 +49,13 @@
     },
     {
       "id": "f2",
-      "title": "Direct WhatsApp Site Booking",
+      "title": "Direct WhatsApp Updates",
       "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
     },
     {
       "id": "f3",
       "title": "Deep Local Footprint",
-      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in Coastal Highway, Umbergaon."
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in Umbergaon."
     }
   ],
   "contact": {
@@ -65,10 +65,10 @@
     "address": "Coastal Highway, Umbergaon, Gujarat",
     "googleMapsLink": "https://www.google.com/maps/place/Prinal+Real+Estate+Property,+Farm+House+Plot,+1+Acre+Plot,+Industrial+Plot,+Sea+Beach+Plot,+Umbergaon+Gujrat+Property/data=!4m7!3m6!1s0x3be72ba4210ec2c1:0x90b644c05e91015c!8m2!3d20.1631092!4d72.7476429!16s%2Fg%2F11qrqn38t8!19sChIJwcIOIaQr5zsRXAGRXsBEtpA?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1"
   },
-  "primaryCtaText": "Schedule VIP Site Visit",
-  "secondaryCtaText": "Download Plot Layouts",
-  "accentColor": "#f59e0b",
-  "generatedAt": "2026-10-29T05:05:00Z",
+  "primaryCtaText": "Get Free Quote",
+  "secondaryCtaText": "Explore Land Projects",
+  "accentColor": "#D1495B",
+  "generatedAt": "2026-10-29T05:14:00Z",
   "disclaimer": {
     "isConcept": true,
     "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Prinal Real Estate Property. Not affiliated with or endorsed by Prinal Real Estate Property."
