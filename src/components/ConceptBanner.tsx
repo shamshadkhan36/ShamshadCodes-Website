@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { AlertCircle, ChevronUp, ChevronDown, Sparkles, ExternalLink } from 'lucide-react';
+import { AlertCircle, ChevronUp, ChevronDown, Sparkles, ExternalLink, Phone, MessageCircle } from 'lucide-react';
 
 interface ConceptBannerProps {
   businessName: string;
@@ -13,6 +13,12 @@ export const ConceptBanner: React.FC<ConceptBannerProps> = ({
   existingUrl,
 }) => {
   const [collapsed, setCollapsed] = useState(false);
+  const claimPhoneNumber = '9370262177';
+  const claimPhoneDisplay = '+91 93702 62177';
+
+  const claimWhatsAppUrl = `https://wa.me/91${claimPhoneNumber}?text=${encodeURIComponent(
+    `Hi ShamshadCodes, I saw the website concept demo for "${businessName}" and I would like to claim this website!`
+  )}`;
 
   return (
     <aside aria-label="Website Concept Banner" className="sticky top-0 z-50 bg-gradient-to-r from-slate-900 via-indigo-950 to-slate-900 text-white shadow-lg border-b border-indigo-500/30">
@@ -37,7 +43,7 @@ export const ConceptBanner: React.FC<ConceptBannerProps> = ({
             )}
           </div>
 
-          <div className="flex items-center space-x-3 ml-4 flex-shrink-0">
+          <div className="flex items-center space-x-2 sm:space-x-3 ml-4 flex-shrink-0">
             {isRedesign && existingUrl && !collapsed && (
               <a
                 href={existingUrl.startsWith('http') ? existingUrl : `https://${existingUrl}`}
@@ -51,12 +57,23 @@ export const ConceptBanner: React.FC<ConceptBannerProps> = ({
             )}
 
             <a
-              href="https://wa.me/918866359740?text=Hi%20ShamshadCodes,%20I%20saw%20the%20website%20concept"
+              href={`tel:+91${claimPhoneNumber}`}
+              className="hidden sm:inline-flex items-center gap-1.5 text-slate-300 hover:text-white text-xs border border-slate-700 hover:border-slate-500 px-2.5 py-1 rounded transition"
+              title={`Call Shamshad directly at ${claimPhoneDisplay}`}
+            >
+              <Phone className="w-3 h-3 text-emerald-400" />
+              <span>{claimPhoneDisplay}</span>
+            </a>
+
+            <a
+              href={claimWhatsAppUrl}
               target="_blank"
               rel="noopener noreferrer"
-              className="bg-emerald-600 hover:bg-emerald-500 text-white font-medium px-3 py-1 rounded text-xs transition shadow-sm"
+              className="bg-emerald-600 hover:bg-emerald-500 text-white font-medium px-3 py-1 rounded text-xs transition shadow-sm flex items-center gap-1.5 active:scale-95"
+              title={`Claim this website on WhatsApp: ${claimPhoneDisplay}`}
             >
-              Claim This Website
+              <MessageCircle className="w-3.5 h-3.5" />
+              <span>Claim This Website</span>
             </a>
 
             <button

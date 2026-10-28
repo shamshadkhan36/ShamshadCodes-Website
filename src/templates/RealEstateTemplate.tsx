@@ -1012,9 +1012,17 @@ export const RealEstateTemplate: React.FC<TemplateProps> = ({ demo }) => {
             <a href="#contact" className="hover:text-white transition">Due Diligence Policy</a>
           </div>
 
-          <div className="flex items-center gap-1 text-slate-400">
+          <div className="flex items-center gap-1.5 text-slate-400">
             <span>Powered by</span>
-            <span className="font-bold text-white">ShamshadCodes Website Factory</span>
+            <a
+              href="https://wa.me/919370262177?text=Hi%20ShamshadCodes,%20I%20saw%20your%20website%20demos%20and%20would%20like%20to%20discuss%20a%20project."
+              target="_blank"
+              rel="noopener noreferrer"
+              className="font-bold text-white hover:text-emerald-400 transition"
+              title="Contact ShamshadCodes on WhatsApp: +91 93702 62177"
+            >
+              ShamshadCodes Website Factory
+            </a>
           </div>
         </div>
 
