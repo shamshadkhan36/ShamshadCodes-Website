@@ -1,0 +1,62 @@
+{
+  "slug": "pranay-prabhu-real-estate",
+  "businessName": "Pranay Prabhu Real Estate Consultancy",
+  "category": "Real Estate Agency",
+  "templateType": "real_estate",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://pranayprabhu.com",
+  "tagline": "Trusted Real Estate Consultancy in Dahanu Road",
+  "heroHeadline": "Personalized Property Advisory on Irani Road, Dahanu",
+  "heroSubheadline": "Connecting prospective buyers and investors with prime residential and commercial real estate across Dahanu Road.",
+  "aboutStory": "Operating from Prabhu Garments, Irani Road, Dahanu Road, Pranay Prabhu Real Estate Consultancy combines deep local roots with professional brokerage services.",
+  "valueProposition": "Direct access to verified property owners, smooth documentation assistance, and prompt client communication.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Residential Property Brokerage",
+      "description": "Assisting buyers and tenants in finding flats, villas, and family homes across Dahanu Road."
+    },
+    {
+      "id": "s2",
+      "title": "Commercial Space Advisory",
+      "description": "Locating retail shops, office spaces, and commercial plots suitable for business operations."
+    },
+    {
+      "id": "s3",
+      "title": "Legal & Documentation Guidance",
+      "description": "Ensuring seamless agreement registration, stamp duty consultation, and title checks."
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Dahanu Local Presence",
+      "description": "Established presence on Irani Road with deep ties in the residential community."
+    },
+    {
+      "id": "f2",
+      "title": "Prompt WhatsApp Booking",
+      "description": "Easily book viewings and receive property photos directly on your phone."
+    },
+    {
+      "id": "f3",
+      "title": "Fair Market Valuations",
+      "description": "Honest pricing benchmarks to help you buy or sell at realistic local values."
+    }
+  ],
+  "contact": {
+    "phone": "+91 70215 77638",
+    "phoneRaw": "7021577638",
+    "whatsappLink": "https://wa.me/917021577638?text=Hello%20Pranay%20Prabhu%20Real%20Estate,%20I%20have%20an%20inquiry",
+    "address": "Prabhu Garments Irani Road, Dahanu Road 401602",
+    "googleMapsLink": "https://www.google.com/maps/place/Pranay+Prabhu+Real+Estate+Consultancy/data=!4m7!3m6!1s0x3be72708380266c7:0xe1bfad9ee4c6ce7b!8m2!3d19.9909455!4d72.7429307!16s%2Fg%2F11g8_1v6_z!19sChIJx2YCOAgn5zsRe87G5J6tv-E?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1"
+  },
+  "primaryCtaText": "Request Available Listings",
+  "secondaryCtaText": "Chat on WhatsApp",
+  "generatedAt": "2026-10-29T04:30:00Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Pranay Prabhu Real Estate Consultancy.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}
