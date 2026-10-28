@@ -1,0 +1,76 @@
+{
+  "slug": "the-v-mansion",
+  "businessName": "The V Mansion",
+  "category": "Construction company",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "http://www.thevmansion.com/",
+  "tagline": "Strategic Commercial & Professional Advisory in THE V MANSION, Swatantryaveer Savarkar Rd, near Century Bazaar",
+  "heroHeadline": "Results-Driven Strategic Advisory with The V Mansion",
+  "heroSubheadline": "Partnering with businesses and private clients in THE V MANSION, Swatantryaveer Savarkar Rd, near Century Bazaar to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from THE V MANSION, Swatantryaveer Savarkar Rd, near Century Bazaar, The V Mansion combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Construction company Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to THE V MANSION, Swatantryaveer Savarkar Rd, near Century Bazaar.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 84337 23332",
+    "phoneRaw": "8433723332",
+    "whatsappLink": "https://wa.me/918433723332?text=Hello%20The%20V%20Mansion,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "THE V MANSION, Swatantryaveer Savarkar Rd, near Century Bazaar",
+    "googleMapsLink": "https://www.google.com/maps/place/The+V+Mansion/data=!4m7!3m6!1s0x3be7cfe3030bb4a1:0x8eb7f3efb96760f4!8m2!3d19.0134814!4d72.8247899!16s%2Fg%2F11z2kcplz6!19sChIJobQLA-PP5zsR9GBnue_zt44?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "http://www.thevmansion.com/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:26.268062Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for The V Mansion. Not affiliated with or endorsed by The V Mansion.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

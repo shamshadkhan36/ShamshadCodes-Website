@@ -1,0 +1,79 @@
+{
+  "slug": "dipesh-h-vora-estate-agent",
+  "businessName": "Dipesh H. Vora Estate Agent",
+  "category": "Real estate agency",
+  "templateType": "real_estate",
+  "siteType": "new",
+  "existingWebsiteUrl": null,
+  "tagline": "Exclusive Land & Property Investments in Shop Number. 5, Indumati Apartment, Shimpoli Rd, opp. Gokhale School",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across Shop Number. 5, Indumati Apartment, Shimpoli Rd, opp. Gokhale School",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by Dipesh H. Vora Estate Agent with verified titles and transparent documentation.",
+  "aboutStory": "Dipesh H. Vora Estate Agent is a premier land advisory firm rooted along Shop Number. 5, Indumati Apartment, Shimpoli Rd, opp. Gokhale School. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along Shop Number. 5, Indumati Apartment, Shimpoli Rd, opp. Gokhale School. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in Shop Number. 5, Indumati Apartment, Shimpoli Rd, opp. Gokhale School."
+    }
+  ],
+  "contact": {
+    "phone": "+91 98215 18572",
+    "phoneRaw": "9821518572",
+    "whatsappLink": "https://wa.me/919821518572?text=Hello%20Dipesh%20H.%20Vora%20Estate%20Agent,%20I%20saw%20your%20website%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Shop Number. 5, Indumati Apartment, Shimpoli Rd, opp. Gokhale School",
+    "googleMapsLink": "https://www.google.com/maps/place/Dipesh+H.+Vora+Estate+Agent/data=!4m7!3m6!1s0x3be7b12a7848f091:0x8ce7136c058ad4cd!8m2!3d19.2240232!4d72.8513857!16s%2Fg%2F1pv0c00v6!19sChIJkfBIeCqx5zsRzdSKBWwT54w?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": null
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:24.652484Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Dipesh H. Vora Estate Agent. Not affiliated with or endorsed by Dipesh H. Vora Estate Agent.",
+    "redesignNotice": null
+  }
+}

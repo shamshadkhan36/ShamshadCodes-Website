@@ -1,0 +1,76 @@
+{
+  "slug": "siddha-sky",
+  "businessName": "Siddha Sky",
+  "category": "Apartment complex",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://siddhasky-mumbai.com/",
+  "tagline": "Strategic Commercial & Professional Advisory in ",
+  "heroHeadline": "Results-Driven Strategic Advisory with Siddha Sky",
+  "heroSubheadline": "Partnering with businesses and private clients in  to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from , Siddha Sky combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Apartment complex Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to .",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 90711 85151",
+    "phoneRaw": "9071185151",
+    "whatsappLink": "https://wa.me/919071185151?text=Hello%20Siddha%20Sky,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "",
+    "googleMapsLink": "https://www.google.com/maps/place/Siddha+Sky,+Wadala/data=!4m7!3m6!1s0x3be7cfaf78bb0ba7:0x40bc1d125e65498a!8m2!3d19.0363943!4d72.870158!16s%2Fg%2F11p59lqtlm!19sChIJpwu7eK_P5zsRikllXhIdvEA?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://siddhasky-mumbai.com/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:27.957790Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Siddha Sky. Not affiliated with or endorsed by Siddha Sky.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

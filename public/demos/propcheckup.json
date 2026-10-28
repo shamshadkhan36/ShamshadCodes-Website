@@ -1,0 +1,76 @@
+{
+  "slug": "propcheckup",
+  "businessName": "PropCheckup - Best Home Inspection Company in Mumbai",
+  "category": "Building inspector",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://www.propcheckup.com/",
+  "tagline": "Strategic Commercial & Professional Advisory in Office No.62, 2nd Floor, Xth Central Mall, above Kotak Bank",
+  "heroHeadline": "Results-Driven Strategic Advisory with PropCheckup - Best Home Inspection Company in Mumbai",
+  "heroSubheadline": "Partnering with businesses and private clients in Office No.62, 2nd Floor, Xth Central Mall, above Kotak Bank to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from Office No.62, 2nd Floor, Xth Central Mall, above Kotak Bank, PropCheckup - Best Home Inspection Company in Mumbai combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Building inspector Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to Office No.62, 2nd Floor, Xth Central Mall, above Kotak Bank.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 81699 69689",
+    "phoneRaw": "8169969689",
+    "whatsappLink": "https://wa.me/918169969689?text=Hello%20PropCheckup%20-%20Best%20Home%20Inspection%20Company%20in%20Mumbai,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Office No.62, 2nd Floor, Xth Central Mall, above Kotak Bank",
+    "googleMapsLink": "https://www.google.com/maps/place/PropCheckup+-+Best+Home+Inspection+Company+in+Mumbai,+Pune+%26+Bangalore+%28India%29/data=!4m7!3m6!1s0x3be7b140b6356c4f:0x9c35c75ea8549d0f!8m2!3d19.2135167!4d72.841629!16s%2Fg%2F11fm5yg16b!19sChIJT2w1tkCx5zsRD51UqF7HNZw?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://www.propcheckup.com/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:24.910238Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for PropCheckup - Best Home Inspection Company in Mumbai. Not affiliated with or endorsed by PropCheckup - Best Home Inspection Company in Mumbai.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

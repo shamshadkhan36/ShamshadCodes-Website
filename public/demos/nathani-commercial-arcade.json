@@ -1,0 +1,76 @@
+{
+  "slug": "nathani-commercial-arcade",
+  "businessName": "Nathani Commercial Arcade",
+  "category": "Construction company",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://nathanigroup.in/property-item/nathani-commercial-arcade/",
+  "tagline": "Strategic Commercial & Professional Advisory in ",
+  "heroHeadline": "Results-Driven Strategic Advisory with Nathani Commercial Arcade",
+  "heroSubheadline": "Partnering with businesses and private clients in  to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from , Nathani Commercial Arcade combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Construction company Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to .",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 84220 61962",
+    "phoneRaw": "8422061962",
+    "whatsappLink": "https://wa.me/918422061962?text=Hello%20Nathani%20Commercial%20Arcade,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "",
+    "googleMapsLink": "https://www.google.com/maps/place/Nathani+Commercial+Arcade/data=!4m7!3m6!1s0x3be7cfcefdec0ac3:0x6256fb4ac2061207!8m2!3d18.9686848!4d72.8199922!16s%2Fg%2F11w7dlmrzf!19sChIJwwrs_c7P5zsRBxIGwkr7VmI?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://nathanigroup.in/property-item/nathani-commercial-arcade/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:26.419597Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Nathani Commercial Arcade. Not affiliated with or endorsed by Nathani Commercial Arcade.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

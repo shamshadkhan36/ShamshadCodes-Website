@@ -1,0 +1,76 @@
+{
+  "slug": "pratap-elegance",
+  "businessName": "Pratap Elegance",
+  "category": "Construction company",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://jpvrealtors.com/pratap-elegance.html",
+  "tagline": "Strategic Commercial & Professional Advisory in ",
+  "heroHeadline": "Results-Driven Strategic Advisory with Pratap Elegance",
+  "heroSubheadline": "Partnering with businesses and private clients in  to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from , Pratap Elegance combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Construction company Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to .",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 76780 35346",
+    "phoneRaw": "7678035346",
+    "whatsappLink": "https://wa.me/917678035346?text=Hello%20Pratap%20Elegance,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "",
+    "googleMapsLink": "https://www.google.com/maps/place/Pratap+Elegance,+Vile+Parle+West/data=!4m7!3m6!1s0x3be7c954a3f6fad9:0x423a2a3779909704!8m2!3d19.1117009!4d72.844832!16s%2Fg%2F11rd01khr9!19sChIJ2fr2o1TJ5zsRBJeQeTcqOkI?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://jpvrealtors.com/pratap-elegance.html"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:25.823834Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Pratap Elegance. Not affiliated with or endorsed by Pratap Elegance.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

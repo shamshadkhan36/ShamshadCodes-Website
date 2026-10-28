@@ -1,0 +1,76 @@
+{
+  "slug": "ak-khan-reality-llp",
+  "businessName": "AK KHAN REALITY LLP",
+  "category": "Retail space rental agency",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://www.aoneprop.com/",
+  "tagline": "Strategic Commercial & Professional Advisory in M.C CHAGGLA MARGE Office number 792 Samrat",
+  "heroHeadline": "Results-Driven Strategic Advisory with AK KHAN REALITY LLP",
+  "heroSubheadline": "Partnering with businesses and private clients in M.C CHAGGLA MARGE Office number 792 Samrat to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from M.C CHAGGLA MARGE Office number 792 Samrat, AK KHAN REALITY LLP combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Retail space rental agency Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to M.C CHAGGLA MARGE Office number 792 Samrat.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 96644 11441",
+    "phoneRaw": "9664411441",
+    "whatsappLink": "https://wa.me/919664411441?text=Hello%20AK%20KHAN%20REALITY%20LLP,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "M.C CHAGGLA MARGE Office number 792 Samrat",
+    "googleMapsLink": "https://www.google.com/maps/place/AK+KHAN+REALITY+LLP/data=!4m7!3m6!1s0x3be7c97a0829b0ef:0xca0292e49df89512!8m2!3d19.1012882!4d72.8580215!16s%2Fg%2F11vqrx85fn!19sChIJ77ApCHrJ5zsREpX4neSSAso?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://www.aoneprop.com/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:25.828366Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for AK KHAN REALITY LLP. Not affiliated with or endorsed by AK KHAN REALITY LLP.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

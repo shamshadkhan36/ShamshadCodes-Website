@@ -1,0 +1,76 @@
+{
+  "slug": "hemant-chauhan-lic-agent",
+  "businessName": "Hemant Chauhan (Lic Agent)",
+  "category": "Life insurance agency",
+  "templateType": "professional_services",
+  "siteType": "new",
+  "existingWebsiteUrl": null,
+  "tagline": "Strategic Commercial & Professional Advisory in Flat No.703, I Wing, SAHAKAR RESIDENCY Road, near Seven Square Academy School",
+  "heroHeadline": "Results-Driven Strategic Advisory with Hemant Chauhan (Lic Agent)",
+  "heroSubheadline": "Partnering with businesses and private clients in Flat No.703, I Wing, SAHAKAR RESIDENCY Road, near Seven Square Academy School to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from Flat No.703, I Wing, SAHAKAR RESIDENCY Road, near Seven Square Academy School, Hemant Chauhan (Lic Agent) combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Life insurance agency Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to Flat No.703, I Wing, SAHAKAR RESIDENCY Road, near Seven Square Academy School.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 98206 32325",
+    "phoneRaw": "9820632325",
+    "whatsappLink": "https://wa.me/919820632325?text=Hello%20Hemant%20Chauhan%20(Lic%20Agent),%20I%20saw%20your%20website%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Flat No.703, I Wing, SAHAKAR RESIDENCY Road, near Seven Square Academy School",
+    "googleMapsLink": "https://www.google.com/maps/place/Hemant+Chauhan+%28Lic+Agent%29/data=!4m7!3m6!1s0x3be7af630074d62f:0x2eff42c4818760a2!8m2!3d19.3614577!4d72.8603866!16s%2Fg%2F11ky6_q2v1!19sChIJL9Z0AGOv5zsRomCHgcRC_y4?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": null
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:24.207809Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Hemant Chauhan (Lic Agent). Not affiliated with or endorsed by Hemant Chauhan (Lic Agent).",
+    "redesignNotice": null
+  }
+}

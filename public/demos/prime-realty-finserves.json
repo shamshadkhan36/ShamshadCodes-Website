@@ -1,0 +1,76 @@
+{
+  "slug": "prime-realty-finserves",
+  "businessName": "PRIME REALTY & FINSERVES",
+  "category": "Loan agency",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "http://www.primefinserves.com/",
+  "tagline": "Strategic Commercial & Professional Advisory in Building No 8, Peace Heven, 202, Agarwal St, near Little Captain School",
+  "heroHeadline": "Results-Driven Strategic Advisory with PRIME REALTY & FINSERVES",
+  "heroSubheadline": "Partnering with businesses and private clients in Building No 8, Peace Heven, 202, Agarwal St, near Little Captain School to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from Building No 8, Peace Heven, 202, Agarwal St, near Little Captain School, PRIME REALTY & FINSERVES combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Loan agency Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to Building No 8, Peace Heven, 202, Agarwal St, near Little Captain School.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 74478 42167",
+    "phoneRaw": "7447842167",
+    "whatsappLink": "https://wa.me/917447842167?text=Hello%20PRIME%20REALTY%20&%20FINSERVES,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Building No 8, Peace Heven, 202, Agarwal St, near Little Captain School",
+    "googleMapsLink": "https://www.google.com/maps/place/PRIME+REALTY+%26+FINSERVES/data=!4m7!3m6!1s0x3be7af7da82e8917:0xacfbf03cedfa0400!8m2!3d19.3672755!4d72.8157663!16s%2Fg%2F11zgqjbph6!19sChIJF4kuqH2v5zsRAAT67Tzw-6w?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "http://www.primefinserves.com/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:24.138824Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for PRIME REALTY & FINSERVES. Not affiliated with or endorsed by PRIME REALTY & FINSERVES.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

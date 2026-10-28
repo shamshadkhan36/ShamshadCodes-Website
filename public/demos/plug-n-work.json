@@ -1,0 +1,76 @@
+{
+  "slug": "plug-n-work",
+  "businessName": "Plug N Work",
+  "category": "Coworking space",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://www.plugnwork.in/",
+  "tagline": "Strategic Commercial & Professional Advisory in 1st floor, 102, Plug N Work, Man House, Swami Vivekanand Rd, next to Blue Dart Office",
+  "heroHeadline": "Results-Driven Strategic Advisory with Plug N Work",
+  "heroSubheadline": "Partnering with businesses and private clients in 1st floor, 102, Plug N Work, Man House, Swami Vivekanand Rd, next to Blue Dart Office to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from 1st floor, 102, Plug N Work, Man House, Swami Vivekanand Rd, next to Blue Dart Office, Plug N Work combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Coworking space Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to 1st floor, 102, Plug N Work, Man House, Swami Vivekanand Rd, next to Blue Dart Office.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 77383 58806",
+    "phoneRaw": "7738358806",
+    "whatsappLink": "https://wa.me/917738358806?text=Hello%20Plug%20N%20Work,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "1st floor, 102, Plug N Work, Man House, Swami Vivekanand Rd, next to Blue Dart Office",
+    "googleMapsLink": "https://www.google.com/maps/place/Plug+N+Work+%7C+Co-Working+Space+in+Vile+Parle+West/data=!4m7!3m6!1s0x3be7c9549021432b:0xa3e770879cc6ed0!8m2!3d19.0990295!4d72.839772!16s%2Fg%2F11h113g48g!19sChIJK0MhkFTJ5zsR0G7MeQh3Pgo?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://www.plugnwork.in/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:25.821839Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Plug N Work. Not affiliated with or endorsed by Plug N Work.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

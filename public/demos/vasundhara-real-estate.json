@@ -1,0 +1,79 @@
+{
+  "slug": "vasundhara-real-estate",
+  "businessName": "Vasundhara Real Estate",
+  "category": "Real estate agent",
+  "templateType": "real_estate",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "http://www.vasundhararealestate.com/",
+  "tagline": "Exclusive Land & Property Investments in OFFICE NO - 148, 1ST FLOOR, LODHA BOULEVARD MALL, NEAR MACDONALD, MAJIWADA FLYOVER OPPOSITE EASTERN EXPRESS HIGHWAY, MAJIWADA",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across OFFICE NO - 148, 1ST FLOOR, LODHA BOULEVARD MALL, NEAR MACDONALD, MAJIWADA FLYOVER OPPOSITE EASTERN EXPRESS HIGHWAY, MAJIWADA",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by Vasundhara Real Estate with verified titles and transparent documentation.",
+  "aboutStory": "Vasundhara Real Estate is a premier land advisory firm rooted along OFFICE NO - 148, 1ST FLOOR, LODHA BOULEVARD MALL, NEAR MACDONALD, MAJIWADA FLYOVER OPPOSITE EASTERN EXPRESS HIGHWAY, MAJIWADA. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along OFFICE NO - 148, 1ST FLOOR, LODHA BOULEVARD MALL, NEAR MACDONALD, MAJIWADA FLYOVER OPPOSITE EASTERN EXPRESS HIGHWAY, MAJIWADA. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in OFFICE NO - 148, 1ST FLOOR, LODHA BOULEVARD MALL, NEAR MACDONALD, MAJIWADA FLYOVER OPPOSITE EASTERN EXPRESS HIGHWAY, MAJIWADA."
+    }
+  ],
+  "contact": {
+    "phone": "+91 98339 92005",
+    "phoneRaw": "9833992005",
+    "whatsappLink": "https://wa.me/919833992005?text=Hello%20Vasundhara%20Real%20Estate,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "OFFICE NO - 148, 1ST FLOOR, LODHA BOULEVARD MALL, NEAR MACDONALD, MAJIWADA FLYOVER OPPOSITE EASTERN EXPRESS HIGHWAY, MAJIWADA",
+    "googleMapsLink": "https://www.google.com/maps/place/Vasundhara+Real+Estate/data=!4m7!3m6!1s0x3be7b962615c6d1f:0x57f1bb50537e9fb3!8m2!3d19.2118293!4d72.9850859!16s%2Fg%2F11svdp7dch!19sChIJH21cYWK55zsRs59-U1C78Vc?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "http://www.vasundhararealestate.com/"
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:28.743362Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Vasundhara Real Estate. Not affiliated with or endorsed by Vasundhara Real Estate.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

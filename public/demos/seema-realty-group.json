@@ -1,0 +1,79 @@
+{
+  "slug": "seema-realty-group",
+  "businessName": "Seema Realty Group",
+  "category": "Real estate consultant",
+  "templateType": "real_estate",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://seema-realty-group.grexa.site/",
+  "tagline": "Exclusive Land & Property Investments in Yashwant Heights, Central Park Rd",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across Yashwant Heights, Central Park Rd",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by Seema Realty Group with verified titles and transparent documentation.",
+  "aboutStory": "Seema Realty Group is a premier land advisory firm rooted along Yashwant Heights, Central Park Rd. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along Yashwant Heights, Central Park Rd. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in Yashwant Heights, Central Park Rd."
+    }
+  ],
+  "contact": {
+    "phone": "+91 91560 02063",
+    "phoneRaw": "9156002063",
+    "whatsappLink": "https://wa.me/919156002063?text=Hello%20Seema%20Realty%20Group,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Yashwant Heights, Central Park Rd",
+    "googleMapsLink": "https://www.google.com/maps/place/Seema+Realty+Group/data=!4m7!3m6!1s0x3be7a9675f305e51:0x6c2148c4cd4d191!8m2!3d19.4237618!4d72.8198402!16s%2Fg%2F11z227wq11!19sChIJUV4wX2ep5zsRkdHUTIwUwgY?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://seema-realty-group.grexa.site/"
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:23.790701Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Seema Realty Group. Not affiliated with or endorsed by Seema Realty Group.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

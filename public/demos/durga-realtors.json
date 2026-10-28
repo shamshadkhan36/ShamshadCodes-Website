@@ -1,0 +1,79 @@
+{
+  "slug": "durga-realtors",
+  "businessName": "Durga Realtors",
+  "category": "Real estate consultant",
+  "templateType": "real_estate",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "http://www.durgarealtors.com/",
+  "tagline": "Exclusive Land & Property Investments in Office 109, Tantia Jogani Industrial Premises",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across Office 109, Tantia Jogani Industrial Premises",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by Durga Realtors with verified titles and transparent documentation.",
+  "aboutStory": "Durga Realtors is a premier land advisory firm rooted along Office 109, Tantia Jogani Industrial Premises. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along Office 109, Tantia Jogani Industrial Premises. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in Office 109, Tantia Jogani Industrial Premises."
+    }
+  ],
+  "contact": {
+    "phone": "+91 98336 32424",
+    "phoneRaw": "9833632424",
+    "whatsappLink": "https://wa.me/919833632424?text=Hello%20Durga%20Realtors,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Office 109, Tantia Jogani Industrial Premises",
+    "googleMapsLink": "https://www.google.com/maps/place/Durga+Realtors/data=!4m7!3m6!1s0x3be7ce5fe1056ed7:0x7b9848a8949eebe1!8m2!3d18.9882585!4d72.8279594!16s%2Fg%2F11f12_n8xw!19sChIJ124F4V_O5zsR4euelKhImHs?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "http://www.durgarealtors.com/"
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:26.270059Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Durga Realtors. Not affiliated with or endorsed by Durga Realtors.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

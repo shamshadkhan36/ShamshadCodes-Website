@@ -1,0 +1,79 @@
+{
+  "slug": "national-estate-consultant",
+  "businessName": "National Estate Consultant",
+  "category": "Real estate consultant",
+  "templateType": "real_estate",
+  "siteType": "new",
+  "existingWebsiteUrl": null,
+  "tagline": "Exclusive Land & Property Investments in building No p-9, Royal Park chs, Shop No, D-21, Ram Mandir Rd",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across building No p-9, Royal Park chs, Shop No, D-21, Ram Mandir Rd",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by National Estate Consultant with verified titles and transparent documentation.",
+  "aboutStory": "National Estate Consultant is a premier land advisory firm rooted along building No p-9, Royal Park chs, Shop No, D-21, Ram Mandir Rd. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along building No p-9, Royal Park chs, Shop No, D-21, Ram Mandir Rd. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in building No p-9, Royal Park chs, Shop No, D-21, Ram Mandir Rd."
+    }
+  ],
+  "contact": {
+    "phone": "+91 88988 13726",
+    "phoneRaw": "8898813726",
+    "whatsappLink": "https://wa.me/918898813726?text=Hello%20National%20Estate%20Consultant,%20I%20saw%20your%20website%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "building No p-9, Royal Park chs, Shop No, D-21, Ram Mandir Rd",
+    "googleMapsLink": "https://www.google.com/maps/place/National+Estate+Consultant/data=!4m7!3m6!1s0x3be7b6346b32dbe3:0x1714f78356777806!8m2!3d19.1485489!4d72.8477169!16s%2Fg%2F1yg93q4yd!19sChIJ49syazS25zsRBnh3VoP3FBc?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": null
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:25.156896Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for National Estate Consultant. Not affiliated with or endorsed by National Estate Consultant.",
+    "redesignNotice": null
+  }
+}

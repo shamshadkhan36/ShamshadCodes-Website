@@ -1,0 +1,79 @@
+{
+  "slug": "fayyaj-sayyad",
+  "businessName": "Fayyaj Sayyad - Awas Real Estate - आवास रियल इस्टेट",
+  "category": "Real estate agency",
+  "templateType": "real_estate",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://www.youtube.com/channel/UC3Ia9yMs0CrWx15PLBdmLZQ",
+  "tagline": "Exclusive Land & Property Investments in Mahatma phule wadi, korba mithagar",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across Mahatma phule wadi, korba mithagar",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by Fayyaj Sayyad - Awas Real Estate - आवास रियल इस्टेट with verified titles and transparent documentation.",
+  "aboutStory": "Fayyaj Sayyad - Awas Real Estate - आवास रियल इस्टेट is a premier land advisory firm rooted along Mahatma phule wadi, korba mithagar. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along Mahatma phule wadi, korba mithagar. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in Mahatma phule wadi, korba mithagar."
+    }
+  ],
+  "contact": {
+    "phone": "+91 92218 32386",
+    "phoneRaw": "9221832386",
+    "whatsappLink": "https://wa.me/919221832386?text=Hello%20Fayyaj%20Sayyad%20-%20Awas%20Real%20Estate%20-%20आवास%20रियल%20इस्टेट,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Mahatma phule wadi, korba mithagar",
+    "googleMapsLink": "https://www.google.com/maps/place/Fayyaj+Sayyad+-+Awas+Real+Estate+-+%E0%A4%86%E0%A4%B5%E0%A4%BE%E0%A4%B8+%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%B2+%E0%A4%87%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%87%E0%A4%9F/data=!4m7!3m6!1s0xa3d446eb6c387381:0x12617a071b04da5e!8m2!3d19.0149692!4d72.8657481!16s%2Fg%2F11j_0gqpkh!19sChIJgXM4bOtG1KMRXtoEGwd6YRI?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://www.youtube.com/channel/UC3Ia9yMs0CrWx15PLBdmLZQ"
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:28.151550Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Fayyaj Sayyad - Awas Real Estate - आवास रियल इस्टेट. Not affiliated with or endorsed by Fayyaj Sayyad - Awas Real Estate - आवास रियल इस्टेट.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

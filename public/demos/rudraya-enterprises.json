@@ -1,0 +1,76 @@
+{
+  "slug": "rudraya-enterprises",
+  "businessName": "Rudraya Enterprises",
+  "category": "E commerce agency",
+  "templateType": "professional_services",
+  "siteType": "new",
+  "existingWebsiteUrl": null,
+  "tagline": "Strategic Commercial & Professional Advisory in Ganesh mandir suchak naka, Shil road kalyan east 421306",
+  "heroHeadline": "Results-Driven Strategic Advisory with Rudraya Enterprises",
+  "heroSubheadline": "Partnering with businesses and private clients in Ganesh mandir suchak naka, Shil road kalyan east 421306 to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from Ganesh mandir suchak naka, Shil road kalyan east 421306, Rudraya Enterprises combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core E commerce agency Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to Ganesh mandir suchak naka, Shil road kalyan east 421306.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 91675 55015",
+    "phoneRaw": "9167555015",
+    "whatsappLink": "https://wa.me/919167555015?text=Hello%20Rudraya%20Enterprises,%20I%20saw%20your%20website%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Ganesh mandir suchak naka, Shil road kalyan east 421306",
+    "googleMapsLink": "https://www.google.com/maps/place/Rudraya+Enterprises/data=!4m7!3m6!1s0x3be795c7e4cbe577:0xbcf1bf6586bce6dc!8m2!3d19.2241164!4d73.1226257!16s%2Fg%2F11h9rcgg4b!19sChIJd-XL5MeV5zsR3Oa8hmW_8bw?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": null
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:26.586817Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Rudraya Enterprises. Not affiliated with or endorsed by Rudraya Enterprises.",
+    "redesignNotice": null
+  }
+}

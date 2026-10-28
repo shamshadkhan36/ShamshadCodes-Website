@@ -1,0 +1,76 @@
+{
+  "slug": "isabella-house-savvy",
+  "businessName": "Isabella house (savvy)",
+  "category": "Villa",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "http://isabellahouse.in/",
+  "tagline": "Strategic Commercial & Professional Advisory in ",
+  "heroHeadline": "Results-Driven Strategic Advisory with Isabella house (savvy)",
+  "heroSubheadline": "Partnering with businesses and private clients in  to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from , Isabella house (savvy) combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Villa Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to .",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 98205 33108",
+    "phoneRaw": "9820533108",
+    "whatsappLink": "https://wa.me/919820533108?text=Hello%20Isabella%20house%20(savvy),%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "",
+    "googleMapsLink": "https://www.google.com/maps/place/Isabella+house+%28savvy%29/data=!4m7!3m6!1s0x3be7f911848afa21:0xa4fea0e4d0f9e8!8m2!3d18.9602976!4d73.3800655!16s%2Fg%2F11kr4m8f_d!19sChIJIfqKhBH55zsR6PnQ5KD-pAA?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "http://isabellahouse.in/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:29.391876Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Isabella house (savvy). Not affiliated with or endorsed by Isabella house (savvy).",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

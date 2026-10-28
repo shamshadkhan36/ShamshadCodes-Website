@@ -1,0 +1,79 @@
+{
+  "slug": "ck-consultancy",
+  "businessName": "CK Consultancy",
+  "category": "Real estate agency",
+  "templateType": "real_estate",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://www.ckconsultancy.co.in/",
+  "tagline": "Exclusive Land & Property Investments in Shop No 50, 6V88+3C7 Vasant Marvel Glory, Metro Station, Western Express Hwy, near Magathane",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across Shop No 50, 6V88+3C7 Vasant Marvel Glory, Metro Station, Western Express Hwy, near Magathane",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by CK Consultancy with verified titles and transparent documentation.",
+  "aboutStory": "CK Consultancy is a premier land advisory firm rooted along Shop No 50, 6V88+3C7 Vasant Marvel Glory, Metro Station, Western Express Hwy, near Magathane. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along Shop No 50, 6V88+3C7 Vasant Marvel Glory, Metro Station, Western Express Hwy, near Magathane. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in Shop No 50, 6V88+3C7 Vasant Marvel Glory, Metro Station, Western Express Hwy, near Magathane."
+    }
+  ],
+  "contact": {
+    "phone": "+91 98198 29814",
+    "phoneRaw": "9819829814",
+    "whatsappLink": "https://wa.me/919819829814?text=Hello%20CK%20Consultancy,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Shop No 50, 6V88+3C7 Vasant Marvel Glory, Metro Station, Western Express Hwy, near Magathane",
+    "googleMapsLink": "https://www.google.com/maps/place/CK+Consultancy/data=!4m7!3m6!1s0x3be7b782b2660841:0x34df3c8f6b59fbce!8m2!3d19.2151875!4d72.8660625!16s%2Fg%2F11pkll7bw_!19sChIJQQhmsoK35zsRzvtZa4883zQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://www.ckconsultancy.co.in/"
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:24.616376Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for CK Consultancy. Not affiliated with or endorsed by CK Consultancy.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

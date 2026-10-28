@@ -1,0 +1,76 @@
+{
+  "slug": "edstate-learning-pvt-ltd",
+  "businessName": "Edstate Learning Pvt. Ltd.",
+  "category": "Educational institution",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "http://www.edstatex.com/",
+  "tagline": "Strategic Commercial & Professional Advisory in Sunmill Compound, Parvati Industrial Premises, 312",
+  "heroHeadline": "Results-Driven Strategic Advisory with Edstate Learning Pvt. Ltd.",
+  "heroSubheadline": "Partnering with businesses and private clients in Sunmill Compound, Parvati Industrial Premises, 312 to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from Sunmill Compound, Parvati Industrial Premises, 312, Edstate Learning Pvt. Ltd. combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Educational institution Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to Sunmill Compound, Parvati Industrial Premises, 312.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 91379 66371",
+    "phoneRaw": "9137966371",
+    "whatsappLink": "https://wa.me/919137966371?text=Hello%20Edstate%20Learning%20Pvt.%20Ltd.,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Sunmill Compound, Parvati Industrial Premises, 312",
+    "googleMapsLink": "https://www.google.com/maps/place/Edstate+Learning+Pvt.+Ltd./data=!4m7!3m6!1s0x3be7ce92b5a9fd55:0x90808588e8fd861b!8m2!3d18.9931358!4d72.8269165!16s%2Fg%2F11tnvvz125!19sChIJVf2ptZLO5zsRG4b96IiFgJA?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "http://www.edstatex.com/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:26.309976Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Edstate Learning Pvt. Ltd.. Not affiliated with or endorsed by Edstate Learning Pvt. Ltd..",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

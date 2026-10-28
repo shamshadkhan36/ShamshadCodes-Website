@@ -1,0 +1,76 @@
+{
+  "slug": "knahar-realty",
+  "businessName": "Knahar Realty",
+  "category": "Temporarily closed",
+  "templateType": "professional_services",
+  "siteType": "new",
+  "existingWebsiteUrl": null,
+  "tagline": "Strategic Commercial & Professional Advisory in #ERROR!",
+  "heroHeadline": "Results-Driven Strategic Advisory with Knahar Realty",
+  "heroSubheadline": "Partnering with businesses and private clients in #ERROR! to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from #ERROR!, Knahar Realty combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Temporarily closed Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to #ERROR!.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 91727 99944",
+    "phoneRaw": "9172799944",
+    "whatsappLink": "https://wa.me/919172799944?text=Hello%20Knahar%20Realty,%20I%20saw%20your%20website%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "#ERROR!",
+    "googleMapsLink": "https://www.google.com/maps/place/Knahar+Realty/data=!4m7!3m6!1s0x3be72709ea08d7ed:0xbdfe6a713b0c4e60!8m2!3d19.990998!4d72.7407283!16s%2Fg%2F11cs5n5yw7!19sChIJ7dcI6gkn5zsRYE4MO3Fq_r0?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": null
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:23.679823Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Knahar Realty. Not affiliated with or endorsed by Knahar Realty.",
+    "redesignNotice": null
+  }
+}

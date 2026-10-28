@@ -1,0 +1,76 @@
+{
+  "slug": "sammarth",
+  "businessName": "Sammarth",
+  "category": "Registration office",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://vbdigitalcards.in/SHRI-SAMARATH-KRUPA",
+  "tagline": "Strategic Commercial & Professional Advisory in 5 Rai Residency, Baliram Enclave, Shop No 007, Next to Sub Registrar Office, Gav Devi Mandir Rd",
+  "heroHeadline": "Results-Driven Strategic Advisory with Sammarth",
+  "heroSubheadline": "Partnering with businesses and private clients in 5 Rai Residency, Baliram Enclave, Shop No 007, Next to Sub Registrar Office, Gav Devi Mandir Rd to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from 5 Rai Residency, Baliram Enclave, Shop No 007, Next to Sub Registrar Office, Gav Devi Mandir Rd, Sammarth combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Registration office Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to 5 Rai Residency, Baliram Enclave, Shop No 007, Next to Sub Registrar Office, Gav Devi Mandir Rd.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 81695 55598",
+    "phoneRaw": "8169555598",
+    "whatsappLink": "https://wa.me/918169555598?text=Hello%20Sammarth,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "5 Rai Residency, Baliram Enclave, Shop No 007, Next to Sub Registrar Office, Gav Devi Mandir Rd",
+    "googleMapsLink": "https://www.google.com/maps/place/Sammarth/data=!4m7!3m6!1s0x3be795b43ac86bf5:0x13a9c893ffae4a3f!8m2!3d19.2202542!4d73.1299164!16s%2Fg%2F11dz44mhcj!19sChIJ9WvIOrSV5zsRP0qu_5PIqRM?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://vbdigitalcards.in/SHRI-SAMARATH-KRUPA"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:26.556678Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Sammarth. Not affiliated with or endorsed by Sammarth.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

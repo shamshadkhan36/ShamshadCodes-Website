@@ -1,0 +1,79 @@
+{
+  "slug": "rainbow-properties",
+  "businessName": "Rainbow Properties",
+  "category": "Real estate agency",
+  "templateType": "real_estate",
+  "siteType": "new",
+  "existingWebsiteUrl": null,
+  "tagline": "Exclusive Land & Property Investments in Jain Bunglow, JANKI HEIGHTS, Shop No.32 D Wing, New Golden Nest Rd, near mithlala",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across Jain Bunglow, JANKI HEIGHTS, Shop No.32 D Wing, New Golden Nest Rd, near mithlala",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by Rainbow Properties with verified titles and transparent documentation.",
+  "aboutStory": "Rainbow Properties is a premier land advisory firm rooted along Jain Bunglow, JANKI HEIGHTS, Shop No.32 D Wing, New Golden Nest Rd, near mithlala. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along Jain Bunglow, JANKI HEIGHTS, Shop No.32 D Wing, New Golden Nest Rd, near mithlala. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in Jain Bunglow, JANKI HEIGHTS, Shop No.32 D Wing, New Golden Nest Rd, near mithlala."
+    }
+  ],
+  "contact": {
+    "phone": "+91 81081 08214",
+    "phoneRaw": "8108108214",
+    "whatsappLink": "https://wa.me/918108108214?text=Hello%20Rainbow%20Properties,%20I%20saw%20your%20website%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Jain Bunglow, JANKI HEIGHTS, Shop No.32 D Wing, New Golden Nest Rd, near mithlala",
+    "googleMapsLink": "https://www.google.com/maps/place/Rainbow+Properties/data=!4m7!3m6!1s0x3be7b02eee8c0a71:0x6b0a820b9b3555c4!8m2!3d19.3006341!4d72.8685405!16s%2Fg%2F11ckw28z_d!19sChIJcQqM7i6w5zsRxFU1mwuCCms?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": null
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:24.290440Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Rainbow Properties. Not affiliated with or endorsed by Rainbow Properties.",
+    "redesignNotice": null
+  }
+}

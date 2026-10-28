@@ -1,0 +1,76 @@
+{
+  "slug": "mp-estate-agent",
+  "businessName": "MP Estate Agent - Purushottam Paswan",
+  "category": "Construction company",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://wa.link/ldmowj",
+  "tagline": "Strategic Commercial & Professional Advisory in Shop No, 1/2, Mahatma Gandhi Rd",
+  "heroHeadline": "Results-Driven Strategic Advisory with MP Estate Agent - Purushottam Paswan",
+  "heroSubheadline": "Partnering with businesses and private clients in Shop No, 1/2, Mahatma Gandhi Rd to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from Shop No, 1/2, Mahatma Gandhi Rd, MP Estate Agent - Purushottam Paswan combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Construction company Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to Shop No, 1/2, Mahatma Gandhi Rd.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 98672 20247",
+    "phoneRaw": "9867220247",
+    "whatsappLink": "https://wa.me/919867220247?text=Hello%20MP%20Estate%20Agent%20-%20Purushottam%20Paswan,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Shop No, 1/2, Mahatma Gandhi Rd",
+    "googleMapsLink": "https://www.google.com/maps/place/MP+Estate+Agent+-+Purushottam+Paswan/data=!4m7!3m6!1s0x3be7b7e9da9592b1:0xd5eec9b7a737eebb!8m2!3d19.163362!4d72.8379952!16s%2Fg%2F11x2gv2kj3!19sChIJsZKV2um35zsRu-43p7fJ7tU?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://wa.link/ldmowj"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:25.191523Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for MP Estate Agent - Purushottam Paswan. Not affiliated with or endorsed by MP Estate Agent - Purushottam Paswan.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

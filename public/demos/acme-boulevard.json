@@ -1,0 +1,76 @@
+{
+  "slug": "acme-boulevard",
+  "businessName": "Acme Boulevard",
+  "category": "Apartment building",
+  "templateType": "professional_services",
+  "siteType": "new",
+  "existingWebsiteUrl": null,
+  "tagline": "Strategic Commercial & Professional Advisory in MHB Colony Rd, off Jogeshwari - Vikhroli Link Road, opposite Deepak classes",
+  "heroHeadline": "Results-Driven Strategic Advisory with Acme Boulevard",
+  "heroSubheadline": "Partnering with businesses and private clients in MHB Colony Rd, off Jogeshwari - Vikhroli Link Road, opposite Deepak classes to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from MHB Colony Rd, off Jogeshwari - Vikhroli Link Road, opposite Deepak classes, Acme Boulevard combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Apartment building Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to MHB Colony Rd, off Jogeshwari - Vikhroli Link Road, opposite Deepak classes.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 89761 01010",
+    "phoneRaw": "8976101010",
+    "whatsappLink": "https://wa.me/918976101010?text=Hello%20Acme%20Boulevard,%20I%20saw%20your%20website%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "MHB Colony Rd, off Jogeshwari - Vikhroli Link Road, opposite Deepak classes",
+    "googleMapsLink": "https://www.google.com/maps/place/Acme+Boulevard/data=!4m7!3m6!1s0x3be7b7d75ee47969:0xeb59d7858b1431d4!8m2!3d19.1342149!4d72.863543!16s%2Fg%2F1q67k6klk!19sChIJaXnkXte35zsR1DEUi4XXWes?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": null
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:25.368426Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Acme Boulevard. Not affiliated with or endorsed by Acme Boulevard.",
+    "redesignNotice": null
+  }
+}

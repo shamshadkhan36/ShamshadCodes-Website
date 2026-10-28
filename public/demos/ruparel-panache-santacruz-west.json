@@ -1,0 +1,76 @@
+{
+  "slug": "ruparel-panache-santacruz-west",
+  "businessName": "Ruparel Panache Santacruz West",
+  "category": "Housing complex",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://ruparel.in/ruparel-panache.php",
+  "tagline": "Strategic Commercial & Professional Advisory in ",
+  "heroHeadline": "Results-Driven Strategic Advisory with Ruparel Panache Santacruz West",
+  "heroSubheadline": "Partnering with businesses and private clients in  to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from , Ruparel Panache Santacruz West combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Housing complex Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to .",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 70454 51110",
+    "phoneRaw": "7045451110",
+    "whatsappLink": "https://wa.me/917045451110?text=Hello%20Ruparel%20Panache%20Santacruz%20West,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "",
+    "googleMapsLink": "https://www.google.com/maps/place/Ruparel+Panache+Santacruz+West/data=!4m7!3m6!1s0x3be7c9c1922f61bf:0xfc48a1d222de8025!8m2!3d19.0812174!4d72.8386739!16s%2Fg%2F11sq2br3w1!19sChIJv2EvksHJ5zsRJYDeItKhSPw?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://ruparel.in/ruparel-panache.php"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:25.936821Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Ruparel Panache Santacruz West. Not affiliated with or endorsed by Ruparel Panache Santacruz West.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

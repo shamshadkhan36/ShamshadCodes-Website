@@ -1,0 +1,79 @@
+{
+  "slug": "avighna-realtors",
+  "businessName": "Avighna Realtors",
+  "category": "Real estate agency",
+  "templateType": "real_estate",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "http://www.avighnarealtors.com/",
+  "tagline": "Exclusive Land & Property Investments in 202, Swanand Shopping center, Shivaji Chowk, above Axis Bank",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across 202, Swanand Shopping center, Shivaji Chowk, above Axis Bank",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by Avighna Realtors with verified titles and transparent documentation.",
+  "aboutStory": "Avighna Realtors is a premier land advisory firm rooted along 202, Swanand Shopping center, Shivaji Chowk, above Axis Bank. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along 202, Swanand Shopping center, Shivaji Chowk, above Axis Bank. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in 202, Swanand Shopping center, Shivaji Chowk, above Axis Bank."
+    }
+  ],
+  "contact": {
+    "phone": "+91 84465 11333",
+    "phoneRaw": "8446511333",
+    "whatsappLink": "https://wa.me/918446511333?text=Hello%20Avighna%20Realtors,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "202, Swanand Shopping center, Shivaji Chowk, above Axis Bank",
+    "googleMapsLink": "https://www.google.com/maps/place/Avighna+Realtors/data=!4m7!3m6!1s0x3be793839fb1e28b:0x156122826afa20c2!8m2!3d19.2087851!4d73.1856733!16s%2Fg%2F11h7g3s240!19sChIJi-Kxn4OT5zsRwiD6aoIiYRU?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "http://www.avighnarealtors.com/"
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:28.886845Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Avighna Realtors. Not affiliated with or endorsed by Avighna Realtors.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

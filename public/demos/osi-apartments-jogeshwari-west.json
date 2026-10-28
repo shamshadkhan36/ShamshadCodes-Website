@@ -1,0 +1,76 @@
+{
+  "slug": "osi-apartments-jogeshwari-west",
+  "businessName": "OSI Apartments Jogeshwari West",
+  "category": "Serviced apartment",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://osiapartments.in/index.php/hotel-location/jogeshwari-west/",
+  "tagline": "Strategic Commercial & Professional Advisory in N/A",
+  "heroHeadline": "Results-Driven Strategic Advisory with OSI Apartments Jogeshwari West",
+  "heroSubheadline": "Partnering with businesses and private clients in N/A to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from N/A, OSI Apartments Jogeshwari West combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Serviced apartment Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to N/A.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 98594 54454",
+    "phoneRaw": "9859454454",
+    "whatsappLink": "https://wa.me/919859454454?text=Hello%20OSI%20Apartments%20Jogeshwari%20West,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "N/A",
+    "googleMapsLink": "https://www.google.com/maps/place/OSI+Apartments+Jogeshwari+West/data=!4m7!3m6!1s0x3be7b78a4e45aed3:0x3f4399992be2d68e!8m2!3d19.1454664!4d72.8367322!16s%2Fg%2F11h7147_s3!19sChIJ065FToq35zsRjtbiK5mZQz8?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://osiapartments.in/index.php/hotel-location/jogeshwari-west/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:25.387090Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for OSI Apartments Jogeshwari West. Not affiliated with or endorsed by OSI Apartments Jogeshwari West.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

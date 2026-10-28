@@ -1,0 +1,79 @@
+{
+  "slug": "patel-estates",
+  "businessName": "PATEL ESTATE'S",
+  "category": "Real estate agency",
+  "templateType": "real_estate",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "http://patelestates.co.in/",
+  "tagline": "Exclusive Land & Property Investments in Shop No 4, Gurukripa Apt",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across Shop No 4, Gurukripa Apt",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by PATEL ESTATE'S with verified titles and transparent documentation.",
+  "aboutStory": "PATEL ESTATE'S is a premier land advisory firm rooted along Shop No 4, Gurukripa Apt. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along Shop No 4, Gurukripa Apt. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in Shop No 4, Gurukripa Apt."
+    }
+  ],
+  "contact": {
+    "phone": "+91 98706 53539",
+    "phoneRaw": "9870653539",
+    "whatsappLink": "https://wa.me/919870653539?text=Hello%20PATEL%20ESTATE'S,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Shop No 4, Gurukripa Apt",
+    "googleMapsLink": "https://www.google.com/maps/place/PATEL+ESTATE%27S/data=!4m7!3m6!1s0x3be7b78b14201c2d:0xa22f719f2b535736!8m2!3d19.1912352!4d72.8318647!16s%2Fg%2F11s_f5bpyq!19sChIJLRwgFIu35zsRNldTK59xL6I?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "http://patelestates.co.in/"
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:25.049805Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for PATEL ESTATE'S. Not affiliated with or endorsed by PATEL ESTATE'S.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

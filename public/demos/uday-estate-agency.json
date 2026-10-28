@@ -1,0 +1,76 @@
+{
+  "slug": "uday-estate-agency",
+  "businessName": "Uday Estate Agency",
+  "category": "Construction company",
+  "templateType": "professional_services",
+  "siteType": "new",
+  "existingWebsiteUrl": null,
+  "tagline": "Strategic Commercial & Professional Advisory in Shop No.11, Max Venture",
+  "heroHeadline": "Results-Driven Strategic Advisory with Uday Estate Agency",
+  "heroSubheadline": "Partnering with businesses and private clients in Shop No.11, Max Venture to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from Shop No.11, Max Venture, Uday Estate Agency combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Construction company Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to Shop No.11, Max Venture.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 70214 98448",
+    "phoneRaw": "7021498448",
+    "whatsappLink": "https://wa.me/917021498448?text=Hello%20Uday%20Estate%20Agency,%20I%20saw%20your%20website%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Shop No.11, Max Venture",
+    "googleMapsLink": "https://www.google.com/maps/place/Uday+Estate+Agency/data=!4m7!3m6!1s0x3be7a922f3234b9d:0xb84028fcbe9ff164!8m2!3d19.4299127!4d72.8170714!16s%2Fg%2F11t2w4n712!19sChIJnUsj8yKp5zsRZPGfvvwoQLg?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": null
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:23.807286Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Uday Estate Agency. Not affiliated with or endorsed by Uday Estate Agency.",
+    "redesignNotice": null
+  }
+}

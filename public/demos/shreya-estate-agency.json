@@ -1,0 +1,79 @@
+{
+  "slug": "shreya-estate-agency",
+  "businessName": "Shreya Estate Agency - Real Estate Agency in Diva",
+  "category": "Real estate agent",
+  "templateType": "real_estate",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://shreyarealestateagency.in/",
+  "tagline": "Exclusive Land & Property Investments in east railway station, opp. to Shiv Sena office, near Diva",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across east railway station, opp. to Shiv Sena office, near Diva",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by Shreya Estate Agency - Real Estate Agency in Diva with verified titles and transparent documentation.",
+  "aboutStory": "Shreya Estate Agency - Real Estate Agency in Diva is a premier land advisory firm rooted along east railway station, opp. to Shiv Sena office, near Diva. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along east railway station, opp. to Shiv Sena office, near Diva. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in east railway station, opp. to Shiv Sena office, near Diva."
+    }
+  ],
+  "contact": {
+    "phone": "+91 98921 25958",
+    "phoneRaw": "9892125958",
+    "whatsappLink": "https://wa.me/919892125958?text=Hello%20Shreya%20Estate%20Agency%20-%20Real%20Estate%20Agency%20in%20Diva,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "east railway station, opp. to Shiv Sena office, near Diva",
+    "googleMapsLink": "https://www.google.com/maps/place/Shreya+Estate+Agency+-+Real+Estate+Agency+in+Diva/data=!4m7!3m6!1s0x3be7bf10a9a130df:0xff644bda1e1c501e!8m2!3d19.179927!4d73.028721!16s%2Fg%2F11v9_yc57l!19sChIJ3zChqRC_5zsRHlAcHtpLZP8?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://shreyarealestateagency.in/"
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:26.893249Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Shreya Estate Agency - Real Estate Agency in Diva. Not affiliated with or endorsed by Shreya Estate Agency - Real Estate Agency in Diva.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

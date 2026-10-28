@@ -1,0 +1,76 @@
+{
+  "slug": "gupta-builders",
+  "businessName": "Gupta Builders - Redevelopment",
+  "category": "Construction company",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "http://www.theguptabuilders.com/",
+  "tagline": "Strategic Commercial & Professional Advisory in Silver Arch Building, Ground Floor Gupta Estate, Anand Koliwada, near Railway Main Line Crossing",
+  "heroHeadline": "Results-Driven Strategic Advisory with Gupta Builders - Redevelopment",
+  "heroSubheadline": "Partnering with businesses and private clients in Silver Arch Building, Ground Floor Gupta Estate, Anand Koliwada, near Railway Main Line Crossing to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from Silver Arch Building, Ground Floor Gupta Estate, Anand Koliwada, near Railway Main Line Crossing, Gupta Builders - Redevelopment combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Construction company Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to Silver Arch Building, Ground Floor Gupta Estate, Anand Koliwada, near Railway Main Line Crossing.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 98208 80021",
+    "phoneRaw": "9820880021",
+    "whatsappLink": "https://wa.me/919820880021?text=Hello%20Gupta%20Builders%20-%20Redevelopment,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Silver Arch Building, Ground Floor Gupta Estate, Anand Koliwada, near Railway Main Line Crossing",
+    "googleMapsLink": "https://www.google.com/maps/place/Gupta+Builders+-+Redevelopment+%7C+Construction+Company/data=!4m7!3m6!1s0x3be7bf1c065a7be7:0x1b057a30feb78798!8m2!3d19.1854189!4d73.0234246!16s%2Fg%2F11c2ntwwtx!19sChIJ53taBhy_5zsRmIe3_jB6BRs?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "http://www.theguptabuilders.com/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:27.016882Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Gupta Builders - Redevelopment. Not affiliated with or endorsed by Gupta Builders - Redevelopment.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "hariom-realty",
+  "businessName": "Hariom Realty",
+  "category": "Construction company",
+  "templateType": "professional_services",
+  "siteType": "new",
+  "existingWebsiteUrl": null,
+  "tagline": "Strategic Commercial & Professional Advisory in Datta Vijay, Office no, 1/2/3/4, Mahatma Phule Rd",
+  "heroHeadline": "Results-Driven Strategic Advisory with Hariom Realty",
+  "heroSubheadline": "Partnering with businesses and private clients in Datta Vijay, Office no, 1/2/3/4, Mahatma Phule Rd to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from Datta Vijay, Office no, 1/2/3/4, Mahatma Phule Rd, Hariom Realty combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Construction company Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to Datta Vijay, Office no, 1/2/3/4, Mahatma Phule Rd.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 75679 06906",
+    "phoneRaw": "7567906906",
+    "whatsappLink": "https://wa.me/917567906906?text=Hello%20Hariom%20Realty,%20I%20saw%20your%20website%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Datta Vijay, Office no, 1/2/3/4, Mahatma Phule Rd",
+    "googleMapsLink": "https://www.google.com/maps/place/Hariom+Realty/data=!4m7!3m6!1s0x3be7b9481677b931:0x6142dfe4dc1fc92e!8m2!3d19.1717407!4d72.9600514!16s%2Fg%2F11vzrvdptk!19sChIJMbl3Fki55zsRLskf3OTfQmE?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": null
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:27.323619Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Hariom Realty. Not affiliated with or endorsed by Hariom Realty.",
+    "redesignNotice": null
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "malhar-buildcon",
+  "businessName": "Malhar Buildcon",
+  "category": "Construction company",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "http://www.malharbuildcon.com/",
+  "tagline": "Strategic Commercial & Professional Advisory in 2nd Floor, The Count, 203-204, Savitribai Phule Rd",
+  "heroHeadline": "Results-Driven Strategic Advisory with Malhar Buildcon",
+  "heroSubheadline": "Partnering with businesses and private clients in 2nd Floor, The Count, 203-204, Savitribai Phule Rd to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from 2nd Floor, The Count, 203-204, Savitribai Phule Rd, Malhar Buildcon combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Construction company Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to 2nd Floor, The Count, 203-204, Savitribai Phule Rd.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 89769 57318",
+    "phoneRaw": "8976957318",
+    "whatsappLink": "https://wa.me/918976957318?text=Hello%20Malhar%20Buildcon,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "2nd Floor, The Count, 203-204, Savitribai Phule Rd",
+    "googleMapsLink": "https://www.google.com/maps/place/Malhar+Buildcon/data=!4m7!3m6!1s0x3be7951079610d1b:0x2d46746de9c597b1!8m2!3d19.2108245!4d73.1104928!16s%2Fg%2F11j8rjwsxb!19sChIJGw1heRCV5zsRsZfF6W10Ri0?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "http://www.malharbuildcon.com/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:26.844516Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Malhar Buildcon. Not affiliated with or endorsed by Malhar Buildcon.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

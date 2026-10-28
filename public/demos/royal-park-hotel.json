@@ -1,0 +1,76 @@
+{
+  "slug": "royal-park-hotel",
+  "businessName": "Royal Park Hotel",
+  "category": "N/A",
+  "templateType": "hotel",
+  "siteType": "new",
+  "existingWebsiteUrl": null,
+  "tagline": "Coastal Tranquility & Bespoke Hospitality in N/A",
+  "heroHeadline": "Experience Coastal Serenity & Warm Heritage Hospitality",
+  "heroSubheadline": "Relax in spacious oceanfront suites, savor authentic regional delicacies, and recharge at Royal Park Hotel.",
+  "aboutStory": "Situated in N/A, Royal Park Hotel welcomes travelers, families, and weekenders seeking unhurried relaxation.",
+  "valueProposition": "Spacious ocean-breeze rooms, lush garden surroundings, and attentive hospitality.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Luxury Deluxe Suites",
+      "description": "Air-conditioned heritage suites with private balconies and ocean vistas.",
+      "highlights": [
+        "Plush king bedding",
+        "Rain showers & high-speed Wi-Fi"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Garden Dining & Regional Cuisine",
+      "description": "Farm-fresh ingredients and regional culinary specialties.",
+      "highlights": [
+        "Al-fresco garden seating",
+        "Complimentary gourmet breakfast"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Events & Private Gatherings",
+      "description": "Scenic lawn spaces for family celebrations and intimate retreats.",
+      "highlights": [
+        "Customized event catering",
+        "Dedicated event coordination"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Shoreline Proximity",
+      "description": "Just a short stroll to the serene coastal beach and sunsets."
+    },
+    {
+      "id": "f2",
+      "title": "Family & Pet Friendly",
+      "description": "Expansive manicured grounds and secure gated parking."
+    },
+    {
+      "id": "f3",
+      "title": "Instant Direct Confirmation",
+      "description": "Book directly on WhatsApp with zero platform commissions."
+    }
+  ],
+  "contact": {
+    "phone": "+91 99200 99450",
+    "phoneRaw": "9920099450",
+    "whatsappLink": "https://wa.me/919920099450?text=Hello%20Royal%20Park%20Hotel,%20I%20saw%20your%20website%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "N/A",
+    "googleMapsLink": "https://www.google.com/maps/place/Royal+Park+Hotel/data=!4m10!3m9!1s0x3be7ce36187aaaab:0x338f64bb6c5ab937!5m2!4m1!1i2!8m2!3d18.9659002!4d72.844513!16s%2Fg%2F1tfrf713!19sChIJq6p6GDbO5zsRN7labLtkjzM?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": null
+  },
+  "primaryCtaText": "Check Room Availability",
+  "secondaryCtaText": "Explore Suites & Tariffs",
+  "accentColor": "#0284c7",
+  "generatedAt": "2026-10-28T23:51:26.026477Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Royal Park Hotel. Not affiliated with or endorsed by Royal Park Hotel.",
+    "redesignNotice": null
+  }
+}

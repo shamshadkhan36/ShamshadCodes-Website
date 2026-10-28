@@ -1,0 +1,76 @@
+{
+  "slug": "chetan-properties",
+  "businessName": "Chetan Properties",
+  "category": "Estate liquidator",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "http://chetanproperties.com/",
+  "tagline": "Strategic Commercial & Professional Advisory in Valibai khimji bldg, 110A, near DCB Bank",
+  "heroHeadline": "Results-Driven Strategic Advisory with Chetan Properties",
+  "heroSubheadline": "Partnering with businesses and private clients in Valibai khimji bldg, 110A, near DCB Bank to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from Valibai khimji bldg, 110A, near DCB Bank, Chetan Properties combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Estate liquidator Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to Valibai khimji bldg, 110A, near DCB Bank.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 98203 65805",
+    "phoneRaw": "9820365805",
+    "whatsappLink": "https://wa.me/919820365805?text=Hello%20Chetan%20Properties,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Valibai khimji bldg, 110A, near DCB Bank",
+    "googleMapsLink": "https://www.google.com/maps/place/Chetan+Properties/data=!4m7!3m6!1s0x3be7d155b4a8ace1:0x1902a3d23d0636d0!8m2!3d19.1956772!4d72.9781179!16s%2Fg%2F11qnt035kx!19sChIJ4ayotFXR5zsR0DYGPdKjAhk?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "http://chetanproperties.com/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:27.145478Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Chetan Properties. Not affiliated with or endorsed by Chetan Properties.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

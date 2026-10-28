@@ -1,0 +1,79 @@
+{
+  "slug": "bharat-enterprises",
+  "businessName": "BHARAT ENTERPRISES",
+  "category": "Real estate agent",
+  "templateType": "real_estate",
+  "siteType": "new",
+  "existingWebsiteUrl": null,
+  "tagline": "Exclusive Land & Property Investments in SHOP NO 12 BLDG NO 3, KRISHNA NAGARI AT VRINDAVAN NAGARI",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across SHOP NO 12 BLDG NO 3, KRISHNA NAGARI AT VRINDAVAN NAGARI",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by BHARAT ENTERPRISES with verified titles and transparent documentation.",
+  "aboutStory": "BHARAT ENTERPRISES is a premier land advisory firm rooted along SHOP NO 12 BLDG NO 3, KRISHNA NAGARI AT VRINDAVAN NAGARI. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along SHOP NO 12 BLDG NO 3, KRISHNA NAGARI AT VRINDAVAN NAGARI. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in SHOP NO 12 BLDG NO 3, KRISHNA NAGARI AT VRINDAVAN NAGARI."
+    }
+  ],
+  "contact": {
+    "phone": "+91 79772 07511",
+    "phoneRaw": "7977207511",
+    "whatsappLink": "https://wa.me/917977207511?text=Hello%20BHARAT%20ENTERPRISES,%20I%20saw%20your%20website%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "SHOP NO 12 BLDG NO 3, KRISHNA NAGARI AT VRINDAVAN NAGARI",
+    "googleMapsLink": "https://www.google.com/maps/place/BHARAT+ENTERPRISES/data=!4m7!3m6!1s0x3be71fa531a19121:0x6167917ac18b6e60!8m2!3d19.7906645!4d72.7157212!16s%2Fg%2F11t6_5kbvr!19sChIJIZGhMaUf5zsRYG6LwXqRZ2E?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": null
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:23.708247Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for BHARAT ENTERPRISES. Not affiliated with or endorsed by BHARAT ENTERPRISES.",
+    "redesignNotice": null
+  }
+}

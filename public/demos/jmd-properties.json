@@ -1,0 +1,79 @@
+{
+  "slug": "jmd-properties",
+  "businessName": "JMD Properties",
+  "category": "Real estate agency",
+  "templateType": "real_estate",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://jmd-properties.com/",
+  "tagline": "Exclusive Land & Property Investments in Fam CHS Sector-11, Shop Number. A-10 Plot Number.19/19A, Koparkhairne",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across Fam CHS Sector-11, Shop Number. A-10 Plot Number.19/19A, Koparkhairne",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by JMD Properties with verified titles and transparent documentation.",
+  "aboutStory": "JMD Properties is a premier land advisory firm rooted along Fam CHS Sector-11, Shop Number. A-10 Plot Number.19/19A, Koparkhairne. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along Fam CHS Sector-11, Shop Number. A-10 Plot Number.19/19A, Koparkhairne. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in Fam CHS Sector-11, Shop Number. A-10 Plot Number.19/19A, Koparkhairne."
+    }
+  ],
+  "contact": {
+    "phone": "+91 88988 89906",
+    "phoneRaw": "8898889906",
+    "whatsappLink": "https://wa.me/918898889906?text=Hello%20JMD%20Properties,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Fam CHS Sector-11, Shop Number. A-10 Plot Number.19/19A, Koparkhairne",
+    "googleMapsLink": "https://www.google.com/maps/place/JMD+Properties/data=!4m7!3m6!1s0x3be7c127a626628b:0x8eefc460ced75829!8m2!3d19.0950411!4d73.0077622!16s%2Fg%2F11gfjvs4f0!19sChIJi2ImpifB5zsRKVjXzmDE744?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://jmd-properties.com/"
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:28.240216Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for JMD Properties. Not affiliated with or endorsed by JMD Properties.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

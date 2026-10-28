@@ -1,0 +1,79 @@
+{
+  "slug": "katkar-raj",
+  "businessName": "Katkar Raj-Rental office in Mahim West",
+  "category": "Real estate agent",
+  "templateType": "real_estate",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://www.krajghar.com/",
+  "tagline": "Exclusive Land & Property Investments in Gopi Tank Marg",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across Gopi Tank Marg",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by Katkar Raj-Rental office in Mahim West with verified titles and transparent documentation.",
+  "aboutStory": "Katkar Raj-Rental office in Mahim West is a premier land advisory firm rooted along Gopi Tank Marg. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along Gopi Tank Marg. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in Gopi Tank Marg."
+    }
+  ],
+  "contact": {
+    "phone": "+91 98690 38429",
+    "phoneRaw": "9869038429",
+    "whatsappLink": "https://wa.me/919869038429?text=Hello%20Katkar%20Raj-Rental%20office%20in%20Mahim%20West,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Gopi Tank Marg",
+    "googleMapsLink": "https://www.google.com/maps/place/Katkar+Raj-Rental+office+in+Mahim+West+%7CUnder+construction+project+%7C+Flate+or+rent+in+Mahim+West/data=!4m7!3m6!1s0x3be7ced21bd2fb67:0x310bef916f0cc9af!8m2!3d19.0299705!4d72.8407982!16s%2Fg%2F11c2pncyd5!19sChIJZ_vSG9LO5zsRr8kMb5HvCzE?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://www.krajghar.com/"
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:26.097461Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Katkar Raj-Rental office in Mahim West. Not affiliated with or endorsed by Katkar Raj-Rental office in Mahim West.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "aadya-lifespaces",
+  "businessName": "Aadya Lifespaces",
+  "category": "Real estate consultant",
+  "templateType": "real_estate",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "http://www.aadyalifespaces.com/",
+  "tagline": "Exclusive Land & Property Investments in V Mall, 331",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across V Mall, 331",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by Aadya Lifespaces with verified titles and transparent documentation.",
+  "aboutStory": "Aadya Lifespaces is a premier land advisory firm rooted along V Mall, 331. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along V Mall, 331. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in V Mall, 331."
+    }
+  ],
+  "contact": {
+    "phone": "+91 95187 97906",
+    "phoneRaw": "9518797906",
+    "whatsappLink": "https://wa.me/919518797906?text=Hello%20Aadya%20Lifespaces,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "V Mall, 331",
+    "googleMapsLink": "https://www.google.com/maps/place/Aadya+Lifespaces/data=!4m7!3m6!1s0x3be7b7c550bb6f4d:0x4c78faff8c7e5468!8m2!3d19.2095375!4d72.864102!16s%2Fg%2F11nttn_r1q!19sChIJTW-7UMW35zsRaFR-jP_6eEw?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "http://www.aadyalifespaces.com/"
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:24.795856Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Aadya Lifespaces. Not affiliated with or endorsed by Aadya Lifespaces.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "image-properties-finance-real-estate-agent",
+  "businessName": "Image Properties & Finance (Real Estate Agent",
+  "category": "Real estate agent",
+  "templateType": "real_estate",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://www.linkedin.com/company/image-properties-mumbai/",
+  "tagline": "Exclusive Land & Property Investments in Sukh Sagar, B/18, near N D Bhutta School, off Old Nagardas Road",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across Sukh Sagar, B/18, near N D Bhutta School, off Old Nagardas Road",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by Image Properties & Finance (Real Estate Agent with verified titles and transparent documentation.",
+  "aboutStory": "Image Properties & Finance (Real Estate Agent is a premier land advisory firm rooted along Sukh Sagar, B/18, near N D Bhutta School, off Old Nagardas Road. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along Sukh Sagar, B/18, near N D Bhutta School, off Old Nagardas Road. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in Sukh Sagar, B/18, near N D Bhutta School, off Old Nagardas Road."
+    }
+  ],
+  "contact": {
+    "phone": "+91 98202 00009",
+    "phoneRaw": "9820200009",
+    "whatsappLink": "https://wa.me/919820200009?text=Hello%20Image%20Properties%20&%20Finance%20(Real%20Estate%20Agent,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Sukh Sagar, B/18, near N D Bhutta School, off Old Nagardas Road",
+    "googleMapsLink": "https://www.google.com/maps/place/Image+Properties+%26+Finance+%28Real+Estate+Agent%2FBroker+in+Andheri+East%29/data=!4m7!3m6!1s0x3be7c9b3a52d021d:0x13057160fc265906!8m2!3d19.1228796!4d72.851665!16s%2Fg%2F11yhrmtmq5!19sChIJHQItpbPJ5zsRBlkm_GBxBRM?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://www.linkedin.com/company/image-properties-mumbai/"
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:25.552912Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Image Properties & Finance (Real Estate Agent. Not affiliated with or endorsed by Image Properties & Finance (Real Estate Agent.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

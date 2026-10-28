@@ -1,0 +1,76 @@
+{
+  "slug": "yash-consultants",
+  "businessName": "YASH CONSULTANTS",
+  "category": "Financial planner",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "http://www.yashcon.co.in/",
+  "tagline": "Strategic Commercial & Professional Advisory in Patel place, 05, Main Rd, behind BOB Bank",
+  "heroHeadline": "Results-Driven Strategic Advisory with YASH CONSULTANTS",
+  "heroSubheadline": "Partnering with businesses and private clients in Patel place, 05, Main Rd, behind BOB Bank to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from Patel place, 05, Main Rd, behind BOB Bank, YASH CONSULTANTS combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Financial planner Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to Patel place, 05, Main Rd, behind BOB Bank.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 98904 05470",
+    "phoneRaw": "9890405470",
+    "whatsappLink": "https://wa.me/919890405470?text=Hello%20YASH%20CONSULTANTS,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Patel place, 05, Main Rd, behind BOB Bank",
+    "googleMapsLink": "https://www.google.com/maps/place/YASH+CONSULTANTS/data=!4m7!3m6!1s0x3be7279a03916b9b:0x250a908ab7799d4d!8m2!3d19.9890435!4d72.7370315!16s%2Fg%2F11qpxm0sx7!19sChIJm2uRA5on5zsRTZ15t4qQCiU?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "http://www.yashcon.co.in/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:23.681573Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for YASH CONSULTANTS. Not affiliated with or endorsed by YASH CONSULTANTS.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "aadhira-residency-chsl",
+  "businessName": "Aadhira Residency CHSL",
+  "category": "Apartment building",
+  "templateType": "professional_services",
+  "siteType": "new",
+  "existingWebsiteUrl": null,
+  "tagline": "Strategic Commercial & Professional Advisory in 400057, Shahaji Raje Marg, opposite Bhutta highschool",
+  "heroHeadline": "Results-Driven Strategic Advisory with Aadhira Residency CHSL",
+  "heroSubheadline": "Partnering with businesses and private clients in 400057, Shahaji Raje Marg, opposite Bhutta highschool to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from 400057, Shahaji Raje Marg, opposite Bhutta highschool, Aadhira Residency CHSL combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Apartment building Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to 400057, Shahaji Raje Marg, opposite Bhutta highschool.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 70211 67872",
+    "phoneRaw": "7021167872",
+    "whatsappLink": "https://wa.me/917021167872?text=Hello%20Aadhira%20Residency%20CHSL,%20I%20saw%20your%20website%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "400057, Shahaji Raje Marg, opposite Bhutta highschool",
+    "googleMapsLink": "https://www.google.com/maps/place/Aadhira+Residency+CHSL/data=!4m7!3m6!1s0x3be7c9cbeb0996cd:0x40debfcbea785984!8m2!3d19.1096244!4d72.8471611!16s%2Fg%2F11fx91zntd!19sChIJzZYJ68vJ5zsRhFl46su_3kA?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": null
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:25.770615Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Aadhira Residency CHSL. Not affiliated with or endorsed by Aadhira Residency CHSL.",
+    "redesignNotice": null
+  }
+}

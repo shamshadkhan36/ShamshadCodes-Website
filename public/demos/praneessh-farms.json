@@ -1,0 +1,76 @@
+{
+  "slug": "praneessh-farms",
+  "businessName": "Praneessh Farms",
+  "category": "Villa",
+  "templateType": "professional_services",
+  "siteType": "new",
+  "existingWebsiteUrl": null,
+  "tagline": "Strategic Commercial & Professional Advisory in N/A",
+  "heroHeadline": "Results-Driven Strategic Advisory with Praneessh Farms",
+  "heroSubheadline": "Partnering with businesses and private clients in N/A to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from N/A, Praneessh Farms combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Villa Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to N/A.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 80977 24198",
+    "phoneRaw": "8097724198",
+    "whatsappLink": "https://wa.me/918097724198?text=Hello%20Praneessh%20Farms,%20I%20saw%20your%20website%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "N/A",
+    "googleMapsLink": "https://www.google.com/maps/place/Praneessh+Farms/data=!4m10!3m9!1s0x3be7f92165dd019b:0x44c71a6a658bc558!5m2!4m1!1i2!8m2!3d18.9557443!4d73.4002597!16s%2Fg%2F11q8s2scby!19sChIJmwHdZSH55zsRWMWLZWoax0Q?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": null
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:29.423475Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Praneessh Farms. Not affiliated with or endorsed by Praneessh Farms.",
+    "redesignNotice": null
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "aikya-realty-pvt-ltd",
+  "businessName": "Aikya Realty Pvt Ltd",
+  "category": "Construction company",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://aikyarealty.com/",
+  "tagline": "Strategic Commercial & Professional Advisory in Naza Building, Tukaram Javaji Marg",
+  "heroHeadline": "Results-Driven Strategic Advisory with Aikya Realty Pvt Ltd",
+  "heroSubheadline": "Partnering with businesses and private clients in Naza Building, Tukaram Javaji Marg to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from Naza Building, Tukaram Javaji Marg, Aikya Realty Pvt Ltd combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Construction company Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to Naza Building, Tukaram Javaji Marg.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 91378 35505",
+    "phoneRaw": "9137835505",
+    "whatsappLink": "https://wa.me/919137835505?text=Hello%20Aikya%20Realty%20Pvt%20Ltd,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Naza Building, Tukaram Javaji Marg",
+    "googleMapsLink": "https://www.google.com/maps/place/Aikya+Realty+Pvt+Ltd/data=!4m7!3m6!1s0x3be7cf066c2c590d:0xe6b0debf35351205!8m2!3d18.9649559!4d72.8160861!16s%2Fg%2F11ftnlq5_n!19sChIJDVksbAbP5zsRBRI1Nb_esOY?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://aikyarealty.com/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:26.393800Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Aikya Realty Pvt Ltd. Not affiliated with or endorsed by Aikya Realty Pvt Ltd.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

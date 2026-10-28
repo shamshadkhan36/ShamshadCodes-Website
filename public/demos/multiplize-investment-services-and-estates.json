@@ -1,0 +1,76 @@
+{
+  "slug": "multiplize-investment-services-and-estates",
+  "businessName": "Multiplize Investment Services and Estates",
+  "category": "Financial consultant",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "http://www.multiplize.com/",
+  "tagline": "Strategic Commercial & Professional Advisory in 1st Floor, Loha Bhavan, 110/111, P D'Mello Rd",
+  "heroHeadline": "Results-Driven Strategic Advisory with Multiplize Investment Services and Estates",
+  "heroSubheadline": "Partnering with businesses and private clients in 1st Floor, Loha Bhavan, 110/111, P D'Mello Rd to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from 1st Floor, Loha Bhavan, 110/111, P D'Mello Rd, Multiplize Investment Services and Estates combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Financial consultant Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to 1st Floor, Loha Bhavan, 110/111, P D'Mello Rd.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 99305 49804",
+    "phoneRaw": "9930549804",
+    "whatsappLink": "https://wa.me/919930549804?text=Hello%20Multiplize%20Investment%20Services%20and%20Estates,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "1st Floor, Loha Bhavan, 110/111, P D'Mello Rd",
+    "googleMapsLink": "https://www.google.com/maps/place/Multiplize+Investment+Services+and+Estates/data=!4m7!3m6!1s0x3be7ce24eaaaaaa9:0xe8674f170e884f46!8m2!3d18.9519798!4d72.8414511!16s%2Fg%2F11c2kjsdds!19sChIJqaqq6iTO5zsRRk-IDhdPZ-g?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "http://www.multiplize.com/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:26.434613Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Multiplize Investment Services and Estates. Not affiliated with or endorsed by Multiplize Investment Services and Estates.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

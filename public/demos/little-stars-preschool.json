@@ -1,0 +1,76 @@
+{
+  "slug": "little-stars-preschool",
+  "businessName": "Little Star's Preschool",
+  "category": "Preschool",
+  "templateType": "education",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://little-stars-pre.grexa.site/",
+  "tagline": "Nurturing Academic Excellence & Leadership in Narmarda hill view, Gundage 402, behind Forest office",
+  "heroHeadline": "Empowering Curious Minds & Future Leaders at Little Star's Preschool",
+  "heroSubheadline": "Holistic academic curriculum, disciplined mentorship, and experiential learning located at Narmarda hill view, Gundage 402, behind Forest office.",
+  "aboutStory": "Little Star's Preschool fosters intellectual curiosity, emotional intelligence, and scholastic excellence in Narmarda hill view, Gundage 402, behind Forest office.",
+  "valueProposition": "Individualized student attention, modern interactive labs, and dedicated educators.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Foundational Academics",
+      "description": "Structured syllabus mastery with emphasis on conceptual depth.",
+      "highlights": [
+        "Small cohort sizes",
+        "Continuous progress monitoring"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Advanced STEM & Creative Arts",
+      "description": "Hands-on laboratory sessions, robotics, and creative workshops.",
+      "highlights": [
+        "Modern learning labs",
+        "Project-based pedagogy"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Admissions & Academic Counseling",
+      "description": "Personalized guidance aligning learning tracks with student strengths.",
+      "highlights": [
+        "Transparent fee schedule",
+        "Regular parent-educator forums"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Distinguished Faculty",
+      "description": "Passionate mentors committed to inspiring every student."
+    },
+    {
+      "id": "f2",
+      "title": "Modern Campus Facilities",
+      "description": "Well-equipped libraries, digital classrooms, and safe sports grounds."
+    },
+    {
+      "id": "f3",
+      "title": "Active Parent Engagement",
+      "description": "Direct communication and real-time student milestone tracking."
+    }
+  ],
+  "contact": {
+    "phone": "+91 92840 74789",
+    "phoneRaw": "9284074789",
+    "whatsappLink": "https://wa.me/919284074789?text=Hello%20Little%20Star's%20Preschool,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Narmarda hill view, Gundage 402, behind Forest office",
+    "googleMapsLink": "https://www.google.com/maps/place/Little+Star%27s+Preschool/data=!4m7!3m6!1s0x3be7fb7bd7f8abcd:0x7a3fe74ff963d710!8m2!3d18.908061!4d73.3187536!16s%2Fg%2F11c1xvdjg6!19sChIJzav413v75zsRENdj-U_nP3o?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://little-stars-pre.grexa.site/"
+  },
+  "primaryCtaText": "Inquire for Admissions",
+  "secondaryCtaText": "Download Prospectus",
+  "accentColor": "#059669",
+  "generatedAt": "2026-10-28T23:51:29.386587Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Little Star's Preschool. Not affiliated with or endorsed by Little Star's Preschool.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

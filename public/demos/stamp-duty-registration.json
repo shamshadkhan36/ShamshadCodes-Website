@@ -1,0 +1,76 @@
+{
+  "slug": "stamp-duty-registration",
+  "businessName": "Stamp Duty Registration",
+  "category": "Legal services",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "http://www.starservicereg.com/",
+  "tagline": "Strategic Commercial & Professional Advisory in Mapple Plaza, 105",
+  "heroHeadline": "Results-Driven Strategic Advisory with Stamp Duty Registration",
+  "heroSubheadline": "Partnering with businesses and private clients in Mapple Plaza, 105 to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from Mapple Plaza, 105, Stamp Duty Registration combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Legal services Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to Mapple Plaza, 105.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 97733 94786",
+    "phoneRaw": "9773394786",
+    "whatsappLink": "https://wa.me/919773394786?text=Hello%20Stamp%20Duty%20Registration,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Mapple Plaza, 105",
+    "googleMapsLink": "https://www.google.com/maps/place/Stamp+Duty+Registration%7CDocumentation.+Leave+And+Licence+Agreement+STARSERVICES/data=!4m7!3m6!1s0x3be7b7cd818845e7:0x4a700741e9a166b5!8m2!3d19.1368037!4d72.8578729!16s%2Fg%2F11vxych9m3!19sChIJ50WIgc235zsRtWah6UEHcEo?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "http://www.starservicereg.com/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:25.381090Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Stamp Duty Registration. Not affiliated with or endorsed by Stamp Duty Registration.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

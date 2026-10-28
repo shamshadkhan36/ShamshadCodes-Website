@@ -1,0 +1,79 @@
+{
+  "slug": "a-2",
+  "businessName": "A-PROP Real Estate and Financial Consultant",
+  "category": "Real estate agent",
+  "templateType": "real_estate",
+  "siteType": "new",
+  "existingWebsiteUrl": null,
+  "tagline": "Exclusive Land & Property Investments in 12, Rajmahal shopping centre, MV road, Junction of, Teli Gali",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across 12, Rajmahal shopping centre, MV road, Junction of, Teli Gali",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by A-PROP Real Estate and Financial Consultant with verified titles and transparent documentation.",
+  "aboutStory": "A-PROP Real Estate and Financial Consultant is a premier land advisory firm rooted along 12, Rajmahal shopping centre, MV road, Junction of, Teli Gali. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along 12, Rajmahal shopping centre, MV road, Junction of, Teli Gali. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in 12, Rajmahal shopping centre, MV road, Junction of, Teli Gali."
+    }
+  ],
+  "contact": {
+    "phone": "+91 98216 95436",
+    "phoneRaw": "9821695436",
+    "whatsappLink": "https://wa.me/919821695436?text=Hello%20A-PROP%20Real%20Estate%20and%20Financial%20Consultant,%20I%20saw%20your%20website%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "12, Rajmahal shopping centre, MV road, Junction of, Teli Gali",
+    "googleMapsLink": "https://www.google.com/maps/place/A-PROP+Real+Estate+and+Financial+Consultant/data=!4m7!3m6!1s0x3be7c97f7d6f6749:0xb7491c3c2230ad13!8m2!3d19.119464!4d72.8509248!16s%2Fg%2F11trzpcw1h!19sChIJSWdvfX_J5zsRE60wIjwcSbc?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": null
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:25.608452Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for A-PROP Real Estate and Financial Consultant. Not affiliated with or endorsed by A-PROP Real Estate and Financial Consultant.",
+    "redesignNotice": null
+  }
+}

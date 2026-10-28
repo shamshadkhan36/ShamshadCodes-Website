@@ -1,0 +1,79 @@
+{
+  "slug": "palve-ventures",
+  "businessName": "Palve Ventures",
+  "category": "Real estate consultant",
+  "templateType": "real_estate",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "http://palgharrealestate.co.in/",
+  "tagline": "Exclusive Land & Property Investments in Rajyog Elenza, Char Rasta, near by Rilif Hospital",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across Rajyog Elenza, Char Rasta, near by Rilif Hospital",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by Palve Ventures with verified titles and transparent documentation.",
+  "aboutStory": "Palve Ventures is a premier land advisory firm rooted along Rajyog Elenza, Char Rasta, near by Rilif Hospital. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along Rajyog Elenza, Char Rasta, near by Rilif Hospital. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in Rajyog Elenza, Char Rasta, near by Rilif Hospital."
+    }
+  ],
+  "contact": {
+    "phone": "+91 92704 49092",
+    "phoneRaw": "9270449092",
+    "whatsappLink": "https://wa.me/919270449092?text=Hello%20Palve%20Ventures,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Rajyog Elenza, Char Rasta, near by Rilif Hospital",
+    "googleMapsLink": "https://www.google.com/maps/place/Palve+Ventures,+Palghar+Real+Estate/data=!4m7!3m6!1s0x3be71cddd8fca379:0x8688262f8bc08fa8!8m2!3d19.7044194!4d72.7665619!16s%2Fg%2F11sjzy7k3x!19sChIJeaP82N0c5zsRqI_Aiy8miIY?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "http://palgharrealestate.co.in/"
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:23.713420Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Palve Ventures. Not affiliated with or endorsed by Palve Ventures.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

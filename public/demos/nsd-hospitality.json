@@ -1,0 +1,76 @@
+{
+  "slug": "nsd-hospitality",
+  "businessName": "NSD Hospitality",
+  "category": "Resort hotel",
+  "templateType": "hotel",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "http://www.nsdhospitality.com/",
+  "tagline": "Coastal Tranquility & Bespoke Hospitality in N/A",
+  "heroHeadline": "Experience Coastal Serenity & Warm Heritage Hospitality",
+  "heroSubheadline": "Relax in spacious oceanfront suites, savor authentic regional delicacies, and recharge at NSD Hospitality.",
+  "aboutStory": "Situated in N/A, NSD Hospitality welcomes travelers, families, and weekenders seeking unhurried relaxation.",
+  "valueProposition": "Spacious ocean-breeze rooms, lush garden surroundings, and attentive hospitality.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Luxury Deluxe Suites",
+      "description": "Air-conditioned heritage suites with private balconies and ocean vistas.",
+      "highlights": [
+        "Plush king bedding",
+        "Rain showers & high-speed Wi-Fi"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Garden Dining & Regional Cuisine",
+      "description": "Farm-fresh ingredients and regional culinary specialties.",
+      "highlights": [
+        "Al-fresco garden seating",
+        "Complimentary gourmet breakfast"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Events & Private Gatherings",
+      "description": "Scenic lawn spaces for family celebrations and intimate retreats.",
+      "highlights": [
+        "Customized event catering",
+        "Dedicated event coordination"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Shoreline Proximity",
+      "description": "Just a short stroll to the serene coastal beach and sunsets."
+    },
+    {
+      "id": "f2",
+      "title": "Family & Pet Friendly",
+      "description": "Expansive manicured grounds and secure gated parking."
+    },
+    {
+      "id": "f3",
+      "title": "Instant Direct Confirmation",
+      "description": "Book directly on WhatsApp with zero platform commissions."
+    }
+  ],
+  "contact": {
+    "phone": "+91 80975 39045",
+    "phoneRaw": "8097539045",
+    "whatsappLink": "https://wa.me/918097539045?text=Hello%20NSD%20Hospitality,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "N/A",
+    "googleMapsLink": "https://www.google.com/maps/place/NSD+Hospitality,+Resorts+%26+Villas+Sales,+Karjat+-+Khopoli/data=!4m10!3m9!1s0x3be7fba54566613b:0xf0e047b3a06c360b!5m2!4m1!1i2!8m2!3d19.0259807!4d73.3193328!16s%2Fg%2F11zjlgp659!19sChIJO2FmRaX75zsRCzZsoLNH4PA?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "http://www.nsdhospitality.com/"
+  },
+  "primaryCtaText": "Check Room Availability",
+  "secondaryCtaText": "Explore Suites & Tariffs",
+  "accentColor": "#0284c7",
+  "generatedAt": "2026-10-28T23:51:29.284939Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for NSD Hospitality. Not affiliated with or endorsed by NSD Hospitality.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

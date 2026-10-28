@@ -1,0 +1,79 @@
+{
+  "slug": "dosti",
+  "businessName": "DOSTI",
+  "category": "Real estate agency",
+  "templateType": "real_estate",
+  "siteType": "new",
+  "existingWebsiteUrl": null,
+  "tagline": "Exclusive Land & Property Investments in Dosti Eastern Bay Passcode Infinia Sales Lounge, Uphill, Linking Rd, adjacent to Dosti Acres, near MCGM Bldg",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across Dosti Eastern Bay Passcode Infinia Sales Lounge, Uphill, Linking Rd, adjacent to Dosti Acres, near MCGM Bldg",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by DOSTI with verified titles and transparent documentation.",
+  "aboutStory": "DOSTI is a premier land advisory firm rooted along Dosti Eastern Bay Passcode Infinia Sales Lounge, Uphill, Linking Rd, adjacent to Dosti Acres, near MCGM Bldg. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along Dosti Eastern Bay Passcode Infinia Sales Lounge, Uphill, Linking Rd, adjacent to Dosti Acres, near MCGM Bldg. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in Dosti Eastern Bay Passcode Infinia Sales Lounge, Uphill, Linking Rd, adjacent to Dosti Acres, near MCGM Bldg."
+    }
+  ],
+  "contact": {
+    "phone": "+91 88506 46353",
+    "phoneRaw": "8850646353",
+    "whatsappLink": "https://wa.me/918850646353?text=Hello%20DOSTI,%20I%20saw%20your%20website%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Dosti Eastern Bay Passcode Infinia Sales Lounge, Uphill, Linking Rd, adjacent to Dosti Acres, near MCGM Bldg",
+    "googleMapsLink": "https://www.google.com/maps/place/DOSTI/data=!4m7!3m6!1s0x3be7cf3a4fffffff:0xe4405ee4b3c10448!8m2!3d19.0259232!4d72.8658997!16s%2Fg%2F11v0mlw19w!19sChIJ____TzrP5zsRSATBs-ReQOQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": null
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:26.204975Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for DOSTI. Not affiliated with or endorsed by DOSTI.",
+    "redesignNotice": null
+  }
+}

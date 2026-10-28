@@ -1,0 +1,79 @@
+{
+  "slug": "santosh-properties",
+  "businessName": "Santosh Properties",
+  "category": "Real estate consultant",
+  "templateType": "real_estate",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://www.santoshproperties.in/",
+  "tagline": "Exclusive Land & Property Investments in Railway Station, Shop No 007, Nirman Palaza, Nirman Nagari, near Neral",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across Railway Station, Shop No 007, Nirman Palaza, Nirman Nagari, near Neral",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by Santosh Properties with verified titles and transparent documentation.",
+  "aboutStory": "Santosh Properties is a premier land advisory firm rooted along Railway Station, Shop No 007, Nirman Palaza, Nirman Nagari, near Neral. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along Railway Station, Shop No 007, Nirman Palaza, Nirman Nagari, near Neral. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in Railway Station, Shop No 007, Nirman Palaza, Nirman Nagari, near Neral."
+    }
+  ],
+  "contact": {
+    "phone": "+91 78886 07763",
+    "phoneRaw": "7888607763",
+    "whatsappLink": "https://wa.me/917888607763?text=Hello%20Santosh%20Properties,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Railway Station, Shop No 007, Nirman Palaza, Nirman Nagari, near Neral",
+    "googleMapsLink": "https://www.google.com/maps/place/Santosh+Properties/data=!4m7!3m6!1s0x3be7f1ee483df45f:0xb5551816336d473b!8m2!3d19.0258971!4d73.3197796!16s%2Fg%2F11lct6dvwd!19sChIJX_Q9SO7x5zsRO0dtMxYYVbU?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://www.santoshproperties.in/"
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:29.287419Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Santosh Properties. Not affiliated with or endorsed by Santosh Properties.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

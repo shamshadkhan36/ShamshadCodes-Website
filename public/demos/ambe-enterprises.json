@@ -1,0 +1,76 @@
+{
+  "slug": "ambe-enterprises",
+  "businessName": "Ambe Enterprises",
+  "category": "Financial consultant",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://ambe-enterprises.grexa.site/",
+  "tagline": "Strategic Commercial & Professional Advisory in Shop No.21, Ambika Park 3, Shiv Sena Galli, nr. J.H Poddar School",
+  "heroHeadline": "Results-Driven Strategic Advisory with Ambe Enterprises",
+  "heroSubheadline": "Partnering with businesses and private clients in Shop No.21, Ambika Park 3, Shiv Sena Galli, nr. J.H Poddar School to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from Shop No.21, Ambika Park 3, Shiv Sena Galli, nr. J.H Poddar School, Ambe Enterprises combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Financial consultant Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to Shop No.21, Ambika Park 3, Shiv Sena Galli, nr. J.H Poddar School.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 91525 41547",
+    "phoneRaw": "9152541547",
+    "whatsappLink": "https://wa.me/919152541547?text=Hello%20Ambe%20Enterprises,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Shop No.21, Ambika Park 3, Shiv Sena Galli, nr. J.H Poddar School",
+    "googleMapsLink": "https://www.google.com/maps/place/Ambe+Enterprises/data=!4m7!3m6!1s0x3be7b1d6a3acadad:0xff136c1e0437ca0e!8m2!3d19.3071736!4d72.8484217!16s%2Fg%2F11sf2gdqbt!19sChIJra2so9ax5zsRDso3BB5sE_8?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://ambe-enterprises.grexa.site/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:24.353432Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Ambe Enterprises. Not affiliated with or endorsed by Ambe Enterprises.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

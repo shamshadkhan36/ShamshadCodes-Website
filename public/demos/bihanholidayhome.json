@@ -1,0 +1,76 @@
+{
+  "slug": "bihanholidayhome",
+  "businessName": "Bihanholidayhome",
+  "category": "Vacation home rental agency",
+  "templateType": "professional_services",
+  "siteType": "new",
+  "existingWebsiteUrl": null,
+  "tagline": "Strategic Commercial & Professional Advisory in Primary School, Near Jaya Road, Chanpabani, near Chanpabani",
+  "heroHeadline": "Results-Driven Strategic Advisory with Bihanholidayhome",
+  "heroSubheadline": "Partnering with businesses and private clients in Primary School, Near Jaya Road, Chanpabani, near Chanpabani to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from Primary School, Near Jaya Road, Chanpabani, near Chanpabani, Bihanholidayhome combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Vacation home rental agency Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to Primary School, Near Jaya Road, Chanpabani, near Chanpabani.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 89273 05609",
+    "phoneRaw": "8927305609",
+    "whatsappLink": "https://wa.me/918927305609?text=Hello%20Bihanholidayhome,%20I%20saw%20your%20website%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Primary School, Near Jaya Road, Chanpabani, near Chanpabani",
+    "googleMapsLink": "https://www.google.com/maps/place/Bihanholidayhome/data=!4m7!3m6!1s0x3a1ccd7e4c28b2ab:0xf5dcb4de49717bd6!8m2!3d21.6279365!4d87.5078792!16s%2Fg%2F11mzqlyzx8!19sChIJq7IoTH7NHDoR1ntxSd603PU?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": null
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:28.611587Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Bihanholidayhome. Not affiliated with or endorsed by Bihanholidayhome.",
+    "redesignNotice": null
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "signature-sales-project-management",
+  "businessName": "SIGNATURE SALES PROJECT MANAGEMENT",
+  "category": "Marketing agency",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://signaturesales.co.in/",
+  "tagline": "Strategic Commercial & Professional Advisory in Office No 32, Aster Apartment, Station Rd, behind HDFC Bank",
+  "heroHeadline": "Results-Driven Strategic Advisory with SIGNATURE SALES PROJECT MANAGEMENT",
+  "heroSubheadline": "Partnering with businesses and private clients in Office No 32, Aster Apartment, Station Rd, behind HDFC Bank to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from Office No 32, Aster Apartment, Station Rd, behind HDFC Bank, SIGNATURE SALES PROJECT MANAGEMENT combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Marketing agency Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to Office No 32, Aster Apartment, Station Rd, behind HDFC Bank.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 86986 96362",
+    "phoneRaw": "8698696362",
+    "whatsappLink": "https://wa.me/918698696362?text=Hello%20SIGNATURE%20SALES%20PROJECT%20MANAGEMENT,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Office No 32, Aster Apartment, Station Rd, behind HDFC Bank",
+    "googleMapsLink": "https://www.google.com/maps/place/SIGNATURE+SALES+PROJECT+MANAGEMENT/data=!4m7!3m6!1s0x3be7a954ed487067:0xf477b4c88025072a!8m2!3d19.4201248!4d72.8107419!16s%2Fg%2F11yjp0c5d3!19sChIJZ3BI7VSp5zsRKgclgMi0d_Q?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://signaturesales.co.in/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:24.005430Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for SIGNATURE SALES PROJECT MANAGEMENT. Not affiliated with or endorsed by SIGNATURE SALES PROJECT MANAGEMENT.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

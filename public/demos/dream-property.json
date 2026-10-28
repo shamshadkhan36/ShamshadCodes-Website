@@ -1,0 +1,79 @@
+{
+  "slug": "dream-property",
+  "businessName": "Dream Property",
+  "category": "Real estate agent",
+  "templateType": "real_estate",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://www.dreamproperty99.com/",
+  "tagline": "Exclusive Land & Property Investments in Dream Property Shop No 33 Building 3 Mahalaxmi Nagar Juchandra",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across Dream Property Shop No 33 Building 3 Mahalaxmi Nagar Juchandra",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by Dream Property with verified titles and transparent documentation.",
+  "aboutStory": "Dream Property is a premier land advisory firm rooted along Dream Property Shop No 33 Building 3 Mahalaxmi Nagar Juchandra. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along Dream Property Shop No 33 Building 3 Mahalaxmi Nagar Juchandra. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in Dream Property Shop No 33 Building 3 Mahalaxmi Nagar Juchandra."
+    }
+  ],
+  "contact": {
+    "phone": "+91 90498 07815",
+    "phoneRaw": "9049807815",
+    "whatsappLink": "https://wa.me/919049807815?text=Hello%20Dream%20Property,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Dream Property Shop No 33 Building 3 Mahalaxmi Nagar Juchandra",
+    "googleMapsLink": "https://www.google.com/maps/place/Dream+Property/data=!4m7!3m6!1s0x3be7afc86adcce15:0x58569bccea40ab39!8m2!3d19.3588684!4d72.8663591!16s%2Fg%2F11tnhh19bx!19sChIJFc7casiv5zsROatA6sybVlg?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://www.dreamproperty99.com/"
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:24.165660Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Dream Property. Not affiliated with or endorsed by Dream Property.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

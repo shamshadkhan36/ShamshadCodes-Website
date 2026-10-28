@@ -1,0 +1,79 @@
+{
+  "slug": "msp-properties-consultant",
+  "businessName": "MSP Properties Consultant",
+  "category": "Industrial real estate agency",
+  "templateType": "real_estate",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://wa.link/4mqchr",
+  "tagline": "Exclusive Land & Property Investments in 1st Floor 128, Evershine Mall, Chincholi Bunder Rd",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across 1st Floor 128, Evershine Mall, Chincholi Bunder Rd",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by MSP Properties Consultant with verified titles and transparent documentation.",
+  "aboutStory": "MSP Properties Consultant is a premier land advisory firm rooted along 1st Floor 128, Evershine Mall, Chincholi Bunder Rd. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along 1st Floor 128, Evershine Mall, Chincholi Bunder Rd. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in 1st Floor 128, Evershine Mall, Chincholi Bunder Rd."
+    }
+  ],
+  "contact": {
+    "phone": "+91 86521 80048",
+    "phoneRaw": "8652180048",
+    "whatsappLink": "https://wa.me/918652180048?text=Hello%20MSP%20Properties%20Consultant,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "1st Floor 128, Evershine Mall, Chincholi Bunder Rd",
+    "googleMapsLink": "https://www.google.com/maps/place/MSP+Properties+Consultant/data=!4m7!3m6!1s0x3be7b75cf96ea305:0x64d7ff653e61d8f4!8m2!3d19.178921!4d72.8361314!16s%2Fg%2F11x7mfhppj!19sChIJBaNu-Vy35zsR9NhhPmX_12Q?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://wa.link/4mqchr"
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:25.088494Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for MSP Properties Consultant. Not affiliated with or endorsed by MSP Properties Consultant.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

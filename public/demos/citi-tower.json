@@ -1,0 +1,79 @@
+{
+  "slug": "citi-tower",
+  "businessName": "Citi Tower - office for Lease",
+  "category": "Real estate consultant",
+  "templateType": "real_estate",
+  "siteType": "new",
+  "existingWebsiteUrl": null,
+  "tagline": "Exclusive Land & Property Investments in Citi Tower, 61, Dr SS Rao Marg, near Gandhi Hospital",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across Citi Tower, 61, Dr SS Rao Marg, near Gandhi Hospital",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by Citi Tower - office for Lease with verified titles and transparent documentation.",
+  "aboutStory": "Citi Tower - office for Lease is a premier land advisory firm rooted along Citi Tower, 61, Dr SS Rao Marg, near Gandhi Hospital. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along Citi Tower, 61, Dr SS Rao Marg, near Gandhi Hospital. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in Citi Tower, 61, Dr SS Rao Marg, near Gandhi Hospital."
+    }
+  ],
+  "contact": {
+    "phone": "+91 82916 87806",
+    "phoneRaw": "8291687806",
+    "whatsappLink": "https://wa.me/918291687806?text=Hello%20Citi%20Tower%20-%20office%20for%20Lease,%20I%20saw%20your%20website%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Citi Tower, 61, Dr SS Rao Marg, near Gandhi Hospital",
+    "googleMapsLink": "https://www.google.com/maps/place/Citi+Tower+-+office+for+Lease/data=!4m7!3m6!1s0x3be7cefa72b00931:0xc71afeb9a1cb58e4!8m2!3d18.9968128!4d72.8404203!16s%2Fg%2F11c1p2ff78!19sChIJMQmwcvrO5zsR5FjLobn-Gsc?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": null
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:26.300640Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Citi Tower - office for Lease. Not affiliated with or endorsed by Citi Tower - office for Lease.",
+    "redesignNotice": null
+  }
+}

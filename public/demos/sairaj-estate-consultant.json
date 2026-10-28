@@ -1,0 +1,79 @@
+{
+  "slug": "sairaj-estate-consultant",
+  "businessName": "Sairaj Estate Consultant",
+  "category": "Real estate agency",
+  "templateType": "real_estate",
+  "siteType": "new",
+  "existingWebsiteUrl": null,
+  "tagline": "Exclusive Land & Property Investments in Head Office :- A . 1, D. L. Shelter, Near Ami Park, Gokhivare, Shop No. 8 Tungareshwar Shopping Center, Evershine City Rd",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across Head Office :- A . 1, D. L. Shelter, Near Ami Park, Gokhivare, Shop No. 8 Tungareshwar Shopping Center, Evershine City Rd",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by Sairaj Estate Consultant with verified titles and transparent documentation.",
+  "aboutStory": "Sairaj Estate Consultant is a premier land advisory firm rooted along Head Office :- A . 1, D. L. Shelter, Near Ami Park, Gokhivare, Shop No. 8 Tungareshwar Shopping Center, Evershine City Rd. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along Head Office :- A . 1, D. L. Shelter, Near Ami Park, Gokhivare, Shop No. 8 Tungareshwar Shopping Center, Evershine City Rd. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in Head Office :- A . 1, D. L. Shelter, Near Ami Park, Gokhivare, Shop No. 8 Tungareshwar Shopping Center, Evershine City Rd."
+    }
+  ],
+  "contact": {
+    "phone": "+91 72081 59856",
+    "phoneRaw": "7208159856",
+    "whatsappLink": "https://wa.me/917208159856?text=Hello%20Sairaj%20Estate%20Consultant,%20I%20saw%20your%20website%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Head Office :- A . 1, D. L. Shelter, Near Ami Park, Gokhivare, Shop No. 8 Tungareshwar Shopping Center, Evershine City Rd",
+    "googleMapsLink": "https://www.google.com/maps/place/Sairaj+Estate+Consultant/data=!4m7!3m6!1s0x3be7aed2c0474777:0xf534a03ba34e9c8!8m2!3d19.4022424!4d72.8413278!16s%2Fg%2F1ptx4ckvv!19sChIJd0dHwNKu5zsRyOk0ugNKUw8?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": null
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:24.033354Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Sairaj Estate Consultant. Not affiliated with or endorsed by Sairaj Estate Consultant.",
+    "redesignNotice": null
+  }
+}

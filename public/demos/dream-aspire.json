@@ -1,0 +1,76 @@
+{
+  "slug": "dream-aspire",
+  "businessName": "Dream Aspire",
+  "category": "Construction company",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "http://www.dreamaspire.in/",
+  "tagline": "Strategic Commercial & Professional Advisory in CTS 1A, PT, New Link Rd, opposite Vicino Mall",
+  "heroHeadline": "Results-Driven Strategic Advisory with Dream Aspire",
+  "heroSubheadline": "Partnering with businesses and private clients in CTS 1A, PT, New Link Rd, opposite Vicino Mall to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from CTS 1A, PT, New Link Rd, opposite Vicino Mall, Dream Aspire combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Construction company Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to CTS 1A, PT, New Link Rd, opposite Vicino Mall.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 85919 50044",
+    "phoneRaw": "8591950044",
+    "whatsappLink": "https://wa.me/918591950044?text=Hello%20Dream%20Aspire,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "CTS 1A, PT, New Link Rd, opposite Vicino Mall",
+    "googleMapsLink": "https://www.google.com/maps/place/Dream+Aspire/data=!4m7!3m6!1s0xb8c8d0777908b5f:0x9754b61243c72cda!8m2!3d19.1461281!4d72.8339407!16s%2Fg%2F11y2gxqk6y!19sChIJX4uQdweNjAsR2izHQxK2VJc?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "http://www.dreamaspire.in/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:25.487334Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Dream Aspire. Not affiliated with or endorsed by Dream Aspire.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

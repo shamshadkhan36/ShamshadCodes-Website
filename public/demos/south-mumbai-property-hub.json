@@ -1,0 +1,79 @@
+{
+  "slug": "south-mumbai-property-hub",
+  "businessName": "South Mumbai Property Hub",
+  "category": "Construction company",
+  "templateType": "real_estate",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "http://southmumbaipropertyhub.in/default.html",
+  "tagline": "Exclusive Land & Property Investments in Shop No 4, Yunus Building, 30, S, S Gaikwad Marg, near Dhobi Talao",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across Shop No 4, Yunus Building, 30, S, S Gaikwad Marg, near Dhobi Talao",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by South Mumbai Property Hub with verified titles and transparent documentation.",
+  "aboutStory": "South Mumbai Property Hub is a premier land advisory firm rooted along Shop No 4, Yunus Building, 30, S, S Gaikwad Marg, near Dhobi Talao. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along Shop No 4, Yunus Building, 30, S, S Gaikwad Marg, near Dhobi Talao. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in Shop No 4, Yunus Building, 30, S, S Gaikwad Marg, near Dhobi Talao."
+    }
+  ],
+  "contact": {
+    "phone": "+91 98338 84135",
+    "phoneRaw": "9833884135",
+    "whatsappLink": "https://wa.me/919833884135?text=Hello%20South%20Mumbai%20Property%20Hub,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Shop No 4, Yunus Building, 30, S, S Gaikwad Marg, near Dhobi Talao",
+    "googleMapsLink": "https://www.google.com/maps/place/South+Mumbai+Property+Hub+%7C+Real+Estate+Agent+Near+Me+%7C+property+dealer+in+Mumbai/data=!4m7!3m6!1s0x3be7cf649cab707f:0x3c87f0f93d26caa6!8m2!3d18.9444476!4d72.8275688!16s%2Fg%2F11vql5dyhj!19sChIJf3CrnGTP5zsRpsomPfnwhzw?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "http://southmumbaipropertyhub.in/default.html"
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:26.369417Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for South Mumbai Property Hub. Not affiliated with or endorsed by South Mumbai Property Hub.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "sarvesh-one",
+  "businessName": "Sarvesh One - Big BHK",
+  "category": "Business to business service",
+  "templateType": "professional_services",
+  "siteType": "new",
+  "existingWebsiteUrl": null,
+  "tagline": "Strategic Commercial & Professional Advisory in Sarvesh One, NM Joshi Marg, near Lower, Parel",
+  "heroHeadline": "Results-Driven Strategic Advisory with Sarvesh One - Big BHK",
+  "heroSubheadline": "Partnering with businesses and private clients in Sarvesh One, NM Joshi Marg, near Lower, Parel to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from Sarvesh One, NM Joshi Marg, near Lower, Parel, Sarvesh One - Big BHK combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Business to business service Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to Sarvesh One, NM Joshi Marg, near Lower, Parel.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 89701 57015",
+    "phoneRaw": "8970157015",
+    "whatsappLink": "https://wa.me/918970157015?text=Hello%20Sarvesh%20One%20-%20Big%20BHK,%20I%20saw%20your%20website%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Sarvesh One, NM Joshi Marg, near Lower, Parel",
+    "googleMapsLink": "https://www.google.com/maps/place/Sarvesh+One+-+Big+BHK/data=!4m7!3m6!1s0x3be7cf192ae32bbf:0x308d5e9a0ba33813!8m2!3d18.998514!4d72.8309154!16s%2Fg%2F11h0zhpcbj!19sChIJvyvjKhnP5zsREzijC5pejTA?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": null
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:28.230908Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Sarvesh One - Big BHK. Not affiliated with or endorsed by Sarvesh One - Big BHK.",
+    "redesignNotice": null
+  }
+}

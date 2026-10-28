@@ -1,0 +1,76 @@
+{
+  "slug": "patels-r-mart",
+  "businessName": "PATEL'S R MART",
+  "category": "Retail space rental agency",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://www.patelrpl.in/",
+  "tagline": "Strategic Commercial & Professional Advisory in POLICE STATOION, NERAL RD, opp. NERAL",
+  "heroHeadline": "Results-Driven Strategic Advisory with PATEL'S R MART",
+  "heroSubheadline": "Partnering with businesses and private clients in POLICE STATOION, NERAL RD, opp. NERAL to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from POLICE STATOION, NERAL RD, opp. NERAL, PATEL'S R MART combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Retail space rental agency Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to POLICE STATOION, NERAL RD, opp. NERAL.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 73910 43838",
+    "phoneRaw": "7391043838",
+    "whatsappLink": "https://wa.me/917391043838?text=Hello%20PATEL'S%20R%20MART,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "POLICE STATOION, NERAL RD, opp. NERAL",
+    "googleMapsLink": "https://www.google.com/maps/place/PATEL%27S+R+MART/data=!4m7!3m6!1s0x3be7f100007e8811:0x58dd92920cefcb44!8m2!3d19.0293585!4d73.3133373!16s%2Fg%2F11ltpyzqj0!19sChIJEYh-AADx5zsRRMvvDJKS3Vg?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://www.patelrpl.in/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:29.258292Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for PATEL'S R MART. Not affiliated with or endorsed by PATEL'S R MART.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

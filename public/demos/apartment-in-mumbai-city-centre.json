@@ -1,0 +1,76 @@
+{
+  "slug": "apartment-in-mumbai-city-centre",
+  "businessName": "Apartment In Mumbai City Centre",
+  "category": "Hotel",
+  "templateType": "hotel",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://www.homestaysinmumbai.com/",
+  "tagline": "Coastal Tranquility & Bespoke Hospitality in Bldg. No.1/Flat No.11, 2nd floor, Vivekanand Co-Op. Housing Society, Takandas Kataria Marg",
+  "heroHeadline": "Experience Coastal Serenity & Warm Heritage Hospitality",
+  "heroSubheadline": "Relax in spacious oceanfront suites, savor authentic regional delicacies, and recharge at Apartment In Mumbai City Centre.",
+  "aboutStory": "Situated in Bldg. No.1/Flat No.11, 2nd floor, Vivekanand Co-Op. Housing Society, Takandas Kataria Marg, Apartment In Mumbai City Centre welcomes travelers, families, and weekenders seeking unhurried relaxation.",
+  "valueProposition": "Spacious ocean-breeze rooms, lush garden surroundings, and attentive hospitality.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Luxury Deluxe Suites",
+      "description": "Air-conditioned heritage suites with private balconies and ocean vistas.",
+      "highlights": [
+        "Plush king bedding",
+        "Rain showers & high-speed Wi-Fi"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Garden Dining & Regional Cuisine",
+      "description": "Farm-fresh ingredients and regional culinary specialties.",
+      "highlights": [
+        "Al-fresco garden seating",
+        "Complimentary gourmet breakfast"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Events & Private Gatherings",
+      "description": "Scenic lawn spaces for family celebrations and intimate retreats.",
+      "highlights": [
+        "Customized event catering",
+        "Dedicated event coordination"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Shoreline Proximity",
+      "description": "Just a short stroll to the serene coastal beach and sunsets."
+    },
+    {
+      "id": "f2",
+      "title": "Family & Pet Friendly",
+      "description": "Expansive manicured grounds and secure gated parking."
+    },
+    {
+      "id": "f3",
+      "title": "Instant Direct Confirmation",
+      "description": "Book directly on WhatsApp with zero platform commissions."
+    }
+  ],
+  "contact": {
+    "phone": "+91 81692 45383",
+    "phoneRaw": "8169245383",
+    "whatsappLink": "https://wa.me/918169245383?text=Hello%20Apartment%20In%20Mumbai%20City%20Centre,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Bldg. No.1/Flat No.11, 2nd floor, Vivekanand Co-Op. Housing Society, Takandas Kataria Marg",
+    "googleMapsLink": "https://www.google.com/maps/place/Apartment+In+Mumbai+City+Centre/data=!4m7!3m6!1s0x3be7ced2683265cb:0x648dc0d6547d5f2e!8m2!3d19.0317932!4d72.841327!16s%2Fg%2F11b745trch!19sChIJy2UyaNLO5zsRLl99VNbAjWQ?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://www.homestaysinmumbai.com/"
+  },
+  "primaryCtaText": "Check Room Availability",
+  "secondaryCtaText": "Explore Suites & Tariffs",
+  "accentColor": "#0284c7",
+  "generatedAt": "2026-10-28T23:51:26.222362Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Apartment In Mumbai City Centre. Not affiliated with or endorsed by Apartment In Mumbai City Centre.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

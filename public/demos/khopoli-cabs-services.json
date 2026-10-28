@@ -1,0 +1,76 @@
+{
+  "slug": "khopoli-cabs-services",
+  "businessName": "Khopoli Cabs Services",
+  "category": "Travel agency",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://khopolicabsservices.in/",
+  "tagline": "Strategic Commercial & Professional Advisory in House No.156",
+  "heroHeadline": "Results-Driven Strategic Advisory with Khopoli Cabs Services",
+  "heroSubheadline": "Partnering with businesses and private clients in House No.156 to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from House No.156, Khopoli Cabs Services combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Travel agency Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to House No.156.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 86689 21840",
+    "phoneRaw": "8668921840",
+    "whatsappLink": "https://wa.me/918668921840?text=Hello%20Khopoli%20Cabs%20Services,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "House No.156",
+    "googleMapsLink": "https://www.google.com/maps/place/Khopoli+Cabs+Services/data=!4m7!3m6!1s0x3be7fd3a96c905cb:0x8a343070ef1b71b3!8m2!3d18.8191373!4d73.3367079!16s%2Fg%2F11vx7fp1zr!19sChIJywXJljr95zsRs3Eb73AwNIo?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://khopolicabsservices.in/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:29.500237Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Khopoli Cabs Services. Not affiliated with or endorsed by Khopoli Cabs Services.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

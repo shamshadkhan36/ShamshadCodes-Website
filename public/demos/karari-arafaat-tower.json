@@ -1,0 +1,76 @@
+{
+  "slug": "karari-arafaat-tower",
+  "businessName": "KARARI ARAFAAT TOWER",
+  "category": "Apartment building",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://arafaattower.signaturegroupofco.com/",
+  "tagline": "Strategic Commercial & Professional Advisory in ARAFAAT CHS, behind Z.B ZAKARIA SCHOOL",
+  "heroHeadline": "Results-Driven Strategic Advisory with KARARI ARAFAAT TOWER",
+  "heroSubheadline": "Partnering with businesses and private clients in ARAFAAT CHS, behind Z.B ZAKARIA SCHOOL to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from ARAFAAT CHS, behind Z.B ZAKARIA SCHOOL, KARARI ARAFAAT TOWER combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Apartment building Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to ARAFAAT CHS, behind Z.B ZAKARIA SCHOOL.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 99313 31325",
+    "phoneRaw": "9931331325",
+    "whatsappLink": "https://wa.me/919931331325?text=Hello%20KARARI%20ARAFAAT%20TOWER,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "ARAFAAT CHS, behind Z.B ZAKARIA SCHOOL",
+    "googleMapsLink": "https://www.google.com/maps/place/KARARI+ARAFAAT+TOWER/data=!4m7!3m6!1s0x3be7ab1daf8441ef:0x754869811d763bfe!8m2!3d19.4144568!4d72.803148!16s%2Fg%2F11z3b3vym_!19sChIJ70GErx2r5zsR_jt2HYFpSHU?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://arafaattower.signaturegroupofco.com/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:24.006859Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for KARARI ARAFAAT TOWER. Not affiliated with or endorsed by KARARI ARAFAAT TOWER.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "tareen-realty",
+  "businessName": "TAREEN REALTY",
+  "category": "Construction company",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://tareenrealty.mystrikingly.com/",
+  "tagline": "Strategic Commercial & Professional Advisory in SERENE SHELTER, B WING, GROUND FLR, B C34 SHOP, CTS NO 6 PT 7 PT SAVERA SRA CHS LTD, S G BARVE MARG, NEHRU NAGAR",
+  "heroHeadline": "Results-Driven Strategic Advisory with TAREEN REALTY",
+  "heroSubheadline": "Partnering with businesses and private clients in SERENE SHELTER, B WING, GROUND FLR, B C34 SHOP, CTS NO 6 PT 7 PT SAVERA SRA CHS LTD, S G BARVE MARG, NEHRU NAGAR to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from SERENE SHELTER, B WING, GROUND FLR, B C34 SHOP, CTS NO 6 PT 7 PT SAVERA SRA CHS LTD, S G BARVE MARG, NEHRU NAGAR, TAREEN REALTY combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Construction company Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to SERENE SHELTER, B WING, GROUND FLR, B C34 SHOP, CTS NO 6 PT 7 PT SAVERA SRA CHS LTD, S G BARVE MARG, NEHRU NAGAR.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 97023 74770",
+    "phoneRaw": "9702374770",
+    "whatsappLink": "https://wa.me/919702374770?text=Hello%20TAREEN%20REALTY,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "SERENE SHELTER, B WING, GROUND FLR, B C34 SHOP, CTS NO 6 PT 7 PT SAVERA SRA CHS LTD, S G BARVE MARG, NEHRU NAGAR",
+    "googleMapsLink": "https://www.google.com/maps/place/TAREEN+REALTY/data=!4m7!3m6!1s0x3be7c942d96ea431:0x692cdea5e66ea7e5!8m2!3d19.0638912!4d72.8822673!16s%2Fg%2F11l6mbdhh6!19sChIJMaRu2ULJ5zsR5adu5qXeLGk?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://tareenrealty.mystrikingly.com/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:27.852075Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for TAREEN REALTY. Not affiliated with or endorsed by TAREEN REALTY.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

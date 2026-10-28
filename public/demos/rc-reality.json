@@ -1,0 +1,76 @@
+{
+  "slug": "rc-reality",
+  "businessName": "R.C Reality",
+  "category": "Open",
+  "templateType": "professional_services",
+  "siteType": "new",
+  "existingWebsiteUrl": null,
+  "tagline": "Strategic Commercial & Professional Advisory in Closes 8 pm",
+  "heroHeadline": "Results-Driven Strategic Advisory with R.C Reality",
+  "heroSubheadline": "Partnering with businesses and private clients in Closes 8 pm to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from Closes 8 pm, R.C Reality combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Open Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to Closes 8 pm.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 93226 33390",
+    "phoneRaw": "9322633390",
+    "whatsappLink": "https://wa.me/919322633390?text=Hello%20R.C%20Reality,%20I%20saw%20your%20website%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Closes 8 pm",
+    "googleMapsLink": "https://www.google.com/maps/place/R.C+Reality/data=!4m7!3m6!1s0x3be7b1f733665b93:0xf3f7953400afec5f!8m2!3d19.2327632!4d72.8693236!16s%2Fg%2F11y3lqclgp!19sChIJk1tmM_ex5zsRX-yvADSV9_M?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": null
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:24.602836Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for R.C Reality. Not affiliated with or endorsed by R.C Reality.",
+    "redesignNotice": null
+  }
+}

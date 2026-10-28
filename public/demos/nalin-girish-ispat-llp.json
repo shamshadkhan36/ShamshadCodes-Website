@@ -1,0 +1,76 @@
+{
+  "slug": "nalin-girish-ispat-llp",
+  "businessName": "Nalin Girish Ispat LLP",
+  "category": "Iron and steel store",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "http://www.nalingirish.com/",
+  "tagline": "Strategic Commercial & Professional Advisory in 3rd Floor, Unit, Building No 17, Mahendra Industrial Estate, Plot No. 109-D, near Sion Killa & VVF Factory",
+  "heroHeadline": "Results-Driven Strategic Advisory with Nalin Girish Ispat LLP",
+  "heroSubheadline": "Partnering with businesses and private clients in 3rd Floor, Unit, Building No 17, Mahendra Industrial Estate, Plot No. 109-D, near Sion Killa & VVF Factory to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from 3rd Floor, Unit, Building No 17, Mahendra Industrial Estate, Plot No. 109-D, near Sion Killa & VVF Factory, Nalin Girish Ispat LLP combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Iron and steel store Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to 3rd Floor, Unit, Building No 17, Mahendra Industrial Estate, Plot No. 109-D, near Sion Killa & VVF Factory.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 98201 27077",
+    "phoneRaw": "9820127077",
+    "whatsappLink": "https://wa.me/919820127077?text=Hello%20Nalin%20Girish%20Ispat%20LLP,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "3rd Floor, Unit, Building No 17, Mahendra Industrial Estate, Plot No. 109-D, near Sion Killa & VVF Factory",
+    "googleMapsLink": "https://www.google.com/maps/place/Nalin+Girish+Ispat+LLP/data=!4m7!3m6!1s0x3be7c8d24883fb95:0x5904fd55e4119998!8m2!3d19.0464897!4d72.8688664!16s%2Fg%2F11fntd7771!19sChIJlfuDSNLI5zsRmJkR5FX9BFk?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "http://www.nalingirish.com/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:27.965998Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Nalin Girish Ispat LLP. Not affiliated with or endorsed by Nalin Girish Ispat LLP.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

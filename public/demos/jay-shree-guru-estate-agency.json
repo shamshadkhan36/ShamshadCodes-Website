@@ -1,0 +1,79 @@
+{
+  "slug": "jay-shree-guru-estate-agency",
+  "businessName": "Jay Shree Guru Estate Agency",
+  "category": "Real estate consultant",
+  "templateType": "real_estate",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://youtube.com/channel/UC1FvsqMHqfa9eDQCt1NYQ3Q",
+  "tagline": "Exclusive Land & Property Investments in Cabin Road, parallel to Railway track, near Mattress Shop",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across Cabin Road, parallel to Railway track, near Mattress Shop",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by Jay Shree Guru Estate Agency with verified titles and transparent documentation.",
+  "aboutStory": "Jay Shree Guru Estate Agency is a premier land advisory firm rooted along Cabin Road, parallel to Railway track, near Mattress Shop. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along Cabin Road, parallel to Railway track, near Mattress Shop. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in Cabin Road, parallel to Railway track, near Mattress Shop."
+    }
+  ],
+  "contact": {
+    "phone": "+91 74869 22489",
+    "phoneRaw": "7486922489",
+    "whatsappLink": "https://wa.me/917486922489?text=Hello%20Jay%20Shree%20Guru%20Estate%20Agency,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Cabin Road, parallel to Railway track, near Mattress Shop",
+    "googleMapsLink": "https://www.google.com/maps/place/Jay+Shree+Guru+Estate+Agency/data=!4m7!3m6!1s0x3be7b02cedcff359:0x9cbe9a3e26a12ea6!8m2!3d19.306295!4d72.8533379!16s%2Fg%2F1pv5kgwrs!19sChIJWfPP7Syw5zsRpi6hJj6avpw?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://youtube.com/channel/UC1FvsqMHqfa9eDQCt1NYQ3Q"
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:24.294379Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Jay Shree Guru Estate Agency. Not affiliated with or endorsed by Jay Shree Guru Estate Agency.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

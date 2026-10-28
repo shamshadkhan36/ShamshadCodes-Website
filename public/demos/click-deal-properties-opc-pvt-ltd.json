@@ -1,0 +1,79 @@
+{
+  "slug": "click-deal-properties-opc-pvt-ltd",
+  "businessName": "Click Deal Properties OPC Pvt. Ltd.",
+  "category": "Industrial real estate agency",
+  "templateType": "real_estate",
+  "siteType": "new",
+  "existingWebsiteUrl": null,
+  "tagline": "Exclusive Land & Property Investments in 3rd Floor, Shreeji Solitaire, 305",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across 3rd Floor, Shreeji Solitaire, 305",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by Click Deal Properties OPC Pvt. Ltd. with verified titles and transparent documentation.",
+  "aboutStory": "Click Deal Properties OPC Pvt. Ltd. is a premier land advisory firm rooted along 3rd Floor, Shreeji Solitaire, 305. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along 3rd Floor, Shreeji Solitaire, 305. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in 3rd Floor, Shreeji Solitaire, 305."
+    }
+  ],
+  "contact": {
+    "phone": "+91 70392 34567",
+    "phoneRaw": "7039234567",
+    "whatsappLink": "https://wa.me/917039234567?text=Hello%20Click%20Deal%20Properties%20OPC%20Pvt.%20Ltd.,%20I%20saw%20your%20website%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "3rd Floor, Shreeji Solitaire, 305",
+    "googleMapsLink": "https://www.google.com/maps/place/Click+Deal+Properties+OPC+Pvt.+Ltd./data=!4m7!3m6!1s0x3be795b5f6fd6327:0x217a019c72569189!8m2!3d19.2179419!4d73.0828686!16s%2Fg%2F11py9r4fvg!19sChIJJ2P99rWV5zsRiZFWcpwBeiE?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": null
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:26.796152Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Click Deal Properties OPC Pvt. Ltd.. Not affiliated with or endorsed by Click Deal Properties OPC Pvt. Ltd..",
+    "redesignNotice": null
+  }
+}

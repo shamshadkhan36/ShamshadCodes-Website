@@ -1,0 +1,76 @@
+{
+  "slug": "rajesh-hotel",
+  "businessName": "Rajesh Hotel",
+  "category": "Hotel",
+  "templateType": "hotel",
+  "siteType": "new",
+  "existingWebsiteUrl": null,
+  "tagline": "Coastal Tranquility & Bespoke Hospitality in Shop NO 200, Reay Rd",
+  "heroHeadline": "Experience Coastal Serenity & Warm Heritage Hospitality",
+  "heroSubheadline": "Relax in spacious oceanfront suites, savor authentic regional delicacies, and recharge at Rajesh Hotel.",
+  "aboutStory": "Situated in Shop NO 200, Reay Rd, Rajesh Hotel welcomes travelers, families, and weekenders seeking unhurried relaxation.",
+  "valueProposition": "Spacious ocean-breeze rooms, lush garden surroundings, and attentive hospitality.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Luxury Deluxe Suites",
+      "description": "Air-conditioned heritage suites with private balconies and ocean vistas.",
+      "highlights": [
+        "Plush king bedding",
+        "Rain showers & high-speed Wi-Fi"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Garden Dining & Regional Cuisine",
+      "description": "Farm-fresh ingredients and regional culinary specialties.",
+      "highlights": [
+        "Al-fresco garden seating",
+        "Complimentary gourmet breakfast"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Events & Private Gatherings",
+      "description": "Scenic lawn spaces for family celebrations and intimate retreats.",
+      "highlights": [
+        "Customized event catering",
+        "Dedicated event coordination"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Shoreline Proximity",
+      "description": "Just a short stroll to the serene coastal beach and sunsets."
+    },
+    {
+      "id": "f2",
+      "title": "Family & Pet Friendly",
+      "description": "Expansive manicured grounds and secure gated parking."
+    },
+    {
+      "id": "f3",
+      "title": "Instant Direct Confirmation",
+      "description": "Book directly on WhatsApp with zero platform commissions."
+    }
+  ],
+  "contact": {
+    "phone": "+91 95453 09265",
+    "phoneRaw": "9545309265",
+    "whatsappLink": "https://wa.me/919545309265?text=Hello%20Rajesh%20Hotel,%20I%20saw%20your%20website%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Shop NO 200, Reay Rd",
+    "googleMapsLink": "https://www.google.com/maps/place/Rajesh+Hotel/data=!4m7!3m6!1s0x3be7ce4c57973135:0xe783a2a87579d730!8m2!3d18.9752999!4d72.8485196!16s%2Fg%2F11k4q96gyb!19sChIJNTGXV0zO5zsRMNd5daiig-c?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": null
+  },
+  "primaryCtaText": "Check Room Availability",
+  "secondaryCtaText": "Explore Suites & Tariffs",
+  "accentColor": "#0284c7",
+  "generatedAt": "2026-10-28T23:51:26.003845Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Rajesh Hotel. Not affiliated with or endorsed by Rajesh Hotel.",
+    "redesignNotice": null
+  }
+}

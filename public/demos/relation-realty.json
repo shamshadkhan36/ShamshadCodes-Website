@@ -1,0 +1,76 @@
+{
+  "slug": "relation-realty",
+  "businessName": "Relation Realty",
+  "category": "Construction company",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "http://relationrealty.co.in/",
+  "tagline": "Strategic Commercial & Professional Advisory in 102 First Floor, Sayali Apartment, Nirman Nagari",
+  "heroHeadline": "Results-Driven Strategic Advisory with Relation Realty",
+  "heroSubheadline": "Partnering with businesses and private clients in 102 First Floor, Sayali Apartment, Nirman Nagari to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from 102 First Floor, Sayali Apartment, Nirman Nagari, Relation Realty combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Construction company Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to 102 First Floor, Sayali Apartment, Nirman Nagari.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 80802 27777",
+    "phoneRaw": "8080227777",
+    "whatsappLink": "https://wa.me/918080227777?text=Hello%20Relation%20Realty,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "102 First Floor, Sayali Apartment, Nirman Nagari",
+    "googleMapsLink": "https://www.google.com/maps/place/Relation+Realty/data=!4m7!3m6!1s0x3be7f1c28ef171df:0xb2398a5319362ee!8m2!3d19.0256041!4d73.3210246!16s%2Fg%2F11qpl_kpts!19sChIJ33HxjsLx5zsR7mKTMaWYIws?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "http://relationrealty.co.in/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:29.263328Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Relation Realty. Not affiliated with or endorsed by Relation Realty.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

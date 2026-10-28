@@ -1,0 +1,76 @@
+{
+  "slug": "chandrakala",
+  "businessName": "CHANDRAKALA-N-ASSOCIATES",
+  "category": "Law firm",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "http://www.chandrakalanassociates.com/",
+  "tagline": "Strategic Commercial & Professional Advisory in Office No 002, F-Wing, Sonam Unique, New Golden Nest Rd",
+  "heroHeadline": "Results-Driven Strategic Advisory with CHANDRAKALA-N-ASSOCIATES",
+  "heroSubheadline": "Partnering with businesses and private clients in Office No 002, F-Wing, Sonam Unique, New Golden Nest Rd to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from Office No 002, F-Wing, Sonam Unique, New Golden Nest Rd, CHANDRAKALA-N-ASSOCIATES combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Law firm Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to Office No 002, F-Wing, Sonam Unique, New Golden Nest Rd.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 97024 31506",
+    "phoneRaw": "9702431506",
+    "whatsappLink": "https://wa.me/919702431506?text=Hello%20CHANDRAKALA-N-ASSOCIATES,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Office No 002, F-Wing, Sonam Unique, New Golden Nest Rd",
+    "googleMapsLink": "https://www.google.com/maps/place/CHANDRAKALA-N-ASSOCIATES/data=!4m7!3m6!1s0x3be7c94ce5206ce5:0x13bdfdef9a4cab8b!8m2!3d19.2992797!4d72.8611941!16s%2Fg%2F11g2lxj2rv!19sChIJ5Wwg5UzJ5zsRi6tMmu_9vRM?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "http://www.chandrakalanassociates.com/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:24.316649Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for CHANDRAKALA-N-ASSOCIATES. Not affiliated with or endorsed by CHANDRAKALA-N-ASSOCIATES.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

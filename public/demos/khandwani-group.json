@@ -1,0 +1,79 @@
+{
+  "slug": "khandwani-group",
+  "businessName": "Khandwani Group",
+  "category": "Real estate agency",
+  "templateType": "real_estate",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "http://khandwanigroup.com/",
+  "tagline": "Exclusive Land & Property Investments in Pathan manzil, 14, Hazrat Fakruddin Shah Baba Ln",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across Pathan manzil, 14, Hazrat Fakruddin Shah Baba Ln",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by Khandwani Group with verified titles and transparent documentation.",
+  "aboutStory": "Khandwani Group is a premier land advisory firm rooted along Pathan manzil, 14, Hazrat Fakruddin Shah Baba Ln. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along Pathan manzil, 14, Hazrat Fakruddin Shah Baba Ln. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in Pathan manzil, 14, Hazrat Fakruddin Shah Baba Ln."
+    }
+  ],
+  "contact": {
+    "phone": "+91 91244 49727",
+    "phoneRaw": "9124449727",
+    "whatsappLink": "https://wa.me/919124449727?text=Hello%20Khandwani%20Group,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Pathan manzil, 14, Hazrat Fakruddin Shah Baba Ln",
+    "googleMapsLink": "https://www.google.com/maps/place/Khandwani+Group/data=!4m7!3m6!1s0x3be7c92daf34cfaf:0x6fca4cc1bb615e1c!8m2!3d19.0414594!4d72.8405138!16s%2Fg%2F11fzfcvsw8!19sChIJr880ry3J5zsRHF5hu8FMym8?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "http://khandwanigroup.com/"
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:26.110977Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Khandwani Group. Not affiliated with or endorsed by Khandwani Group.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

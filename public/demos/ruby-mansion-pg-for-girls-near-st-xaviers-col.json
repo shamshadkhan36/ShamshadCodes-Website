@@ -1,0 +1,76 @@
+{
+  "slug": "ruby-mansion-pg-for-girls-near-st-xaviers-col",
+  "businessName": "Ruby Mansion PG for Girls near St. Xaviers College",
+  "category": "Student housing center",
+  "templateType": "education",
+  "siteType": "new",
+  "existingWebsiteUrl": null,
+  "tagline": "Nurturing Academic Excellence & Leadership in 2nd floor, Ruby Mansion, Barrack Rd, behind metro cinema",
+  "heroHeadline": "Empowering Curious Minds & Future Leaders at Ruby Mansion PG for Girls near St. Xaviers College",
+  "heroSubheadline": "Holistic academic curriculum, disciplined mentorship, and experiential learning located at 2nd floor, Ruby Mansion, Barrack Rd, behind metro cinema.",
+  "aboutStory": "Ruby Mansion PG for Girls near St. Xaviers College fosters intellectual curiosity, emotional intelligence, and scholastic excellence in 2nd floor, Ruby Mansion, Barrack Rd, behind metro cinema.",
+  "valueProposition": "Individualized student attention, modern interactive labs, and dedicated educators.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Foundational Academics",
+      "description": "Structured syllabus mastery with emphasis on conceptual depth.",
+      "highlights": [
+        "Small cohort sizes",
+        "Continuous progress monitoring"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Advanced STEM & Creative Arts",
+      "description": "Hands-on laboratory sessions, robotics, and creative workshops.",
+      "highlights": [
+        "Modern learning labs",
+        "Project-based pedagogy"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Admissions & Academic Counseling",
+      "description": "Personalized guidance aligning learning tracks with student strengths.",
+      "highlights": [
+        "Transparent fee schedule",
+        "Regular parent-educator forums"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Distinguished Faculty",
+      "description": "Passionate mentors committed to inspiring every student."
+    },
+    {
+      "id": "f2",
+      "title": "Modern Campus Facilities",
+      "description": "Well-equipped libraries, digital classrooms, and safe sports grounds."
+    },
+    {
+      "id": "f3",
+      "title": "Active Parent Engagement",
+      "description": "Direct communication and real-time student milestone tracking."
+    }
+  ],
+  "contact": {
+    "phone": "+91 98333 66203",
+    "phoneRaw": "9833366203",
+    "whatsappLink": "https://wa.me/919833366203?text=Hello%20Ruby%20Mansion%20PG%20for%20Girls%20near%20St.%20Xaviers%20College,%20I%20saw%20your%20website%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "2nd floor, Ruby Mansion, Barrack Rd, behind metro cinema",
+    "googleMapsLink": "https://www.google.com/maps/place/Ruby+Mansion+PG+for+Girls+near+St.+Xaviers+College,+Jai+Hind+College,+KC+College,+HR+College,+JBIMS,+Wilson+College/data=!4m7!3m6!1s0x3be7d1acf574827f:0x83ea1d3366e8b85f!8m2!3d18.9421991!4d72.8280643!16s%2Fg%2F11yd_w1_hw!19sChIJf4J09azR5zsRX7joZjMd6oM?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": null
+  },
+  "primaryCtaText": "Inquire for Admissions",
+  "secondaryCtaText": "Download Prospectus",
+  "accentColor": "#059669",
+  "generatedAt": "2026-10-28T23:51:26.471624Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Ruby Mansion PG for Girls near St. Xaviers College. Not affiliated with or endorsed by Ruby Mansion PG for Girls near St. Xaviers College.",
+    "redesignNotice": null
+  }
+}

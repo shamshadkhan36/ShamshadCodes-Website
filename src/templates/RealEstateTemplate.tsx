@@ -7,7 +7,8 @@ import {
   MapPin, Phone, MessageCircle, Building2, CheckCircle2,
   Compass, ShieldCheck, ArrowRight, Home, Sparkles, Calendar,
   FileCheck, Trees, Waves, Factory, Navigation, ChevronRight,
-  Clock, Menu, X, Mail, Send, Award, Check, Lock, ChevronDown, CheckSquare
+  Clock, Menu, X, Mail, Send, Award, Check, Lock, ChevronDown, CheckSquare,
+  ExternalLink, Heart
 } from 'lucide-react';
 
 interface TemplateProps {
@@ -77,6 +78,10 @@ export const RealEstateTemplate: React.FC<TemplateProps> = ({ demo }) => {
   const [whatsAppUpdates, setWhatsAppUpdates] = useState(true);
   const [leadSubmitted, setLeadSubmitted] = useState(false);
 
+  // Newsletter Subscribe State
+  const [subscriberPhone, setSubscriberPhone] = useState('');
+  const [subscribed, setSubscribed] = useState(false);
+
   // Contact section form state
   const [contactName, setContactName] = useState('');
   const [contactPhone, setContactPhone] = useState('');
@@ -99,6 +104,15 @@ export const RealEstateTemplate: React.FC<TemplateProps> = ({ demo }) => {
     );
     window.open(`https://wa.me/91${demo.contact.phoneRaw}?text=${text}`, '_blank');
     setLeadSubmitted(true);
+  };
+
+  const handleSubscribeSubmit = (e: React.FormEvent) => {
+    e.preventDefault();
+    const text = encodeURIComponent(
+      `Hello ${brandName}, please subscribe me to new property listing alerts for ${locationHighlight}. Phone: ${subscriberPhone}`
+    );
+    window.open(`https://wa.me/91${demo.contact.phoneRaw}?text=${text}`, '_blank');
+    setSubscribed(true);
   };
 
   const handleContactSubmit = (e: React.FormEvent) => {
@@ -253,7 +267,7 @@ export const RealEstateTemplate: React.FC<TemplateProps> = ({ demo }) => {
       {/* SECTION 1: HOME (Hero with Elevated Consultation Form Card) */}
       {/* ======================================================== */}
       <section id="home" className="relative bg-gradient-to-b from-slate-50 via-white to-slate-50/50 py-16 sm:py-24 px-4 sm:px-6 lg:px-8 overflow-hidden">
-        {/* Soft Background Architectural Graphic */}
+        {/* Soft Background Graphic */}
         <div className="absolute top-0 right-0 w-1/2 h-full opacity-10 bg-gradient-to-l from-rose-200 to-transparent pointer-events-none"></div>
 
         <div className="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
@@ -320,7 +334,7 @@ export const RealEstateTemplate: React.FC<TemplateProps> = ({ demo }) => {
             </div>
           </div>
 
-          {/* Right Column: Elevated Consultation Form Card (Matching Screenshot) */}
+          {/* Right Column: Elevated Consultation Form Card */}
           <div className="lg:col-span-5">
             <div className="bg-white rounded-3xl p-7 sm:p-9 shadow-2xl shadow-slate-300/40 border border-slate-100 relative">
               {/* Pill Badge */}
@@ -813,20 +827,202 @@ export const RealEstateTemplate: React.FC<TemplateProps> = ({ demo }) => {
         </div>
       </section>
 
-      {/* 5. Minimalist Clean White Footer */}
-      <footer className="bg-white border-t border-slate-100 py-12 px-4 text-center">
-        <p className="font-extrabold text-slate-900 text-sm">{brandName}</p>
-        <p className="text-xs text-slate-500 mt-1">{demo.contact.address} &bull; {demo.contact.phone}</p>
-        
-        <div className="mt-4 flex justify-center space-x-6 text-xs text-slate-500">
-          <a href="#home" className="hover:text-[#D1495B] transition">Home</a>
-          <a href="#about" className="hover:text-[#D1495B] transition">About</a>
-          <a href="#projects" className="hover:text-[#D1495B] transition">Projects</a>
-          <a href="#contact" className="hover:text-[#D1495B] transition">Contact Us</a>
+      {/* ======================================================== */}
+      {/* 5. LUXURY COMPREHENSIVE WHITE & SLATE FOOTER */}
+      {/* ======================================================== */}
+      <footer className="bg-slate-900 text-slate-300 pt-16 pb-12 border-t border-slate-800">
+        {/* Top Newsletter / Quick Alert Banner */}
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-12 border-b border-slate-800">
+          <div className="bg-slate-950 rounded-3xl p-8 sm:p-10 border border-slate-800/80 shadow-2xl flex flex-col lg:flex-row items-center justify-between gap-6">
+            <div className="max-w-xl">
+              <span className="text-[11px] font-bold text-[#D1495B] uppercase tracking-widest block mb-1">
+                PROPERTY ALERTS
+              </span>
+              <h3 className="text-xl sm:text-2xl font-bold text-white tracking-tight">
+                Get New Verified Listing Alerts for {locationHighlight}
+              </h3>
+              <p className="text-xs text-slate-400 mt-1">
+                Receive instant notifications when beachfront plots or agricultural acreages are listed with clear titles.
+              </p>
+            </div>
+
+            {subscribed ? (
+              <div className="px-5 py-3 rounded-full bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 text-xs font-bold flex items-center gap-2">
+                <Check className="w-4 h-4" />
+                <span>Alerts Activated on WhatsApp</span>
+              </div>
+            ) : (
+              <form onSubmit={handleSubscribeSubmit} className="flex flex-col sm:flex-row gap-2 w-full lg:w-auto">
+                <input
+                  type="tel"
+                  required
+                  value={subscriberPhone}
+                  onChange={(e) => setSubscriberPhone(e.target.value)}
+                  placeholder="Enter your phone / WhatsApp"
+                  className="px-4 py-3 rounded-full bg-slate-900 border border-slate-700 text-white text-xs placeholder:text-slate-500 focus:outline-none focus:ring-2 focus:ring-[#D1495B] w-full sm:w-72"
+                />
+                <button
+                  type="submit"
+                  className="px-6 py-3 rounded-full bg-[#D1495B] hover:bg-[#C0394B] text-white font-bold text-xs transition shadow-md flex items-center justify-center gap-1.5 whitespace-nowrap"
+                >
+                  <span>Subscribe</span>
+                  <ArrowRight className="w-3.5 h-3.5" />
+                </button>
+              </form>
+            )}
+          </div>
         </div>
 
-        <div className="mt-6 max-w-xl mx-auto p-3 rounded-xl bg-slate-50 border border-slate-100 text-[11px] text-slate-400 leading-relaxed">
-          {demo.disclaimer.conceptNotice}
+        {/* Main 4-Column Footer Links Grid */}
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-10">
+            {/* Column 1: Brand & Identity (4 cols) */}
+            <div className="lg:col-span-4">
+              <div className="flex items-center space-x-3 mb-4">
+                <div className="w-10 h-10 rounded-xl bg-gradient-to-tr from-rose-600 via-[#D1495B] to-amber-500 text-white flex items-center justify-center font-extrabold shadow-md">
+                  <Building2 className="w-5 h-5" />
+                </div>
+                <div>
+                  <span className="font-extrabold text-lg text-white block">
+                    {brandName}
+                  </span>
+                  <span className="text-[10px] font-semibold text-slate-400 uppercase tracking-widest block">
+                    {demo.category || "Real Estate Advisory"}
+                  </span>
+                </div>
+              </div>
+
+              <p className="text-xs text-slate-400 leading-relaxed max-w-sm">
+                Independent real estate and land consultancy based in {locationHighlight}. We specialize in 100% verified legal title due diligence, coastal plot acquisition, and strategic agricultural acreages.
+              </p>
+
+              <div className="mt-6 space-y-2 text-xs text-slate-400">
+                <div className="flex items-center gap-2">
+                  <Clock className="w-3.5 h-3.5 text-slate-500" />
+                  <span>Mon – Sun : 9:00 AM – 7:30 PM</span>
+                </div>
+                <div className="flex items-center gap-2">
+                  <ShieldCheck className="w-3.5 h-3.5 text-emerald-400" />
+                  <span>100% Clear 7/12 Title Screening</span>
+                </div>
+              </div>
+            </div>
+
+            {/* Column 2: Quick Links (2 cols) */}
+            <div className="lg:col-span-2">
+              <h4 className="text-xs font-bold text-white uppercase tracking-wider mb-4 border-b border-slate-800 pb-2">
+                Navigation
+              </h4>
+              <ul className="space-y-2.5 text-xs text-slate-400">
+                <li><a href="#home" className="hover:text-white transition">Home</a></li>
+                <li><a href="#about" className="hover:text-white transition">About Our Advisory</a></li>
+                <li><a href="#projects" className="hover:text-white transition">Current Projects</a></li>
+                <li><a href="#contact" className="hover:text-white transition">Contact & Office</a></li>
+                <li><a href="#contact" className="hover:text-white transition">Schedule Inspection</a></li>
+                <li><a href="#home" className="hover:text-white transition">Free Consultation</a></li>
+              </ul>
+            </div>
+
+            {/* Column 3: Portfolios & Land Types (3 cols) */}
+            <div className="lg:col-span-3">
+              <h4 className="text-xs font-bold text-white uppercase tracking-wider mb-4 border-b border-slate-800 pb-2">
+                Property Portfolios
+              </h4>
+              <ul className="space-y-2.5 text-xs text-slate-400">
+                <li className="flex items-center gap-1.5">
+                  <span className="w-1 h-1 rounded-full bg-[#D1495B]"></span>
+                  <a href="#projects" className="hover:text-white transition">Sea Beach & Coastal Plots</a>
+                </li>
+                <li className="flex items-center gap-1.5">
+                  <span className="w-1 h-1 rounded-full bg-[#D1495B]"></span>
+                  <a href="#projects" className="hover:text-white transition">Farmhouse & 1 Acre Acreages</a>
+                </li>
+                <li className="flex items-center gap-1.5">
+                  <span className="w-1 h-1 rounded-full bg-[#D1495B]"></span>
+                  <a href="#projects" className="hover:text-white transition">Industrial & Logistics Land</a>
+                </li>
+                <li className="flex items-center gap-1.5">
+                  <span className="w-1 h-1 rounded-full bg-[#D1495B]"></span>
+                  <a href="#projects" className="hover:text-white transition">Gated Residential Layouts</a>
+                </li>
+                <li className="flex items-center gap-1.5">
+                  <span className="w-1 h-1 rounded-full bg-[#D1495B]"></span>
+                  <a href="#projects" className="hover:text-white transition">Agricultural NA Conversions</a>
+                </li>
+              </ul>
+            </div>
+
+            {/* Column 4: Contact & Location (3 cols) */}
+            <div className="lg:col-span-3">
+              <h4 className="text-xs font-bold text-white uppercase tracking-wider mb-4 border-b border-slate-800 pb-2">
+                Headquarters
+              </h4>
+              <div className="space-y-3 text-xs text-slate-400">
+                <div className="flex items-start gap-2.5">
+                  <MapPin className="w-4 h-4 text-rose-400 flex-shrink-0 mt-0.5" />
+                  <span>{demo.contact.address}</span>
+                </div>
+                <div className="flex items-center gap-2.5">
+                  <Phone className="w-4 h-4 text-amber-400 flex-shrink-0" />
+                  <a href={`tel:${demo.contact.phoneRaw}`} className="font-mono text-white hover:text-amber-400 transition">
+                    {demo.contact.phone}
+                  </a>
+                </div>
+                <div className="flex items-center gap-2.5">
+                  <MessageCircle className="w-4 h-4 text-emerald-400 flex-shrink-0" />
+                  <a
+                    href={demo.contact.whatsappLink}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-emerald-400 hover:text-emerald-300 font-semibold transition"
+                  >
+                    Direct WhatsApp Chat
+                  </a>
+                </div>
+
+                {demo.contact.googleMapsLink && (
+                  <div className="pt-2">
+                    <a
+                      href={demo.contact.googleMapsLink}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-slate-800 text-slate-200 text-[11px] font-semibold hover:bg-slate-700 transition"
+                    >
+                      <Navigation className="w-3 h-3 text-rose-400" />
+                      <span>View on Google Maps</span>
+                    </a>
+                  </div>
+                )}
+              </div>
+            </div>
+          </div>
+        </div>
+
+        {/* Bottom Legal Bar & Concept Note */}
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-8 border-t border-slate-800/80 flex flex-col md:flex-row items-center justify-between gap-4 text-[11px] text-slate-500">
+          <div>
+            <p>© {new Date().getFullYear()} {brandName}. All rights reserved.</p>
+          </div>
+
+          <div className="flex flex-wrap items-center gap-4 text-slate-400">
+            <a href="#about" className="hover:text-white transition">Privacy Policy</a>
+            <span>•</span>
+            <a href="#projects" className="hover:text-white transition">Terms of Advisory</a>
+            <span>•</span>
+            <a href="#contact" className="hover:text-white transition">Due Diligence Policy</a>
+          </div>
+
+          <div className="flex items-center gap-1 text-slate-400">
+            <span>Powered by</span>
+            <span className="font-bold text-white">ShamshadCodes Website Factory</span>
+          </div>
+        </div>
+
+        {/* Disclaimer Bar */}
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-6">
+          <div className="p-3 rounded-xl bg-slate-950/70 border border-slate-800/60 text-center text-[10px] text-slate-500 leading-relaxed">
+            {demo.disclaimer.conceptNotice}
+          </div>
         </div>
       </footer>
 

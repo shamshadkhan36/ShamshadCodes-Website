@@ -1,0 +1,79 @@
+{
+  "slug": "horizon-enterprisesreal-estate-pg-services",
+  "businessName": "Horizon Enterprises.Real Estate & P.G Services",
+  "category": "Real estate agent",
+  "templateType": "real_estate",
+  "siteType": "new",
+  "existingWebsiteUrl": null,
+  "tagline": "Exclusive Land & Property Investments in Shop no 5 and 6, near bhumiraj meadows",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across Shop no 5 and 6, near bhumiraj meadows",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by Horizon Enterprises.Real Estate & P.G Services with verified titles and transparent documentation.",
+  "aboutStory": "Horizon Enterprises.Real Estate & P.G Services is a premier land advisory firm rooted along Shop no 5 and 6, near bhumiraj meadows. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along Shop no 5 and 6, near bhumiraj meadows. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in Shop no 5 and 6, near bhumiraj meadows."
+    }
+  ],
+  "contact": {
+    "phone": "+91 90823 22095",
+    "phoneRaw": "9082322095",
+    "whatsappLink": "https://wa.me/919082322095?text=Hello%20Horizon%20Enterprises.Real%20Estate%20&%20P.G%20Services,%20I%20saw%20your%20website%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Shop no 5 and 6, near bhumiraj meadows",
+    "googleMapsLink": "https://www.google.com/maps/place/Horizon+Enterprises.Real+Estate+%26+P.G+Services/data=!4m7!3m6!1s0x3be7bf4ca5555555:0x36d84c370777d7d4!8m2!3d19.1602014!4d72.99184!16s%2Fg%2F11tn5wghny!19sChIJVVVVpUy_5zsR1Nd3BzdM2DY?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": null
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:28.521802Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Horizon Enterprises.Real Estate & P.G Services. Not affiliated with or endorsed by Horizon Enterprises.Real Estate & P.G Services.",
+    "redesignNotice": null
+  }
+}

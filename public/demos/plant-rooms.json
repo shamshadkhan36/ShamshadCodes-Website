@@ -1,0 +1,76 @@
+{
+  "slug": "plant-rooms",
+  "businessName": "Plant Rooms - Airoli Apartment",
+  "category": "Serviced apartment",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "http://www.plantrooms.in/",
+  "tagline": "Strategic Commercial & Professional Advisory in Shivshankar Heights, Mugalsan Rd, near Ganesh Mandir",
+  "heroHeadline": "Results-Driven Strategic Advisory with Plant Rooms - Airoli Apartment",
+  "heroSubheadline": "Partnering with businesses and private clients in Shivshankar Heights, Mugalsan Rd, near Ganesh Mandir to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from Shivshankar Heights, Mugalsan Rd, near Ganesh Mandir, Plant Rooms - Airoli Apartment combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Serviced apartment Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to Shivshankar Heights, Mugalsan Rd, near Ganesh Mandir.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 88500 30293",
+    "phoneRaw": "8850030293",
+    "whatsappLink": "https://wa.me/918850030293?text=Hello%20Plant%20Rooms%20-%20Airoli%20Apartment,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Shivshankar Heights, Mugalsan Rd, near Ganesh Mandir",
+    "googleMapsLink": "https://www.google.com/maps/place/Plant+Rooms+-+Airoli+Apartment/data=!4m7!3m6!1s0x3be7b90b65ad8d5b:0xb3f657e5a3193721!8m2!3d19.1658917!4d72.9896989!16s%2Fg%2F11v9kl6ssk!19sChIJW42tZQu55zsRITcZo-VX9rM?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "http://www.plantrooms.in/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:28.500496Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Plant Rooms - Airoli Apartment. Not affiliated with or endorsed by Plant Rooms - Airoli Apartment.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

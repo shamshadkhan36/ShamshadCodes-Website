@@ -1,0 +1,76 @@
+{
+  "slug": "fabexpress-new-deepak",
+  "businessName": "FabExpress New Deepak",
+  "category": "Hotel",
+  "templateType": "hotel",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://www.fabhotels.com/hotels-in-mumbai/fabexpress-new-deepak-i.html?utm_source=GMB&utm_medium=organic&utm_campaign=GMB_Traffic",
+  "tagline": "Coastal Tranquility & Bespoke Hospitality in N/A",
+  "heroHeadline": "Experience Coastal Serenity & Warm Heritage Hospitality",
+  "heroSubheadline": "Relax in spacious oceanfront suites, savor authentic regional delicacies, and recharge at FabExpress New Deepak.",
+  "aboutStory": "Situated in N/A, FabExpress New Deepak welcomes travelers, families, and weekenders seeking unhurried relaxation.",
+  "valueProposition": "Spacious ocean-breeze rooms, lush garden surroundings, and attentive hospitality.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Luxury Deluxe Suites",
+      "description": "Air-conditioned heritage suites with private balconies and ocean vistas.",
+      "highlights": [
+        "Plush king bedding",
+        "Rain showers & high-speed Wi-Fi"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Garden Dining & Regional Cuisine",
+      "description": "Farm-fresh ingredients and regional culinary specialties.",
+      "highlights": [
+        "Al-fresco garden seating",
+        "Complimentary gourmet breakfast"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Events & Private Gatherings",
+      "description": "Scenic lawn spaces for family celebrations and intimate retreats.",
+      "highlights": [
+        "Customized event catering",
+        "Dedicated event coordination"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Shoreline Proximity",
+      "description": "Just a short stroll to the serene coastal beach and sunsets."
+    },
+    {
+      "id": "f2",
+      "title": "Family & Pet Friendly",
+      "description": "Expansive manicured grounds and secure gated parking."
+    },
+    {
+      "id": "f3",
+      "title": "Instant Direct Confirmation",
+      "description": "Book directly on WhatsApp with zero platform commissions."
+    }
+  ],
+  "contact": {
+    "phone": "+91 70424 24242",
+    "phoneRaw": "7042424242",
+    "whatsappLink": "https://wa.me/917042424242?text=Hello%20FabExpress%20New%20Deepak,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "N/A",
+    "googleMapsLink": "https://www.google.com/maps/place/FabExpress+New+Deepak/data=!4m10!3m9!1s0x3be7cf18f91953db:0x7e0b57c548681b4e!5m2!4m1!1i2!8m2!3d18.96092!4d72.83761!16s%2Fg%2F12hmb_9b7!19sChIJ21MZ-RjP5zsRThtoSMVXC34?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://www.fabhotels.com/hotels-in-mumbai/fabexpress-new-deepak-i.html?utm_source=GMB&utm_medium=organic&utm_campaign=GMB_Traffic"
+  },
+  "primaryCtaText": "Check Room Availability",
+  "secondaryCtaText": "Explore Suites & Tariffs",
+  "accentColor": "#0284c7",
+  "generatedAt": "2026-10-28T23:51:26.027989Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for FabExpress New Deepak. Not affiliated with or endorsed by FabExpress New Deepak.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

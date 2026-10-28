@@ -1,0 +1,79 @@
+{
+  "slug": "rajnandini-enterprises",
+  "businessName": "RAJNANDINI ENTERPRISES",
+  "category": "Real estate consultant",
+  "templateType": "real_estate",
+  "siteType": "new",
+  "existingWebsiteUrl": null,
+  "tagline": "Exclusive Land & Property Investments in CHS, Office - L04, Megh Malhar",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across CHS, Office - L04, Megh Malhar",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by RAJNANDINI ENTERPRISES with verified titles and transparent documentation.",
+  "aboutStory": "RAJNANDINI ENTERPRISES is a premier land advisory firm rooted along CHS, Office - L04, Megh Malhar. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along CHS, Office - L04, Megh Malhar. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in CHS, Office - L04, Megh Malhar."
+    }
+  ],
+  "contact": {
+    "phone": "+91 87798 63540",
+    "phoneRaw": "8779863540",
+    "whatsappLink": "https://wa.me/918779863540?text=Hello%20RAJNANDINI%20ENTERPRISES,%20I%20saw%20your%20website%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "CHS, Office - L04, Megh Malhar",
+    "googleMapsLink": "https://www.google.com/maps/place/RAJNANDINI+ENTERPRISES/data=!4m7!3m6!1s0x3be7c1a780045037:0x79906c8cf2e6a2c5!8m2!3d19.1179553!4d72.994845!16s%2Fg%2F11tsym2d4s!19sChIJN1AEgKfB5zsRxaLm8oxskHk?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": null
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:28.417036Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for RAJNANDINI ENTERPRISES. Not affiliated with or endorsed by RAJNANDINI ENTERPRISES.",
+    "redesignNotice": null
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "hs-group",
+  "businessName": "HS Group",
+  "category": "Construction company",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://hsgroup.net.in/",
+  "tagline": "Strategic Commercial & Professional Advisory in Ashirwad Building, A/102-103, GV Scheme Rd Number 1, above Apna Sahakari Bank",
+  "heroHeadline": "Results-Driven Strategic Advisory with HS Group",
+  "heroSubheadline": "Partnering with businesses and private clients in Ashirwad Building, A/102-103, GV Scheme Rd Number 1, above Apna Sahakari Bank to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from Ashirwad Building, A/102-103, GV Scheme Rd Number 1, above Apna Sahakari Bank, HS Group combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Construction company Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to Ashirwad Building, A/102-103, GV Scheme Rd Number 1, above Apna Sahakari Bank.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 93211 26331",
+    "phoneRaw": "9321126331",
+    "whatsappLink": "https://wa.me/919321126331?text=Hello%20HS%20Group,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Ashirwad Building, A/102-103, GV Scheme Rd Number 1, above Apna Sahakari Bank",
+    "googleMapsLink": "https://www.google.com/maps/place/HS+Group/data=!4m7!3m6!1s0x3be7b94f77d693d9:0xa8111f3511ab6211!8m2!3d19.1709181!4d72.9596547!16s%2Fg%2F11hr8qy90g!19sChIJ2ZPWd0-55zsREWKrETUfEag?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://hsgroup.net.in/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:27.325619Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for HS Group. Not affiliated with or endorsed by HS Group.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

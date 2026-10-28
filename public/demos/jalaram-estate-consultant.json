@@ -1,0 +1,76 @@
+{
+  "slug": "jalaram-estate-consultant",
+  "businessName": "Jalaram Estate Consultant",
+  "category": "Open",
+  "templateType": "professional_services",
+  "siteType": "new",
+  "existingWebsiteUrl": null,
+  "tagline": "Strategic Commercial & Professional Advisory in Closes 10 pm",
+  "heroHeadline": "Results-Driven Strategic Advisory with Jalaram Estate Consultant",
+  "heroSubheadline": "Partnering with businesses and private clients in Closes 10 pm to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from Closes 10 pm, Jalaram Estate Consultant combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Open Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to Closes 10 pm.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 83696 14922",
+    "phoneRaw": "8369614922",
+    "whatsappLink": "https://wa.me/918369614922?text=Hello%20Jalaram%20Estate%20Consultant,%20I%20saw%20your%20website%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Closes 10 pm",
+    "googleMapsLink": "https://www.google.com/maps/place/Jalaram+Estate+Consultant/data=!4m7!3m6!1s0x3be7b7001046998d:0xb84dc9dd8d5f4621!8m2!3d19.2021833!4d72.8232803!16s%2Fg%2F11myd2rjtx!19sChIJjZlGEAC35zsRIUZfjd3JTbg?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": null
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:25.045251Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Jalaram Estate Consultant. Not affiliated with or endorsed by Jalaram Estate Consultant.",
+    "redesignNotice": null
+  }
+}

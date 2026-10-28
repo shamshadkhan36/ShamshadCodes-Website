@@ -1,0 +1,76 @@
+{
+  "slug": "shree-samarth-hills",
+  "businessName": "Shree Samarth Hills",
+  "category": "Construction company",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://www.sellingmantras.com/",
+  "tagline": "Strategic Commercial & Professional Advisory in Survey No 417 & 418, Gurav Wati",
+  "heroHeadline": "Results-Driven Strategic Advisory with Shree Samarth Hills",
+  "heroSubheadline": "Partnering with businesses and private clients in Survey No 417 & 418, Gurav Wati to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from Survey No 417 & 418, Gurav Wati, Shree Samarth Hills combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Construction company Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to Survey No 417 & 418, Gurav Wati.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 96074 43636",
+    "phoneRaw": "9607443636",
+    "whatsappLink": "https://wa.me/919607443636?text=Hello%20Shree%20Samarth%20Hills,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Survey No 417 & 418, Gurav Wati",
+    "googleMapsLink": "https://www.google.com/maps/place/Shree+Samarth+Hills/data=!4m7!3m6!1s0x3be80148b92c9269:0x8dfdc720e4f7c2c2!8m2!3d18.7335682!4d73.4192507!16s%2Fg%2F11vqqjx2cq!19sChIJaZIsuUgB6DsRwsL35CDH_Y0?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://www.sellingmantras.com/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:29.497968Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Shree Samarth Hills. Not affiliated with or endorsed by Shree Samarth Hills.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

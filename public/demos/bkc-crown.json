@@ -1,0 +1,76 @@
+{
+  "slug": "bkc-crown",
+  "businessName": "BKC Crown - Urban developer",
+  "category": "Apartment building",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://bkccrown.in/",
+  "tagline": "Strategic Commercial & Professional Advisory in beside Z bliss, behind Equinox Business Park",
+  "heroHeadline": "Results-Driven Strategic Advisory with BKC Crown - Urban developer",
+  "heroSubheadline": "Partnering with businesses and private clients in beside Z bliss, behind Equinox Business Park to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from beside Z bliss, behind Equinox Business Park, BKC Crown - Urban developer combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Apartment building Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to beside Z bliss, behind Equinox Business Park.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 77389 90234",
+    "phoneRaw": "7738990234",
+    "whatsappLink": "https://wa.me/917738990234?text=Hello%20BKC%20Crown%20-%20Urban%20developer,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "beside Z bliss, behind Equinox Business Park",
+    "googleMapsLink": "https://www.google.com/maps/place/BKC+Crown+-+Urban+developer/data=!4m7!3m6!1s0x3be7c915f4a30ce1:0xc235abd98aed1bc8!8m2!3d19.0727165!4d72.8776367!16s%2Fg%2F11mp7xz0cj!19sChIJ4Qyj9BXJ5zsRyBvtitmrNcI?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://bkccrown.in/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:27.909598Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for BKC Crown - Urban developer. Not affiliated with or endorsed by BKC Crown - Urban developer.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "assetvilla",
+  "businessName": "AssetVilla",
+  "category": "Financial planner",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "http://assetvilla.com/",
+  "tagline": "Strategic Commercial & Professional Advisory in Shop No. 7, Bhandup Village Road, Samarth Nagar Rd",
+  "heroHeadline": "Results-Driven Strategic Advisory with AssetVilla",
+  "heroSubheadline": "Partnering with businesses and private clients in Shop No. 7, Bhandup Village Road, Samarth Nagar Rd to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from Shop No. 7, Bhandup Village Road, Samarth Nagar Rd, AssetVilla combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Financial planner Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to Shop No. 7, Bhandup Village Road, Samarth Nagar Rd.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 70211 54842",
+    "phoneRaw": "7021154842",
+    "whatsappLink": "https://wa.me/917021154842?text=Hello%20AssetVilla,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Shop No. 7, Bhandup Village Road, Samarth Nagar Rd",
+    "googleMapsLink": "https://www.google.com/maps/place/AssetVilla/data=!4m7!3m6!1s0x3be7b87a88d0f447:0x5bcff2b7eb8c1a22!8m2!3d19.1519274!4d72.9419102!16s%2Fg%2F11g9qj4xpy!19sChIJR_TQiHq45zsRIhqM67fyz1s?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "http://assetvilla.com/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:27.533581Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for AssetVilla. Not affiliated with or endorsed by AssetVilla.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

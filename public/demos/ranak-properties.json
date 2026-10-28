@@ -1,0 +1,76 @@
+{
+  "slug": "ranak-properties",
+  "businessName": "Ranak Properties",
+  "category": "Opens soon",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://youtube.com/@ranakproperties0522",
+  "tagline": "Strategic Commercial & Professional Advisory in 10:00 AM",
+  "heroHeadline": "Results-Driven Strategic Advisory with Ranak Properties",
+  "heroSubheadline": "Partnering with businesses and private clients in 10:00 AM to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from 10:00 AM, Ranak Properties combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Opens soon Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to 10:00 AM.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 82376 59645",
+    "phoneRaw": "8237659645",
+    "whatsappLink": "https://wa.me/918237659645?text=Hello%20Ranak%20Properties,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "10:00 AM",
+    "googleMapsLink": "https://www.google.com/maps/place/Ranak+Properties/data=!4m7!3m6!1s0x3be79373682f171d:0xe2d56911e6b8c4af!8m2!3d19.2123878!4d73.194996!16s%2Fg%2F11ssrx45v_!19sChIJHRcvaHOT5zsRr8S45hFp1eI?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://youtube.com/@ranakproperties0522"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:28.921878Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Ranak Properties. Not affiliated with or endorsed by Ranak Properties.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

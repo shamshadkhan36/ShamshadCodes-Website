@@ -1,0 +1,76 @@
+{
+  "slug": "virat-properties",
+  "businessName": "Virat Properties",
+  "category": "Construction company",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://www.viratproperties.com/",
+  "tagline": "Strategic Commercial & Professional Advisory in Shop No 3, Indravihar Chs, plot No.20, Kopar Khairane Rd, beside Indusland Bank",
+  "heroHeadline": "Results-Driven Strategic Advisory with Virat Properties",
+  "heroSubheadline": "Partnering with businesses and private clients in Shop No 3, Indravihar Chs, plot No.20, Kopar Khairane Rd, beside Indusland Bank to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from Shop No 3, Indravihar Chs, plot No.20, Kopar Khairane Rd, beside Indusland Bank, Virat Properties combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Construction company Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to Shop No 3, Indravihar Chs, plot No.20, Kopar Khairane Rd, beside Indusland Bank.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 98679 06933",
+    "phoneRaw": "9867906933",
+    "whatsappLink": "https://wa.me/919867906933?text=Hello%20Virat%20Properties,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Shop No 3, Indravihar Chs, plot No.20, Kopar Khairane Rd, beside Indusland Bank",
+    "googleMapsLink": "https://www.google.com/maps/place/Virat+Properties/data=!4m7!3m6!1s0x3be7c16594da19cf:0xc811f36713cfff92!8m2!3d19.1102645!4d73.0010036!16s%2Fg%2F11y2r5psf6!19sChIJzxnalGXB5zsRkv_PE2fzEcg?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://www.viratproperties.com/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:28.298767Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Virat Properties. Not affiliated with or endorsed by Virat Properties.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

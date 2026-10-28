@@ -1,0 +1,76 @@
+{
+  "slug": "ghumare-time-junction",
+  "businessName": "GHUMARE TIME JUNCTION",
+  "category": "Watch store",
+  "templateType": "professional_services",
+  "siteType": "new",
+  "existingWebsiteUrl": null,
+  "tagline": "Strategic Commercial & Professional Advisory in Shop No 8, Station Road",
+  "heroHeadline": "Results-Driven Strategic Advisory with GHUMARE TIME JUNCTION",
+  "heroSubheadline": "Partnering with businesses and private clients in Shop No 8, Station Road to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from Shop No 8, Station Road, GHUMARE TIME JUNCTION combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Watch store Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to Shop No 8, Station Road.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 99694 72365",
+    "phoneRaw": "9969472365",
+    "whatsappLink": "https://wa.me/919969472365?text=Hello%20GHUMARE%20TIME%20JUNCTION,%20I%20saw%20your%20website%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Shop No 8, Station Road",
+    "googleMapsLink": "https://www.google.com/maps/place/GHUMARE+TIME+JUNCTION/data=!4m7!3m6!1s0x3be7fb77eb23676d:0x5b7bae7bf00005de!8m2!3d18.9095447!4d73.3223533!16s%2Fg%2F11hbg8j_b2!19sChIJbWcj63f75zsR3gUA8Huue1s?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": null
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:29.395537Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for GHUMARE TIME JUNCTION. Not affiliated with or endorsed by GHUMARE TIME JUNCTION.",
+    "redesignNotice": null
+  }
+}

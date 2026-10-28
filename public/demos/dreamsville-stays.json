@@ -1,0 +1,76 @@
+{
+  "slug": "dreamsville-stays",
+  "businessName": "Dreamsville Stays",
+  "category": "Tourist information center",
+  "templateType": "hotel",
+  "siteType": "new",
+  "existingWebsiteUrl": null,
+  "tagline": "Coastal Tranquility & Bespoke Hospitality in 207/B-Wing, Swapnadeep Society, Kacheri Road Karjat",
+  "heroHeadline": "Experience Coastal Serenity & Warm Heritage Hospitality",
+  "heroSubheadline": "Relax in spacious oceanfront suites, savor authentic regional delicacies, and recharge at Dreamsville Stays.",
+  "aboutStory": "Situated in 207/B-Wing, Swapnadeep Society, Kacheri Road Karjat, Dreamsville Stays welcomes travelers, families, and weekenders seeking unhurried relaxation.",
+  "valueProposition": "Spacious ocean-breeze rooms, lush garden surroundings, and attentive hospitality.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Luxury Deluxe Suites",
+      "description": "Air-conditioned heritage suites with private balconies and ocean vistas.",
+      "highlights": [
+        "Plush king bedding",
+        "Rain showers & high-speed Wi-Fi"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Garden Dining & Regional Cuisine",
+      "description": "Farm-fresh ingredients and regional culinary specialties.",
+      "highlights": [
+        "Al-fresco garden seating",
+        "Complimentary gourmet breakfast"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Events & Private Gatherings",
+      "description": "Scenic lawn spaces for family celebrations and intimate retreats.",
+      "highlights": [
+        "Customized event catering",
+        "Dedicated event coordination"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Shoreline Proximity",
+      "description": "Just a short stroll to the serene coastal beach and sunsets."
+    },
+    {
+      "id": "f2",
+      "title": "Family & Pet Friendly",
+      "description": "Expansive manicured grounds and secure gated parking."
+    },
+    {
+      "id": "f3",
+      "title": "Instant Direct Confirmation",
+      "description": "Book directly on WhatsApp with zero platform commissions."
+    }
+  ],
+  "contact": {
+    "phone": "+91 89837 35355",
+    "phoneRaw": "8983735355",
+    "whatsappLink": "https://wa.me/918983735355?text=Hello%20Dreamsville%20Stays,%20I%20saw%20your%20website%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "207/B-Wing, Swapnadeep Society, Kacheri Road Karjat",
+    "googleMapsLink": "https://www.google.com/maps/place/Dreamsville+Stays,+Largest+Vacation+Home+Inventory/data=!4m7!3m6!1s0x3be7fbb61c3af3c9:0xaccc9b6459455dd4!8m2!3d18.9131804!4d73.3215427!16s%2Fg%2F11nnh36y83!19sChIJyfM6HLb75zsR1F1FWWSbzKw?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": null
+  },
+  "primaryCtaText": "Check Room Availability",
+  "secondaryCtaText": "Explore Suites & Tariffs",
+  "accentColor": "#0284c7",
+  "generatedAt": "2026-10-28T23:51:29.343516Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Dreamsville Stays. Not affiliated with or endorsed by Dreamsville Stays.",
+    "redesignNotice": null
+  }
+}

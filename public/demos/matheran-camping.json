@@ -1,0 +1,76 @@
+{
+  "slug": "matheran-camping",
+  "businessName": "Matheran Camping",
+  "category": "Resort hotel",
+  "templateType": "hotel",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://matherancamping.in/",
+  "tagline": "Coastal Tranquility & Bespoke Hospitality in Acharya Atre Rd, near Gaushala",
+  "heroHeadline": "Experience Coastal Serenity & Warm Heritage Hospitality",
+  "heroSubheadline": "Relax in spacious oceanfront suites, savor authentic regional delicacies, and recharge at Matheran Camping.",
+  "aboutStory": "Situated in Acharya Atre Rd, near Gaushala, Matheran Camping welcomes travelers, families, and weekenders seeking unhurried relaxation.",
+  "valueProposition": "Spacious ocean-breeze rooms, lush garden surroundings, and attentive hospitality.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Luxury Deluxe Suites",
+      "description": "Air-conditioned heritage suites with private balconies and ocean vistas.",
+      "highlights": [
+        "Plush king bedding",
+        "Rain showers & high-speed Wi-Fi"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Garden Dining & Regional Cuisine",
+      "description": "Farm-fresh ingredients and regional culinary specialties.",
+      "highlights": [
+        "Al-fresco garden seating",
+        "Complimentary gourmet breakfast"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Events & Private Gatherings",
+      "description": "Scenic lawn spaces for family celebrations and intimate retreats.",
+      "highlights": [
+        "Customized event catering",
+        "Dedicated event coordination"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Shoreline Proximity",
+      "description": "Just a short stroll to the serene coastal beach and sunsets."
+    },
+    {
+      "id": "f2",
+      "title": "Family & Pet Friendly",
+      "description": "Expansive manicured grounds and secure gated parking."
+    },
+    {
+      "id": "f3",
+      "title": "Instant Direct Confirmation",
+      "description": "Book directly on WhatsApp with zero platform commissions."
+    }
+  ],
+  "contact": {
+    "phone": "+91 88281 31546",
+    "phoneRaw": "8828131546",
+    "whatsappLink": "https://wa.me/918828131546?text=Hello%20Matheran%20Camping,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Acharya Atre Rd, near Gaushala",
+    "googleMapsLink": "https://www.google.com/maps/place/Matheran+Camping/data=!4m7!3m6!1s0x3be7e5ad52238015:0x9288d351c44506c7!8m2!3d18.9830992!4d73.2670346!16s%2Fg%2F11vsh827gm!19sChIJFYAjUq3l5zsRxwZFxFHTiJI?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://matherancamping.in/"
+  },
+  "primaryCtaText": "Check Room Availability",
+  "secondaryCtaText": "Explore Suites & Tariffs",
+  "accentColor": "#0284c7",
+  "generatedAt": "2026-10-28T23:51:29.460790Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Matheran Camping. Not affiliated with or endorsed by Matheran Camping.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

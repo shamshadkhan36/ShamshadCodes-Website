@@ -1,0 +1,79 @@
+{
+  "slug": "urbanex-estate-pvt-ltd",
+  "businessName": "Urbanex Estate Pvt Ltd",
+  "category": "Real estate consultant",
+  "templateType": "real_estate",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://wwww.urbanexestate.in/",
+  "tagline": "Exclusive Land & Property Investments in Shop No. 53, Level 1, Oasis Shopping Mall Commercial Premises Co-Op. Society Ltd, Dewan Center, Swami Vivekanand Rd",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across Shop No. 53, Level 1, Oasis Shopping Mall Commercial Premises Co-Op. Society Ltd, Dewan Center, Swami Vivekanand Rd",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by Urbanex Estate Pvt Ltd with verified titles and transparent documentation.",
+  "aboutStory": "Urbanex Estate Pvt Ltd is a premier land advisory firm rooted along Shop No. 53, Level 1, Oasis Shopping Mall Commercial Premises Co-Op. Society Ltd, Dewan Center, Swami Vivekanand Rd. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along Shop No. 53, Level 1, Oasis Shopping Mall Commercial Premises Co-Op. Society Ltd, Dewan Center, Swami Vivekanand Rd. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in Shop No. 53, Level 1, Oasis Shopping Mall Commercial Premises Co-Op. Society Ltd, Dewan Center, Swami Vivekanand Rd."
+    }
+  ],
+  "contact": {
+    "phone": "+91 99871 77955",
+    "phoneRaw": "9987177955",
+    "whatsappLink": "https://wa.me/919987177955?text=Hello%20Urbanex%20Estate%20Pvt%20Ltd,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Shop No. 53, Level 1, Oasis Shopping Mall Commercial Premises Co-Op. Society Ltd, Dewan Center, Swami Vivekanand Rd",
+    "googleMapsLink": "https://www.google.com/maps/place/Urbanex+Estate+Pvt+Ltd/data=!4m7!3m6!1s0x3be7b708c3a4a401:0xcccd8d0c3713c93e!8m2!3d19.1369087!4d72.8472922!16s%2Fg%2F11zcnjys8z!19sChIJAaSkwwi35zsRPskTNwyNzcw?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://wwww.urbanexestate.in/"
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:25.482018Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Urbanex Estate Pvt Ltd. Not affiliated with or endorsed by Urbanex Estate Pvt Ltd.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "samarth-realty",
+  "businessName": "Samarth Realty",
+  "category": "Real estate agency",
+  "templateType": "real_estate",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "http://www.samarthrealty.in.net/",
+  "tagline": "Exclusive Land & Property Investments in Shop no.1, Apt, Saileela, West, near Domino's Pizza",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across Shop no.1, Apt, Saileela, West, near Domino's Pizza",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by Samarth Realty with verified titles and transparent documentation.",
+  "aboutStory": "Samarth Realty is a premier land advisory firm rooted along Shop no.1, Apt, Saileela, West, near Domino's Pizza. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along Shop no.1, Apt, Saileela, West, near Domino's Pizza. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in Shop no.1, Apt, Saileela, West, near Domino's Pizza."
+    }
+  ],
+  "contact": {
+    "phone": "+91 81696 18590",
+    "phoneRaw": "8169618590",
+    "whatsappLink": "https://wa.me/918169618590?text=Hello%20Samarth%20Realty,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Shop no.1, Apt, Saileela, West, near Domino's Pizza",
+    "googleMapsLink": "https://www.google.com/maps/place/Samarth+Realty/data=!4m7!3m6!1s0x3be7bfa4639aea1b:0xbcdf7167605c2bf3!8m2!3d19.2041172!4d73.0056129!16s%2Fg%2F11h8j7z5vz!19sChIJG-qaY6S_5zsR8ytcYGdx37w?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "http://www.samarthrealty.in.net/"
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:27.089297Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Samarth Realty. Not affiliated with or endorsed by Samarth Realty.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

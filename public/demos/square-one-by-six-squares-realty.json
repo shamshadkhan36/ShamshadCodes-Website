@@ -1,0 +1,76 @@
+{
+  "slug": "square-one-by-six-squares-realty",
+  "businessName": "Square One by Six Squares Realty",
+  "category": "Apartment building",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "http://www.squareoneambarnath.com/",
+  "tagline": "Strategic Commercial & Professional Advisory in Suryodaya CHS Ltd, Plot No. 79 & 80, AMP Gate Rd, beside Nehru Garden, near Ambarnath",
+  "heroHeadline": "Results-Driven Strategic Advisory with Square One by Six Squares Realty",
+  "heroSubheadline": "Partnering with businesses and private clients in Suryodaya CHS Ltd, Plot No. 79 & 80, AMP Gate Rd, beside Nehru Garden, near Ambarnath to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from Suryodaya CHS Ltd, Plot No. 79 & 80, AMP Gate Rd, beside Nehru Garden, near Ambarnath, Square One by Six Squares Realty combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Apartment building Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to Suryodaya CHS Ltd, Plot No. 79 & 80, AMP Gate Rd, beside Nehru Garden, near Ambarnath.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 73700 55700",
+    "phoneRaw": "7370055700",
+    "whatsappLink": "https://wa.me/917370055700?text=Hello%20Square%20One%20by%20Six%20Squares%20Realty,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Suryodaya CHS Ltd, Plot No. 79 & 80, AMP Gate Rd, beside Nehru Garden, near Ambarnath",
+    "googleMapsLink": "https://www.google.com/maps/place/Square+One+by+Six+Squares+Realty/data=!4m7!3m6!1s0x3be793224a99440f:0x8fca020e8550fba4!8m2!3d19.2108537!4d73.1808867!16s%2Fg%2F11k9hd6wf8!19sChIJD0SZSiKT5zsRpPtQhQ4Cyo8?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "http://www.squareoneambarnath.com/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:28.902449Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Square One by Six Squares Realty. Not affiliated with or endorsed by Square One by Six Squares Realty.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

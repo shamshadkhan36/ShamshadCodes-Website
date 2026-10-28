@@ -1,0 +1,76 @@
+{
+  "slug": "pal-infracare",
+  "businessName": "PAL INFRACARE",
+  "category": "Construction company",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "http://palinfracare.in/",
+  "tagline": "Strategic Commercial & Professional Advisory in Shop no 04, Kamal Hira Chsl, Plot No.16, Vakola Pipeline Rd",
+  "heroHeadline": "Results-Driven Strategic Advisory with PAL INFRACARE",
+  "heroSubheadline": "Partnering with businesses and private clients in Shop no 04, Kamal Hira Chsl, Plot No.16, Vakola Pipeline Rd to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from Shop no 04, Kamal Hira Chsl, Plot No.16, Vakola Pipeline Rd, PAL INFRACARE combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Construction company Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to Shop no 04, Kamal Hira Chsl, Plot No.16, Vakola Pipeline Rd.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 92221 11230",
+    "phoneRaw": "9222111230",
+    "whatsappLink": "https://wa.me/919222111230?text=Hello%20PAL%20INFRACARE,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Shop no 04, Kamal Hira Chsl, Plot No.16, Vakola Pipeline Rd",
+    "googleMapsLink": "https://www.google.com/maps/place/PAL+INFRACARE/data=!4m7!3m6!1s0x3be7c9b229f5b517:0x5d8ef4c5abb94f10!8m2!3d19.0829624!4d72.8510463!16s%2Fg%2F11j_1_n02p!19sChIJF7X1KbLJ5zsREE-5q8X0jl0?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "http://palinfracare.in/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:25.954388Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for PAL INFRACARE. Not affiliated with or endorsed by PAL INFRACARE.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

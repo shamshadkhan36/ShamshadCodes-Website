@@ -1,0 +1,79 @@
+{
+  "slug": "adv-ashrafali-a-mistry",
+  "businessName": "Adv. Ashrafali A. Mistry - Criminal",
+  "category": "Lawyer",
+  "templateType": "real_estate",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "http://advocateashrafalimistry.in/",
+  "tagline": "Exclusive Land & Property Investments in Shop no 9, Rehmat apartment, near hilton bakery, opp. axis bank atm",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across Shop no 9, Rehmat apartment, near hilton bakery, opp. axis bank atm",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by Adv. Ashrafali A. Mistry - Criminal with verified titles and transparent documentation.",
+  "aboutStory": "Adv. Ashrafali A. Mistry - Criminal is a premier land advisory firm rooted along Shop no 9, Rehmat apartment, near hilton bakery, opp. axis bank atm. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along Shop no 9, Rehmat apartment, near hilton bakery, opp. axis bank atm. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in Shop no 9, Rehmat apartment, near hilton bakery, opp. axis bank atm."
+    }
+  ],
+  "contact": {
+    "phone": "+91 90298 71555",
+    "phoneRaw": "9029871555",
+    "whatsappLink": "https://wa.me/919029871555?text=Hello%20Adv.%20Ashrafali%20A.%20Mistry%20-%20Criminal,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Shop no 9, Rehmat apartment, near hilton bakery, opp. axis bank atm",
+    "googleMapsLink": "https://www.google.com/maps/place/Adv.+Ashrafali+A.+Mistry+-+Criminal,Property,Family+matter,Civil,NGO,Cheque,money+lending+licence,7%2F12,Best+lawyer+in+Mumbra/data=!4m7!3m6!1s0x3be7bf9ee0f1f103:0x35b13143d89e4935!8m2!3d19.1647361!4d73.0272473!16s%2Fg%2F11ms7g1d45!19sChIJA_Hx4J6_5zsRNUme2EMxsTU?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "http://advocateashrafalimistry.in/"
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:27.067447Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Adv. Ashrafali A. Mistry - Criminal. Not affiliated with or endorsed by Adv. Ashrafali A. Mistry - Criminal.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

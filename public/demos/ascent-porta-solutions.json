@@ -1,0 +1,76 @@
+{
+  "slug": "ascent-porta-solutions",
+  "businessName": "Ascent Porta Solutions",
+  "category": "Manufacturer",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://asprefab.com/",
+  "tagline": "Strategic Commercial & Professional Advisory in Room No.302, B Wing Kausa Shehz Mumbra Thane, Opposot Indian Oil Petrol Pump",
+  "heroHeadline": "Results-Driven Strategic Advisory with Ascent Porta Solutions",
+  "heroSubheadline": "Partnering with businesses and private clients in Room No.302, B Wing Kausa Shehz Mumbra Thane, Opposot Indian Oil Petrol Pump to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from Room No.302, B Wing Kausa Shehz Mumbra Thane, Opposot Indian Oil Petrol Pump, Ascent Porta Solutions combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Manufacturer Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to Room No.302, B Wing Kausa Shehz Mumbra Thane, Opposot Indian Oil Petrol Pump.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 91373 79625",
+    "phoneRaw": "9137379625",
+    "whatsappLink": "https://wa.me/919137379625?text=Hello%20Ascent%20Porta%20Solutions,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Room No.302, B Wing Kausa Shehz Mumbra Thane, Opposot Indian Oil Petrol Pump",
+    "googleMapsLink": "https://www.google.com/maps/place/Ascent+Porta+Solutions/data=!4m7!3m6!1s0x3be7bf6d15555555:0x487fb5a9cb4503d6!8m2!3d19.1669132!4d73.0271351!16s%2Fg%2F11sfrvyv3c!19sChIJVVVVFW2_5zsR1gNFy6m1f0g?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://asprefab.com/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:27.079526Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Ascent Porta Solutions. Not affiliated with or endorsed by Ascent Porta Solutions.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

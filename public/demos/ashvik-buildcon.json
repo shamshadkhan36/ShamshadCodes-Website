@@ -1,0 +1,76 @@
+{
+  "slug": "ashvik-buildcon",
+  "businessName": "Ashvik Buildcon",
+  "category": "Construction company",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "http://ashvikbuildcon.com/",
+  "tagline": "Strategic Commercial & Professional Advisory in 1443/1, opp. BBM Depot",
+  "heroHeadline": "Results-Driven Strategic Advisory with Ashvik Buildcon",
+  "heroSubheadline": "Partnering with businesses and private clients in 1443/1, opp. BBM Depot to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from 1443/1, opp. BBM Depot, Ashvik Buildcon combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Construction company Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to 1443/1, opp. BBM Depot.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 99996 48766",
+    "phoneRaw": "9999648766",
+    "whatsappLink": "https://wa.me/919999648766?text=Hello%20Ashvik%20Buildcon,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "1443/1, opp. BBM Depot",
+    "googleMapsLink": "https://www.google.com/maps/place/Ashvik+Buildcon/data=!4m7!3m6!1s0x390cfd483be79377:0x9b0a02f04528ca41!8m2!3d28.7046626!4d77.2112833!16s%2Fg%2F11ybz6hxh_!19sChIJd5PnO0j9DDkRQcooRfACCps?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "http://ashvikbuildcon.com/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:28.047025Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Ashvik Buildcon. Not affiliated with or endorsed by Ashvik Buildcon.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

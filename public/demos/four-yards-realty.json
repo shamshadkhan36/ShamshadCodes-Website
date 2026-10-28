@@ -1,0 +1,79 @@
+{
+  "slug": "four-yards-realty",
+  "businessName": "FOUR YARDS Realty",
+  "category": "Real estate consultant",
+  "templateType": "real_estate",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://wa.me/message/ZDTVZBH6MQYFM1",
+  "tagline": "Exclusive Land & Property Investments in bus stop, 10, Laxmi Chambers,Londhe Compound Goandevi, near TMT Bus stop",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across bus stop, 10, Laxmi Chambers,Londhe Compound Goandevi, near TMT Bus stop",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by FOUR YARDS Realty with verified titles and transparent documentation.",
+  "aboutStory": "FOUR YARDS Realty is a premier land advisory firm rooted along bus stop, 10, Laxmi Chambers,Londhe Compound Goandevi, near TMT Bus stop. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along bus stop, 10, Laxmi Chambers,Londhe Compound Goandevi, near TMT Bus stop. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in bus stop, 10, Laxmi Chambers,Londhe Compound Goandevi, near TMT Bus stop."
+    }
+  ],
+  "contact": {
+    "phone": "+91 77380 71118",
+    "phoneRaw": "7738071118",
+    "whatsappLink": "https://wa.me/917738071118?text=Hello%20FOUR%20YARDS%20Realty,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "bus stop, 10, Laxmi Chambers,Londhe Compound Goandevi, near TMT Bus stop",
+    "googleMapsLink": "https://www.google.com/maps/place/FOUR+YARDS+Realty+%7C+Best+Real+Estate+Consultant+In+Mumbai+%7C+Property+Consultant+In+India+%7C+Zero+Brokerage/data=!4m7!3m6!1s0x3be7b9e36283608f:0xf824363f28a328de!8m2!3d19.1892598!4d72.9752666!16s%2Fg%2F11vdkcmlzz!19sChIJj2CDYuO55zsR3iijKD82JPg?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://wa.me/message/ZDTVZBH6MQYFM1"
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:28.730553Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for FOUR YARDS Realty. Not affiliated with or endorsed by FOUR YARDS Realty.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

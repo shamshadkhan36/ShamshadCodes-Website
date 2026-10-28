@@ -1,0 +1,76 @@
+{
+  "slug": "matheran-properties-neral",
+  "businessName": "Matheran Properties Neral",
+  "category": "Construction company",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://matheranpropertiesneral.com/",
+  "tagline": "Strategic Commercial & Professional Advisory in Survey no 77/4, opp. Shireen Park, near Tulsi Darshan",
+  "heroHeadline": "Results-Driven Strategic Advisory with Matheran Properties Neral",
+  "heroSubheadline": "Partnering with businesses and private clients in Survey no 77/4, opp. Shireen Park, near Tulsi Darshan to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from Survey no 77/4, opp. Shireen Park, near Tulsi Darshan, Matheran Properties Neral combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Construction company Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to Survey no 77/4, opp. Shireen Park, near Tulsi Darshan.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 89754 34603",
+    "phoneRaw": "8975434603",
+    "whatsappLink": "https://wa.me/918975434603?text=Hello%20Matheran%20Properties%20Neral,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Survey no 77/4, opp. Shireen Park, near Tulsi Darshan",
+    "googleMapsLink": "https://www.google.com/maps/place/Matheran+Properties+Neral/data=!4m7!3m6!1s0x3be7f10e527f3c21:0xc6e3a7f3535fe6ce!8m2!3d19.0345872!4d73.3096881!16s%2Fg%2F11y3wdrjq1!19sChIJITx_Ug7x5zsRzuZfU_On48Y?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://matheranpropertiesneral.com/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:29.254292Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Matheran Properties Neral. Not affiliated with or endorsed by Matheran Properties Neral.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

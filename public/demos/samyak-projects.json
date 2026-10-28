@@ -1,0 +1,76 @@
+{
+  "slug": "samyak-projects",
+  "businessName": "Samyak Projects",
+  "category": "Construction company",
+  "templateType": "professional_services",
+  "siteType": "new",
+  "existingWebsiteUrl": null,
+  "tagline": "Strategic Commercial & Professional Advisory in Karjat - Chowk Rd",
+  "heroHeadline": "Results-Driven Strategic Advisory with Samyak Projects",
+  "heroSubheadline": "Partnering with businesses and private clients in Karjat - Chowk Rd to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from Karjat - Chowk Rd, Samyak Projects combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Construction company Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to Karjat - Chowk Rd.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 97640 45928",
+    "phoneRaw": "9764045928",
+    "whatsappLink": "https://wa.me/919764045928?text=Hello%20Samyak%20Projects,%20I%20saw%20your%20website%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Karjat - Chowk Rd",
+    "googleMapsLink": "https://www.google.com/maps/place/Samyak+Projects/data=!4m7!3m6!1s0x3be7fbee7b85727b:0x35a55b120284492!8m2!3d18.9150538!4d73.3114621!16s%2Fg%2F11whl9nvrn!19sChIJe3KFe-775zsRkkQoILFVWgM?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": null
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:29.332501Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Samyak Projects. Not affiliated with or endorsed by Samyak Projects.",
+    "redesignNotice": null
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "hoofbeat-heaven-riding-club-stud-farm",
+  "businessName": "Hoofbeat Heaven Riding Club & Stud Farm",
+  "category": "Horseback riding service",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://hoofbeat-heaven-riding.grexa.site/",
+  "tagline": "Strategic Commercial & Professional Advisory in Bhivpuri Road",
+  "heroHeadline": "Results-Driven Strategic Advisory with Hoofbeat Heaven Riding Club & Stud Farm",
+  "heroSubheadline": "Partnering with businesses and private clients in Bhivpuri Road to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from Bhivpuri Road, Hoofbeat Heaven Riding Club & Stud Farm combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Horseback riding service Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to Bhivpuri Road.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 98708 69818",
+    "phoneRaw": "9870869818",
+    "whatsappLink": "https://wa.me/919870869818?text=Hello%20Hoofbeat%20Heaven%20Riding%20Club%20&%20Stud%20Farm,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Bhivpuri Road",
+    "googleMapsLink": "https://www.google.com/maps/place/Hoofbeat+Heaven+Riding+Club+%26+Stud+Farm/data=!4m7!3m6!1s0x3be7fb44ad517ebf:0x2a4f8aa608e3dbdc!8m2!3d18.9810862!4d73.3385236!16s%2Fg%2F11w3t54d3p!19sChIJv35RrUT75zsR3NvjCKaKTyo?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://hoofbeat-heaven-riding.grexa.site/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:29.455496Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Hoofbeat Heaven Riding Club & Stud Farm. Not affiliated with or endorsed by Hoofbeat Heaven Riding Club & Stud Farm.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

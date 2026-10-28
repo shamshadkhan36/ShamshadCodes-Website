@@ -1,0 +1,76 @@
+{
+  "slug": "pg-king",
+  "businessName": "PG KING - Paying Guest Accommodations",
+  "category": "Student dormitory",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://pgkingmumbai.com/",
+  "tagline": "Strategic Commercial & Professional Advisory in F-349, Lal Bahadur Shastri Marg, near Bhandup Station Road",
+  "heroHeadline": "Results-Driven Strategic Advisory with PG KING - Paying Guest Accommodations",
+  "heroSubheadline": "Partnering with businesses and private clients in F-349, Lal Bahadur Shastri Marg, near Bhandup Station Road to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from F-349, Lal Bahadur Shastri Marg, near Bhandup Station Road, PG KING - Paying Guest Accommodations combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Student dormitory Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to F-349, Lal Bahadur Shastri Marg, near Bhandup Station Road.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 98703 23234",
+    "phoneRaw": "9870323234",
+    "whatsappLink": "https://wa.me/919870323234?text=Hello%20PG%20KING%20-%20Paying%20Guest%20Accommodations,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "F-349, Lal Bahadur Shastri Marg, near Bhandup Station Road",
+    "googleMapsLink": "https://www.google.com/maps/place/PG+KING+-+Paying+Guest+Accommodations/data=!4m7!3m6!1s0x3be7b995dab21a85:0x255338acaf5b1582!8m2!3d19.1455627!4d72.9366124!16s%2Fg%2F11n0xttncg!19sChIJhRqy2pW55zsRghVbr6w4UyU?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://pgkingmumbai.com/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:27.534968Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for PG KING - Paying Guest Accommodations. Not affiliated with or endorsed by PG KING - Paying Guest Accommodations.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

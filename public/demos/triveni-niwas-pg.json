@@ -1,0 +1,76 @@
+{
+  "slug": "triveni-niwas-pg",
+  "businessName": "Triveni Niwas PG",
+  "category": "Condominium rental agency",
+  "templateType": "professional_services",
+  "siteType": "new",
+  "existingWebsiteUrl": null,
+  "tagline": "Strategic Commercial & Professional Advisory in K103",
+  "heroHeadline": "Results-Driven Strategic Advisory with Triveni Niwas PG",
+  "heroSubheadline": "Partnering with businesses and private clients in K103 to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from K103, Triveni Niwas PG combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Condominium rental agency Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to K103.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 96534 75703",
+    "phoneRaw": "9653475703",
+    "whatsappLink": "https://wa.me/919653475703?text=Hello%20Triveni%20Niwas%20PG,%20I%20saw%20your%20website%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "K103",
+    "googleMapsLink": "https://www.google.com/maps/place/Triveni+Niwas+PG/data=!4m7!3m6!1s0x3be7bf460c966b05:0x8e1781d34aca52bb!8m2!3d19.1533644!4d72.998179!16s%2Fg%2F11z536vpyq!19sChIJBWuWDEa_5zsRu1LKStOBF44?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": null
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:28.584706Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Triveni Niwas PG. Not affiliated with or endorsed by Triveni Niwas PG.",
+    "redesignNotice": null
+  }
+}

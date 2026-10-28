@@ -1,0 +1,76 @@
+{
+  "slug": "apna-ghar-parel",
+  "businessName": "Apna Ghar Parel",
+  "category": "Patients support association",
+  "templateType": "professional_services",
+  "siteType": "new",
+  "existingWebsiteUrl": null,
+  "tagline": "Strategic Commercial & Professional Advisory in Room no 10, shimlaq masjit chawl, SM Jadhav Rd, near sajni beauty parlour",
+  "heroHeadline": "Results-Driven Strategic Advisory with Apna Ghar Parel",
+  "heroSubheadline": "Partnering with businesses and private clients in Room no 10, shimlaq masjit chawl, SM Jadhav Rd, near sajni beauty parlour to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from Room no 10, shimlaq masjit chawl, SM Jadhav Rd, near sajni beauty parlour, Apna Ghar Parel combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Patients support association Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to Room no 10, shimlaq masjit chawl, SM Jadhav Rd, near sajni beauty parlour.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 93233 40010",
+    "phoneRaw": "9323340010",
+    "whatsappLink": "https://wa.me/919323340010?text=Hello%20Apna%20Ghar%20Parel,%20I%20saw%20your%20website%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Room no 10, shimlaq masjit chawl, SM Jadhav Rd, near sajni beauty parlour",
+    "googleMapsLink": "https://www.google.com/maps/place/Apna+Ghar+Parel/data=!4m7!3m6!1s0x3be7cf407782f15b:0xdf016b862051e085!8m2!3d19.0104567!4d72.8434308!16s%2Fg%2F11h2hh_x7f!19sChIJW_GCd0DP5zsRheBRIIZrAd8?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": null
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:26.240224Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Apna Ghar Parel. Not affiliated with or endorsed by Apna Ghar Parel.",
+    "redesignNotice": null
+  }
+}

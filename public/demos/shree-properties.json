@@ -1,0 +1,79 @@
+{
+  "slug": "shree-properties",
+  "businessName": "Shree Properties",
+  "category": "Real estate agency",
+  "templateType": "real_estate",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "http://www.shree-enterprises.co/",
+  "tagline": "Exclusive Land & Property Investments in Ambika Complex, Shop No.5,Medetiya Nagar, Mira Bhayandar Road, miraroad east,, opposite Seven Square School",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across Ambika Complex, Shop No.5,Medetiya Nagar, Mira Bhayandar Road, miraroad east,, opposite Seven Square School",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by Shree Properties with verified titles and transparent documentation.",
+  "aboutStory": "Shree Properties is a premier land advisory firm rooted along Ambika Complex, Shop No.5,Medetiya Nagar, Mira Bhayandar Road, miraroad east,, opposite Seven Square School. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along Ambika Complex, Shop No.5,Medetiya Nagar, Mira Bhayandar Road, miraroad east,, opposite Seven Square School. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in Ambika Complex, Shop No.5,Medetiya Nagar, Mira Bhayandar Road, miraroad east,, opposite Seven Square School."
+    }
+  ],
+  "contact": {
+    "phone": "+91 80970 82225",
+    "phoneRaw": "8097082225",
+    "whatsappLink": "https://wa.me/918097082225?text=Hello%20Shree%20Properties,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Ambika Complex, Shop No.5,Medetiya Nagar, Mira Bhayandar Road, miraroad east,, opposite Seven Square School",
+    "googleMapsLink": "https://www.google.com/maps/place/Shree+Properties/data=!4m7!3m6!1s0x3be7b03758afc405:0x1f1fb21cb6ec0343!8m2!3d19.2951908!4d72.8632353!16s%2Fg%2F1ptxrlhl4!19sChIJBcSvWDew5zsRQwPsthyyHx8?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "http://www.shree-enterprises.co/"
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:24.389529Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Shree Properties. Not affiliated with or endorsed by Shree Properties.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

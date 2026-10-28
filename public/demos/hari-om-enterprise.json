@@ -1,0 +1,79 @@
+{
+  "slug": "hari-om-enterprise",
+  "businessName": "Hari om Enterprise",
+  "category": "Real estate agency",
+  "templateType": "real_estate",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "http://www.brokeragefreeproperty.com/",
+  "tagline": "Exclusive Land & Property Investments in shop number 2, Shivam Shs, near shree Datguru temple",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across shop number 2, Shivam Shs, near shree Datguru temple",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by Hari om Enterprise with verified titles and transparent documentation.",
+  "aboutStory": "Hari om Enterprise is a premier land advisory firm rooted along shop number 2, Shivam Shs, near shree Datguru temple. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along shop number 2, Shivam Shs, near shree Datguru temple. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in shop number 2, Shivam Shs, near shree Datguru temple."
+    }
+  ],
+  "contact": {
+    "phone": "+91 95940 49207",
+    "phoneRaw": "9594049207",
+    "whatsappLink": "https://wa.me/919594049207?text=Hello%20Hari%20om%20Enterprise,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "shop number 2, Shivam Shs, near shree Datguru temple",
+    "googleMapsLink": "https://www.google.com/maps/place/Hari+om+Enterprise/data=!4m7!3m6!1s0x3be7bf4b97036dfd:0x1bd92edddbbb61ae!8m2!3d19.1518742!4d72.995104!16s%2Fg%2F11jg8bmjlp!19sChIJ_W0Dl0u_5zsRrmG7290u2Rs?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "http://www.brokeragefreeproperty.com/"
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:28.547203Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Hari om Enterprise. Not affiliated with or endorsed by Hari om Enterprise.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

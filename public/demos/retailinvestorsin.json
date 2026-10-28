@@ -1,0 +1,76 @@
+{
+  "slug": "retailinvestorsin",
+  "businessName": "Retailinvestors.in",
+  "category": "Financial consultant",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "http://www.retailinvestor.in/",
+  "tagline": "Strategic Commercial & Professional Advisory in P02/141, 1st, Boisar - Tarapur Rd, opp. SBI Bank",
+  "heroHeadline": "Results-Driven Strategic Advisory with Retailinvestors.in",
+  "heroSubheadline": "Partnering with businesses and private clients in P02/141, 1st, Boisar - Tarapur Rd, opp. SBI Bank to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from P02/141, 1st, Boisar - Tarapur Rd, opp. SBI Bank, Retailinvestors.in combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Financial consultant Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to P02/141, 1st, Boisar - Tarapur Rd, opp. SBI Bank.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 92606 93493",
+    "phoneRaw": "9260693493",
+    "whatsappLink": "https://wa.me/919260693493?text=Hello%20Retailinvestors.in,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "P02/141, 1st, Boisar - Tarapur Rd, opp. SBI Bank",
+    "googleMapsLink": "https://www.google.com/maps/place/Retailinvestors.in/data=!4m7!3m6!1s0x3be71f9fb59c03df:0x80ca3baf187580f1!8m2!3d19.8003736!4d72.7576741!16s%2Fg%2F11j7dbmw27!19sChIJ3wOctZ8f5zsR8YB1GK87yoA?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "http://www.retailinvestor.in/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:23.703598Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Retailinvestors.in. Not affiliated with or endorsed by Retailinvestors.in.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

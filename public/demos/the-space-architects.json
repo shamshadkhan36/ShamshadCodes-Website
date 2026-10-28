@@ -1,0 +1,76 @@
+{
+  "slug": "the-space-architects",
+  "businessName": "The Space Architects",
+  "category": "Architect",
+  "templateType": "interior_design",
+  "siteType": "new",
+  "existingWebsiteUrl": null,
+  "tagline": "Architectural Elegance & Luxury Interiors in Neminath Heights, B3-101",
+  "heroHeadline": "Crafting Timeless Living Environments & Bespoke Interiors",
+  "heroSubheadline": "Harmonizing form, function, and luxury materiality. Designed by The Space Architects for discerning homes and commercial spaces.",
+  "aboutStory": "Based in Neminath Heights, B3-101, The Space Architects transforms spatial concepts into refined living realities through bespoke cabinetry, curated lighting, and turnkey execution.",
+  "valueProposition": "Turnkey project management, transparent material sourcing, and 3D precision visualization.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Turnkey Residential Architecture",
+      "description": "End-to-end luxury living, master suite, and spatial design.",
+      "highlights": [
+        "Custom modular joinery",
+        "Bespoke architectural lighting"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Modern Modular Kitchens",
+      "description": "Ergonomic culinary spaces with European hardware.",
+      "highlights": [
+        "Quartz countertops",
+        "Smart storage systems"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial & Executive Suites",
+      "description": "Corporate workspaces engineered for aesthetics and focus.",
+      "highlights": [
+        "Acoustic optimization",
+        "Refined executive ambiance"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Photorealistic 3D Renders",
+      "description": "Walk through your space in detail before physical build begins."
+    },
+    {
+      "id": "f2",
+      "title": "Premium Material Integrity",
+      "description": "Hand-selected woods, Italian marbles, and vetted hardware."
+    },
+    {
+      "id": "f3",
+      "title": "Dedicated Project Lead",
+      "description": "Single point of accountability ensuring strict timeline compliance."
+    }
+  ],
+  "contact": {
+    "phone": "+91 96373 36257",
+    "phoneRaw": "9637336257",
+    "whatsappLink": "https://wa.me/919637336257?text=Hello%20The%20Space%20Architects,%20I%20saw%20your%20website%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Neminath Heights, B3-101",
+    "googleMapsLink": "https://www.google.com/maps/place/The+Space+Architects/data=!4m7!3m6!1s0x3be7fba5a1729f47:0x16a93ffb322df2ee!8m2!3d18.9150414!4d73.3242577!16s%2Fg%2F11lp_fcg9z!19sChIJR59yoaX75zsR7vItMvs_qRY?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": null
+  },
+  "primaryCtaText": "Book Design Consultation",
+  "secondaryCtaText": "View Spatial Portfolio",
+  "accentColor": "#d97706",
+  "generatedAt": "2026-10-28T23:51:29.370201Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for The Space Architects. Not affiliated with or endorsed by The Space Architects.",
+    "redesignNotice": null
+  }
+}

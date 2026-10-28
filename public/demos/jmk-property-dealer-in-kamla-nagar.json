@@ -1,0 +1,79 @@
+{
+  "slug": "jmk-property-dealer-in-kamla-nagar",
+  "businessName": "JMK PROPERTY Dealer in Kamla nagar",
+  "category": "Industrial real estate agency",
+  "templateType": "real_estate",
+  "siteType": "new",
+  "existingWebsiteUrl": null,
+  "tagline": "Exclusive Land & Property Investments in JMK PROPERTY, Real Estate Property Dealer Office, 2165, Ghanta Ghar Rd",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across JMK PROPERTY, Real Estate Property Dealer Office, 2165, Ghanta Ghar Rd",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by JMK PROPERTY Dealer in Kamla nagar with verified titles and transparent documentation.",
+  "aboutStory": "JMK PROPERTY Dealer in Kamla nagar is a premier land advisory firm rooted along JMK PROPERTY, Real Estate Property Dealer Office, 2165, Ghanta Ghar Rd. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along JMK PROPERTY, Real Estate Property Dealer Office, 2165, Ghanta Ghar Rd. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in JMK PROPERTY, Real Estate Property Dealer Office, 2165, Ghanta Ghar Rd."
+    }
+  ],
+  "contact": {
+    "phone": "+91 92681 65206",
+    "phoneRaw": "9268165206",
+    "whatsappLink": "https://wa.me/919268165206?text=Hello%20JMK%20PROPERTY%20Dealer%20in%20Kamla%20nagar,%20I%20saw%20your%20website%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "JMK PROPERTY, Real Estate Property Dealer Office, 2165, Ghanta Ghar Rd",
+    "googleMapsLink": "https://www.google.com/maps/place/JMK+PROPERTY+Dealer+in+Kamla+nagar/data=!4m7!3m6!1s0x390cfd5c6b79d04f:0xa531f1f4631a4453!8m2!3d28.6752328!4d77.2073128!16s%2Fg%2F11z90xlcdc!19sChIJT9B5a1z9DDkRU0QaY_TxMaU?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": null
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:28.137664Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for JMK PROPERTY Dealer in Kamla nagar. Not affiliated with or endorsed by JMK PROPERTY Dealer in Kamla nagar.",
+    "redesignNotice": null
+  }
+}

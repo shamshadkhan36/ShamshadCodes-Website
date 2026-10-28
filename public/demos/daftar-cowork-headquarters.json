@@ -1,0 +1,76 @@
+{
+  "slug": "daftar-cowork-headquarters",
+  "businessName": "Daftar Cowork Headquarters",
+  "category": "Coworking space",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://www.daftarcowork.com/",
+  "tagline": "Strategic Commercial & Professional Advisory in Building no.2, 2 minutes from, Metro Station, Main, GT Karnal Rd",
+  "heroHeadline": "Results-Driven Strategic Advisory with Daftar Cowork Headquarters",
+  "heroSubheadline": "Partnering with businesses and private clients in Building no.2, 2 minutes from, Metro Station, Main, GT Karnal Rd to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from Building no.2, 2 minutes from, Metro Station, Main, GT Karnal Rd, Daftar Cowork Headquarters combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Coworking space Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to Building no.2, 2 minutes from, Metro Station, Main, GT Karnal Rd.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 73039 34044",
+    "phoneRaw": "7303934044",
+    "whatsappLink": "https://wa.me/917303934044?text=Hello%20Daftar%20Cowork%20Headquarters,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Building no.2, 2 minutes from, Metro Station, Main, GT Karnal Rd",
+    "googleMapsLink": "https://www.google.com/maps/place/Daftar+Cowork+Headquarters+%7C+Co+Working+Space+In+Delhi/data=!4m7!3m6!1s0x390da7b1f611b397:0x892f0c210841777e!8m2!3d28.6940529!4d77.1897243!16s%2Fg%2F11gzs6cv_w!19sChIJl7MR9rGnDTkRfndBCCEML4k?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://www.daftarcowork.com/"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:28.123952Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Daftar Cowork Headquarters. Not affiliated with or endorsed by Daftar Cowork Headquarters.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

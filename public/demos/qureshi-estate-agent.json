@@ -1,0 +1,79 @@
+{
+  "slug": "qureshi-estate-agent",
+  "businessName": "Qureshi Estate Agent",
+  "category": "Real estate agency",
+  "templateType": "real_estate",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://qureshiestateagent.in/",
+  "tagline": "Exclusive Land & Property Investments in Office No 5, Basement, Noor Mahal Building, near Kalina Jama Masjid Lane",
+  "heroHeadline": "Prime Coastal, Farmhouse & Commercial Land Across Office No 5, Basement, Noor Mahal Building, near Kalina Jama Masjid Lane",
+  "heroSubheadline": "Curated portfolio of high-appreciation land parcels, beachfront retreats, and strategic industrial acreage. Advised by Qureshi Estate Agent with verified titles and transparent documentation.",
+  "aboutStory": "Qureshi Estate Agent is a premier land advisory firm rooted along Office No 5, Basement, Noor Mahal Building, near Kalina Jama Masjid Lane. We connect discerning investors, families, and commercial enterprises with verified land assets. Every parcel is physically inspected and backed by complete revenue record screening.",
+  "valueProposition": "100% verified legal titles, direct owner negotiation, and seamless on-ground site assistance.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Prime Residential Plots",
+      "description": "Scenic, high-value land parcels situated minutes from the shoreline along Office No 5, Basement, Noor Mahal Building, near Kalina Jama Masjid Lane. Ideal for luxury private villas and holiday retreats.",
+      "highlights": [
+        "100% Clear Title & Demarcation",
+        "Direct Coastal Highway Connectivity",
+        "Immediate Registry & Possession"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Agricultural Land Parcels",
+      "description": "Expansive green farm plots with fertile soil, water table access, and serene surroundings. Perfect for organic retreats and family estates.",
+      "highlights": [
+        "Sizes from 1 to 5+ Acres",
+        "Fenced Boundaries & Power Access",
+        "High Long-Term Appreciation"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Commercial Development Land",
+      "description": "Strategic commercial plots with heavy-vehicle road frontage and proximity to industrial growth corridors.",
+      "highlights": [
+        "Zoned for Warehousing & Production",
+        "Wide Access Roads & 3-Phase Power",
+        "Fast-Track Regulatory Approvals"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Verified Revenue Records",
+      "description": "Every property undergoes meticulous 7/12 title checks and boundary verifications before listing."
+    },
+    {
+      "id": "f2",
+      "title": "Direct WhatsApp Site Booking",
+      "description": "Instantly receive survey maps, Google location pins, and arrange private guided site inspections."
+    },
+    {
+      "id": "f3",
+      "title": "Deep Local Footprint",
+      "description": "Authoritative on-ground market knowledge covering growth trends, upcoming infrastructure, and realistic valuations in Office No 5, Basement, Noor Mahal Building, near Kalina Jama Masjid Lane."
+    }
+  ],
+  "contact": {
+    "phone": "+91 77387 59739",
+    "phoneRaw": "7738759739",
+    "whatsappLink": "https://wa.me/917738759739?text=Hello%20Qureshi%20Estate%20Agent,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Office No 5, Basement, Noor Mahal Building, near Kalina Jama Masjid Lane",
+    "googleMapsLink": "https://www.google.com/maps/place/Qureshi+Estate+Agent+%7C+1BHK%2F2BHK%2F3BHK+Flat+For+Rent+In+Santacruz-Properties+For+Sale-Under+Construction+Projects+In+Santacruz/data=!4m7!3m6!1s0x3be7c8f0d97718fd:0x32769ef7a235b764!8m2!3d19.0769189!4d72.8655669!16s%2Fg%2F11yh2mb0qw!19sChIJ_Rh32fDI5zsRZLc1oveedjI?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://qureshiestateagent.in/"
+  },
+  "primaryCtaText": "Schedule VIP Site Visit",
+  "secondaryCtaText": "Download Plot Layouts",
+  "accentColor": "#f59e0b",
+  "generatedAt": "2026-10-28T23:51:25.881586Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for Qureshi Estate Agent. Not affiliated with or endorsed by Qureshi Estate Agent.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}

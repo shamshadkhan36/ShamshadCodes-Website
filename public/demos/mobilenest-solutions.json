@@ -1,0 +1,76 @@
+{
+  "slug": "mobilenest-solutions",
+  "businessName": "mobilenest solutions",
+  "category": "Open",
+  "templateType": "professional_services",
+  "siteType": "redesign",
+  "existingWebsiteUrl": "https://sites.google.com/view/mobilenest-solutions",
+  "tagline": "Strategic Commercial & Professional Advisory in Closes 6 pm",
+  "heroHeadline": "Results-Driven Strategic Advisory with mobilenest solutions",
+  "heroSubheadline": "Partnering with businesses and private clients in Closes 6 pm to deliver scalable solutions and high-integrity consulting.",
+  "aboutStory": "Operating from Closes 6 pm, mobilenest solutions combines deep industry expertise with agile execution to solve complex client challenges.",
+  "valueProposition": "Senior partner access, measurable business impact, and transparent engagement models.",
+  "services": [
+    {
+      "id": "s1",
+      "title": "Core Open Solutions",
+      "description": "Comprehensive strategy and technical consulting tailored to Closes 6 pm.",
+      "highlights": [
+        "Actionable roadmap",
+        "Benchmarked industry standards"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Operational Optimization",
+      "description": "Streamlining workflows and technology integration for peak efficiency.",
+      "highlights": [
+        "Rapid turnaround",
+        "Measurable ROI"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Client Advisory & Retainers",
+      "description": "Continuous consultation and ongoing strategic support.",
+      "highlights": [
+        "Direct communication line",
+        "Dedicated advisory team"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "f1",
+      "title": "Decisive Expertise",
+      "description": "Proven methodology focused strictly on client outcomes."
+    },
+    {
+      "id": "f2",
+      "title": "Direct Partner Accessibility",
+      "description": "Work directly with senior professionals without administrative lag."
+    },
+    {
+      "id": "f3",
+      "title": "Uncompromising Integrity",
+      "description": "Complete confidentiality, transparent scopes, and reliable follow-through."
+    }
+  ],
+  "contact": {
+    "phone": "+91 79774 09732",
+    "phoneRaw": "7977409732",
+    "whatsappLink": "https://wa.me/917977409732?text=Hello%20mobilenest%20solutions,%20I%20saw%20your%20website%20redesign%20concept%20on%20ShamshadCodes%20and%20would%20like%20to%20inquire%20about%20your%20property%20listings.",
+    "address": "Closes 6 pm",
+    "googleMapsLink": "https://www.google.com/maps/place/mobilenest+solutions/data=!4m7!3m6!1s0x403d0d278ce7332b:0xed5ebbadfaecc0d6!8m2!3d19.2270477!4d73.1475494!16s%2Fg%2F11vptqdtx6!19sChIJKzPnjCcNPUAR1sDs-q27Xu0?authuser=0&hl=en&g_ep=EgoyMDI2MDkyMS4wIJJjKgBIAVAD&rclk=1",
+    "websiteUrl": "https://sites.google.com/view/mobilenest-solutions"
+  },
+  "primaryCtaText": "Schedule Consultation",
+  "secondaryCtaText": "Explore Services",
+  "accentColor": "#6366f1",
+  "generatedAt": "2026-10-28T23:51:28.884101Z",
+  "disclaimer": {
+    "isConcept": true,
+    "conceptNotice": "ShamshadCodes Concept Preview — Unofficial demonstration created for mobilenest solutions. Not affiliated with or endorsed by mobilenest solutions.",
+    "redesignNotice": "Redesign Proposal: Highlighting ultra-fast mobile loading and direct WhatsApp lead capture."
+  }
+}
